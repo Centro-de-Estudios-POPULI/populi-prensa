@@ -45,6 +45,19 @@ QUERIES = [
     ('Populi Bolivia análisis económico fiscal', False),
 ]
 
+# Excavar archivos viejos: consultas acotadas por año (Google News honra after:/before:).
+# Términos inequívocos → confiables. Cubre años que el feed reciente no devuelve.
+ARCHIVO_TERMINOS = [
+    '"Centro de Estudios POPULI"',
+    '"Fundación Populi"',
+    '"Carlos Aranda" Populi',
+    '"Oscar Tomianovic" Populi',
+]
+ARCHIVO_ANIOS = [2019, 2020, 2021, 2022, 2023, 2024, 2025]
+for _t in ARCHIVO_TERMINOS:
+    for _y in ARCHIVO_ANIOS:
+        QUERIES.append((f'{_t} after:{_y}-01-01 before:{_y + 1}-01-01', True))
+
 # Señales que confirman relevancia POPULI en un titular (para queries gated).
 SEÑALES = (
     'populi', 'atlas fiscal', 'retrato censal',
@@ -55,8 +68,8 @@ MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio',
          'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
 STOP = {'el', 'la', 'los', 'las', 'de', 'del', 'y', 'digital', 'bolivia', 'com', 'bo'}
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-MAX_ITEMS = 60
-ANTIGUEDAD_DIAS = 900  # ignora menciones más viejas que ~2.5 años
+MAX_ITEMS = 150
+ANTIGUEDAD_DIAS = 3650  # hasta ~10 años atrás (para recuperar archivos antiguos)
 
 
 def fetch(query):

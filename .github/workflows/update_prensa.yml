@@ -1,0 +1,30 @@
+name: Actualizar prensa
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # diario, 11:00 UTC (~07:00 Bolivia)
+  workflow_dispatch:        # permite ejecutarlo a mano
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar data/medios.json
+        run: python scripts/fetch_prensa.py
+
+      - name: Commit si hay cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/medios.json
+          git diff --staged --quiet || git commit -m "chore: actualizar menciones de prensa [skip ci]"
+          git push

@@ -21,24 +21,41 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-# (query, confiable). confiable=True → se queda todo; False → exige 'populi'.
+# (query, confiable).
+#   confiable=True  → se queda todo lo que devuelve Google (la query ya restringe
+#                     a POPULI por marca o por "Nombre + Populi", incluso si el
+#                     titular no menciona "populi" porque la cita va en el cuerpo).
+#   confiable=False → consulta amplia/temática: exige una SEÑAL POPULI en el titular.
 QUERIES = [
+    # Institucionales (marca inequívoca)
     ('"Centro de Estudios POPULI"', True),
     ('"Centro Populi"', True),
     ('"Fundación Populi"', True),
-    ('"Carlos Aranda" Populi Bolivia', False),
-    ('"Oscar Tomianovic" Populi', False),
-    ('"Wilboor Brun" Populi', False),
+    # Voceros: «Nombre + Populi» ya restringe en el cuerpo → se confía
+    ('"Carlos Aranda" Populi Bolivia', True),
+    ('"Oscar Mario Tomianovic" Populi', True),
+    ('"Oscar Tomianovic" Populi Bolivia', True),
+    ('"Wilboor Brun" Populi', True),
+    # Plataformas/productos y temáticas (gated por señal en titular)
     ('"Atlas Fiscal Municipal" Bolivia', False),
-    ('"Retrato Censal" Bolivia Populi', False),
+    ('"Retrato Censal" Bolivia', False),
+    ('"Observatorio de Finanzas Públicas" Bolivia', False),
+    ('"Simulador de Coparticipación" Bolivia', False),
     ('Populi "libertad económica" Bolivia', False),
+    ('Populi Bolivia análisis económico fiscal', False),
 ]
+
+# Señales que confirman relevancia POPULI en un titular (para queries gated).
+SEÑALES = (
+    'populi', 'atlas fiscal', 'retrato censal',
+    'simulador de coparticipación', 'observatorio de finanzas públicas',
+)
 
 MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio',
          'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
 STOP = {'el', 'la', 'los', 'las', 'de', 'del', 'y', 'digital', 'bolivia', 'com', 'bo'}
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-MAX_ITEMS = 12
+MAX_ITEMS = 60
 ANTIGUEDAD_DIAS = 900  # ignora menciones más viejas que ~2.5 años
 
 
@@ -94,7 +111,7 @@ def parse_feed(xml_bytes, confiable, cutoff):
             headline, outlet2 = headline.rsplit(' - ', 1)
             outlet = outlet or outlet2.strip()
 
-        if not confiable and 'populi' not in title.lower():
+        if not confiable and not any(s in title.lower() for s in SEÑALES):
             continue
 
         try:

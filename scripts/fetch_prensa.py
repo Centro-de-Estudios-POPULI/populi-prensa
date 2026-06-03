@@ -31,11 +31,26 @@ QUERIES = [
     ('"Centro de Estudios POPULI"', True),
     ('"Centro Populi"', True),
     ('"Fundación Populi"', True),
-    # Voceros: «Nombre + Populi» ya restringe en el cuerpo → se confía
+    # Voceros: «Nombre + Populi» o nombre completo ya restringen → se confía
+    ('"Carlos Augusto Aranda Herrera"', True),
     ('"Carlos Aranda" Populi Bolivia', True),
     ('"Oscar Mario Tomianovic" Populi', True),
     ('"Oscar Tomianovic" Populi Bolivia', True),
     ('"Wilboor Brun" Populi', True),
+    # Voceros + temática económica: nombre + tema + país acotan lo suficiente
+    # (homónimos del economista en Bolivia son raros; lo dudoso se purga vía bloqueados.json)
+    ('"Carlos Aranda" economista Bolivia', True),
+    ('"Carlos Aranda" análisis económico fiscal Bolivia', True),
+    ('"Oscar Tomianovic" economía Bolivia', True),
+    ('"Oscar Tomianovic" fiscal PIB inflación Bolivia', True),
+    # Restringidas por portal: Google News sí indexa estos sitios, así que captura
+    # columnas firmadas y notas donde se cita a POPULI aunque el titular no diga "populi".
+    ('"Carlos Aranda" site:eldeber.com.bo', True),
+    ('"Oscar Tomianovic" site:eldeber.com.bo', True),
+    ('"Centro de Estudios Populi" site:eldeber.com.bo', True),
+    ('Populi economía site:eldeber.com.bo', False),
+    ('"Carlos Aranda" site:nuevapresencia.com', True),
+    ('Populi site:nuevapresencia.com', False),
     # Plataformas/productos y temáticas (gated por señal en titular)
     ('"Atlas Fiscal Municipal" Bolivia', False),
     ('"Retrato Censal" Bolivia', False),
@@ -52,6 +67,8 @@ ARCHIVO_TERMINOS = [
     '"Fundación Populi"',
     '"Carlos Aranda" Populi',
     '"Oscar Tomianovic" Populi',
+    '"Carlos Aranda" site:eldeber.com.bo',
+    '"Oscar Tomianovic" site:eldeber.com.bo',
 ]
 ARCHIVO_ANIOS = [2019, 2020, 2021, 2022, 2023, 2024, 2025]
 for _t in ARCHIVO_TERMINOS:

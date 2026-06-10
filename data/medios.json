@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-09T13:39:22.916650+00:00",
-  "total": 116,
+  "actualizado": "2026-06-10T14:19:33.409173+00:00",
+  "total": 118,
   "medios": [
     {
       "outlet": "Red Uno",
@@ -51,14 +51,6 @@
       "href": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQal9oRVVWTElwZ1JmNDJPdHd2YVFjQU5mT3REWjFCeEdzQ1R3Ynd5MkdFeGtBZHlYam4yZEp5ZG1WSnQtVVBpbk5UNkoweHF5V002SVVNUHZ4cHBnN1lETEZtakE5bEwtMnQ0Q3ZMUGt6Qm9aWG1kUEdOUXdleFVJUlhpMUJTT2ZnYnVfQUdHUXl6VEVidGpDZ3pwM2x5RFJCSkJia2hLOU5LSWVEUWtNTHZPZFJ4bTJxclBkNkZJWEVTR3Rla1JuUzRoVHY2ZGRuT0JYcGV0QV8wQWNUNHIw?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Siete de cada 10 jóvenes ganan menos de Bs 2.500 por mes y quieren migrar",
-      "date": "24 de mayo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkw4Rm51VGtkNDZxV3pwNkczeTZKcFFFeEd5WWFYYWU1UGZLcHI3N2c3ZkpEVHNkTXQxUldLSVpPa3hxSGxoTXppdkg1MldPUzM2ZFRPRWcyamo5Wk5sYWFvc3lRYmRqR002YzU1a3BkVXBxQlhJaXNnZHItVlYzRFBXREJ6N2R1X3hGWl90QWx4ZzVhV1BLeFFiRlhVOFBuM1ZfT3Fjdw?oc=5"
-    },
-    {
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
@@ -99,12 +91,12 @@
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWlA0Qk5DN0hTTEdBdi1xRW82cV9lQnM5WDVxeDRyelNRRFF4ZEtVNVhkTEdQbjUwWUZYZFk4eWw3dlAzRy1oWHB3eXZPZ1NyUE51alh3c2Y1S0tUQmdRWlE1Sk9XdnN1c0NTUWQ5RUZ2U19MSHh5MjY2enVvZDhpWUk0ZWg5Y193U1Y4d3dJNDlpUmN5eW92M3ZyWWNhVnhqTERsWE9BdDJHSms?oc=5"
     },
     {
-      "outlet": "cronicadigital.cl",
-      "logo": "CC",
-      "favicon": "https://www.google.com/s2/favicons?domain=cronicadigital.cl&sz=64",
-      "quote": "El partido del Presidente boliviano Rodrigo Paz fue derrotado en los comicios regionales",
-      "date": "21 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX19ReXRNenRENFJFOXJrSmx4QXpDX3ZCd0p3YVB3OWJ6U0tJWUx2ZkJqLUpXcTA4VmFvRU9TcENfWVpDampxUktxeEtXZlA2b2hlM2d5dTcxY25aSGN1MW96NFFINHdtNzdCM25CMDRhSVJlbWh5VVFDOVNCbDlCTV9oR0p2MUw3NFNwOGgwWEVmMVFZNnJUZGNQandZRTZvaGJnTnhVRVplSEwzUmYzMmFzUGYyUQ?oc=5"
+      "outlet": "americaeconomica.com",
+      "logo": "A",
+      "favicon": "https://www.google.com/s2/favicons?domain=americaeconomica.com&sz=64",
+      "quote": "El partido del presidente boliviano Rodrigo Paz fue derrotado en los comicios regionales",
+      "date": "20 de abril, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU1ZzMGhlWDdSV2QycmF6V3J2dUdXektUckJkYU5aLXVzR3FHYVlvcFR0Q2dmQ25aOXdZcnowREhvMldfeVpwUGtLemxfemVGZGFVTDhWdjVxOXNmTjYtc2M0SWhLTmFSZjU2STFwVXNpYVdkTGFZWjZOYXRMMHZkdVRfZjNlWHllbGxXYzZ0ZVRybGw1WWFURFh4M09Hb19tWGVFNE5FYUhZUVlDXy1KR1NxdVEwMEt4b2o0ZFBoWWxQbldEVzEyaDNURVZSNGFkbkZqTNIB2gFBVV95cUxOTi01eGtZZVNOdk0tS1VLVmgzY0hQckFEb0tsbHF5RGYyTFo3XzM0WUpFRUJVcTMwYTE5c3RtLXphTTFQbmk5eGwzWWk4LWUtUEViX1NGQ2xOT0cwQ1o4OFNxUFFzbjRGX1NsdjZfUDdMaU43MVZGVk01QjdFTlZVdXRROGkxREY4RlFiNHRyOUYxaG5XVF9zN2tiVTJ5X0VCd0VZRGk3UUpxQmFpak55QWpxWVUtdDRVN3lQOUFEM29aU3FTM0x0cWFKU2FCQkxaQUcxSzJ0Z0o2UQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -275,14 +267,6 @@
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeS1GYjdGTURfZGdqWGhYRHNkeE81d3dHcUFsUG0yNUt5ZkVfMEpWT2N0Mld1dWVmZW5scERaTlQ2anBnYnVsOGZwanZGZlJfTEVCT1ltX0Rkak93QzdsU1dBdVVfT0FTSGlUWWNndHpGbWlCb3BaYnQxNm1TN1RkSjdtYTdlTm1nZ2ctYVVzVnNuMFU1TnMzeTMyVFo?oc=5"
     },
     {
-      "outlet": "ATB (Bolivia)",
-      "logo": "A",
-      "favicon": "https://www.google.com/s2/favicons?domain=atb.com.bo&sz=64",
-      "quote": "Con solo 75 millones de dólares en efectivo, el BCB advierte sobre la dependencia del oro.",
-      "date": "5 de diciembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNko1aWhvd2dpUW1OSkpFTVBwZEduVC1jM29fZjdNbHNKWWQ4QWtzc3dsejJ4Umw4d2NWLVBSSlZMT2tWZjBkUGxJckpMLVU2OHNnX2s5SUFKNU5sYl9mTk1FWTJlVWtxTExMLXhNTGpRSjlidlc2Ujloc0hOZm0ydXNMejJab1BOb01ENk91b3JSWEt5QnctWno3MjJLaTJIQm1xMmZiZUlxMzBLMkhRZ0hIUmZTUW5CYnF1Zzljei0?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -342,9 +326,25 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Repensar la seguridad jurídica",
+      "date": "20 de noviembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SRnlWVUtYdGp3UHpPSlZReHdiSVM1a1p5a3kxUXdqeUpuSEp3YUZNd1YzbzdhRTZNWFA4VllOOWNLYVRmVUZBSDJwQ2RaV181YUdJbUJMQWtFNzhLMnM3R21VeXh1Ym1jYmIyaFBJTDBfdFU3NGpvcg?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Llegó la hora de la verdad para el país: El Presupuesto General del Estado 2026",
       "date": "18 de noviembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUNVYU5nMkZDdmozVENtbkJZQy0tR19UOEdqMW1hNWtIWFJncnZXZ2xtNW9hdEJPZUNMNm5fWEIyall6eTI5RFJSa3ExUl9rNGJqQjlseDRZbndKVlI1U3dLZ2tvbC1oVm5aTzkyOE9XdVNfbEc1U2hWUU16eTEtUk1NOWcxTzJYTDF0Z2xVdjZ0bm45RU53clhBanIydw?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Óscar Tomianovic",
+      "date": "12 de noviembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LM3Z5UExkNWU2NWdOWGdHVDZDeEI5NzdGX2I0ck94OWZCdDRnUlJoSE10ekhkd21tWFN2REMyRXQxYngxSUR4MEdDWU5TeGwySTg1V0dVWWU?oc=5"
     },
     {
       "outlet": "Urgentebo",
@@ -387,6 +387,22 @@
       "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzV4RGdOWXl6SE9YOVZUcUJ0VXA4eWJETHVYbU5LVjhGX1RsUlNHU2JYQ1ZMREpGV3dFUWRUX2g4U2wxclNHZG9BeFcxNm1aZkpvaS10MFF0NlFBdGk4V3BzbVlTR3B6dEpxdERKbkphM2F0bkp5U0wxQkwzeWJQeWFrR3pwb1ZoQWhlRC00bkptUUlmUXIteFVB?oc=5"
     },
     {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "Calculan 500 mil pobres más en los últimos años",
+      "date": "16 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVdCT05tc3Y4N2tIdWNEQkcyZDIxZHo2UEZPSTRkX21UVEZ5eDI3M0NWbF9TTldnMllYSXh1ZlBMQ21nZkYxTDg1bXlXSUdKc1BCMmpQMmlPY1B4U2tuLU5sUUw4Z29ZT2dOQkExbjQwUTVjcEFmdjd1MVNWdXdHaGJ6SHBpMUlXWG9XXzgxWG1rc1Q5WmdFYzVxaw?oc=5"
+    },
+    {
+      "outlet": "Los Tiempos",
+      "logo": "T",
+      "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
+      "quote": "El dilema de cerrar o transformar las empresas públicas",
+      "date": "15 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlBua2xHVEl2R1l4aXY0N3BLN2YtTXFlU1cwOUFsN2s2VnpGWTZCeGRxRHFZdGFuQUFuUHZKZzBDdnd4ZWFveWpUTUVaZDBkdDZUeXU1bFNxT2JuR0M4WW8yZTBXR0FXUnNORFYtck04cVdOZ3p6ZFJndHVxZlRXN1p2SnkxQktCS3V5RjFfQWNvWllzVExKbkowNlAtNC1QQ0F6Si1mUm0yZw?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -395,8 +411,8 @@
       "href": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGdqWGtwemNhTWFsMFZJUjlHUXN2TGlJdDR2YkhybnhrY1NWQWJxd3J5RUtYZ0RTUWRwT0VJbjNZanFwd0JRdy1KQzJkYzVxelBJVkVTVHFuOXNMbnV1QXNjNVExMGp4Y2FlRXJOdzZfREVqTjRDQlBfLU0zMHlqenRYY1ZjNURVWUtsbA?oc=5"
     },
     {
-      "outlet": "ANF Agencia de Noticias Fides Bolivia",
-      "logo": "AAN",
+      "outlet": "Agencia de Noticias Fides",
+      "logo": "ANF",
       "favicon": "https://www.google.com/s2/favicons?domain=noticiasfides.com&sz=64",
       "quote": "Las joyas de la abuela están empeñadas y el futuro de la economía también",
       "date": "9 de octubre, 2025",
@@ -515,12 +531,12 @@
       "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGJsd3ctYUo5c1Bpd25YU1FJOG9XQlVVYmNmTzNiT3VidDgtTlp5eE15OVIzMVV0dWRGbkFzZk1rWHlxVHB3LXNpQUZOVGgwT2ItdXBEVkRSZ0VxMnRhQkhvcmRFclFfcFRHdExqSEQyZUdrZjdIaWdmM1E0eDVkSnpvLUx3UkZJRENIOWlvVmg2NHNZazJxYU4wZmFNWjA?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "El Banco Central solo devuelve 3,7% de los dólares retenidos a la banca",
       "date": "3 de agosto, 2025",
-      "href": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUtWcF8yeDZ1bVh3WWU2V1NIT25abFRjeWJwMkt6aDBnSGZ4aTFPRndKUGVkTUloUVFhZkZzcEd5b1RiWGhXRWtmMXBYcDZiNEJNNmU3clh4bGpZLTk3aHVVR3B3ZUpMUk1GUllhUWhxTVVuLVVpb3poQ3FDS1FHUnd2LWItTU54NlU2Sm1MemF3Uk01Yng1Qg?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZzBvbkE1ZW9xNlZjYThqMVhRNWhWTjB0T2Zac0hoZXNnNGtyWXpEbktkOWhuYjhBVlg5dHd2cUx1MTMzS01NaXQ2dG1Fa0pqWkMwQng0X0VKWXNBNWwtNzdrNklkbTZYbkR0cDdNd0JiLW4xLXVvRF9WV0VEODY4YUs0Sk1ZdFZKMkphZmFyMkUxeldOamlJVTFSQkxYQVNycC1QbzAtSHVSYlk?oc=5"
     },
     {
       "outlet": "El Deber",

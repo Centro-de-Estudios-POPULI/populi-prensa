@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-14T12:57:55.342291+00:00",
-  "total": 117,
+  "actualizado": "2026-06-15T16:14:05.307795+00:00",
+  "total": 115,
   "medios": [
     {
       "outlet": "Red Uno",
@@ -387,12 +387,12 @@
       "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzV4RGdOWXl6SE9YOVZUcUJ0VXA4eWJETHVYbU5LVjhGX1RsUlNHU2JYQ1ZMREpGV3dFUWRUX2g4U2wxclNHZG9BeFcxNm1aZkpvaS10MFF0NlFBdGk4V3BzbVlTR3B6dEpxdERKbkphM2F0bkp5U0wxQkwzeWJQeWFrR3pwb1ZoQWhlRC00bkptUUlmUXIteFVB?oc=5"
     },
     {
-      "outlet": "Los Tiempos",
-      "logo": "T",
-      "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
-      "quote": "El dilema de cerrar o transformar las empresas públicas",
-      "date": "15 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlBua2xHVEl2R1l4aXY0N3BLN2YtTXFlU1cwOUFsN2s2VnpGWTZCeGRxRHFZdGFuQUFuUHZKZzBDdnd4ZWFveWpUTUVaZDBkdDZUeXU1bFNxT2JuR0M4WW8yZTBXR0FXUnNORFYtck04cVdOZ3p6ZFJndHVxZlRXN1p2SnkxQktCS3V5RjFfQWNvWllzVExKbkowNlAtNC1QQ0F6Si1mUm0yZw?oc=5"
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "Calculan 500 mil pobres más en los últimos años",
+      "date": "16 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVdCT05tc3Y4N2tIdWNEQkcyZDIxZHo2UEZPSTRkX21UVEZ5eDI3M0NWbF9TTldnMllYSXh1ZlBMQ21nZkYxTDg1bXlXSUdKc1BCMmpQMmlPY1B4U2tuLU5sUUw4Z29ZT2dOQkExbjQwUTVjcEFmdjd1MVNWdXdHaGJ6SHBpMUlXWG9XXzgxWG1rc1Q5WmdFYzVxaw?oc=5"
     },
     {
       "outlet": "Asuntos Centrales",
@@ -473,14 +473,6 @@
       "quote": "Bolivia y la libertad económica ¿Por qué importa y cómo poder aplicarla?",
       "date": "1 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTFQUEdDUjlvUDNaZUxXZE15emlZcG1FTXpNTTB3cnZmdEhmZHQ0MlRCU0pVNlhlbmRqbGQ5dlJiOGZLVHZaU09IcHBjbENOcVVBSHRKMHNULTM4WVl2alJDS1BURW9hMEhGdEVScXNiWkstSzB1MnNjNUJYdXVkbnJ6OWs4MXhmdTRkekxoS09vSW1nV0c0X0I3Tm5XQW05dEpTdXpjRHV6YVdR?oc=5"
-    },
-    {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
-      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "Bolivia cae diez puestos en Libertad Económica",
-      "date": "26 de septiembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnBBQVpNM2VBd0tJd05Hc3ZiaW53U2RCVngxUlVOMkZrMkg4VEFZZVhDOXFyWTZqVU9aZVZ5eEJlSDJBQUxmS2M3RG54UWYzR1pRNnV3clhRTUR5VjV3Nzg0ZGowd0RZTzlETl9tRHlWN09GYnBhZ3FOdjhENFNVUFk5MUVuN1U4UUZJRGdlS1BZTlBwa3BfRjhR?oc=5"
     },
     {
       "outlet": "unitel.bo",
@@ -585,6 +577,14 @@
       "quote": "Nuevo Abasto: El Wall Street de las verduras y frutas, que define los precios en Santa Cruz",
       "date": "6 de julio, 2025",
       "href": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFdTNERoRXhGbUxORDU5cWtPcFZNNTE0T2RfOF9heEN0S2Y5UC12alphN2NIbDN3RzJ6aklJQ2xxQ2NHbGFtNHVFUlBTVHZTb1B4a1d6dGxRd3pzNkk2ME1DdlE5UlZDWkJsWnZuTWRKUGRWV0lpem1RYXNXa0Z5QmRnNXhHb2h2cWtaVTNZQWFBSUxOOVh0dTlGdVAtX0lWRGdEZlJadDFiRDRPcHRfTUNfYVhYc2lIMEcwNW9UVTNvTUU?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Bolivia entra en fase de estanflación: “El ajuste es inevitable y será duro”, advierte economista de Populi",
+      "date": "5 de julio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnBGR1NkNWN2M1AtWTRtTlBWNEM1Ynd4MTdpbG4tNnN5UTBmclEzLVJBVE9MOHlobjgwMnNOTE1IQllFNXduZHAzdEVxT3BfLXlrTGRPaFFiOU40WmlSMWNvMmtHaEtXZTlHTGlTNWlWbFpzUkNuVXVTUjhWbzhWaFdhMUNJbTZZZEtuZzhCbXZDVnluRm4yYUpRdUtKRzRpVUNFLTY0UmpkMTZ3UE1mTlVzSldGWVFoVHdtMEh6c1FZOFNYMEdWdHIyOEVNSHpiWG53OFhWWVJXZGs?oc=5"
     },
     {
       "outlet": "Correo del Sur",
@@ -731,14 +731,6 @@
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG5nZjBaMDJidWdlNElJbHk1VXBxOFd1UjlJQmlqemJReVJpX3ZySFJXUUROeHdEckd4aVNLN2pjM0hXRmhsWGdCM2dqdWdjWFhWbU5DSWRRekpkdjJtMzFPa0lneHlIamJBR0VCYnc5bkthZlNUZEJZZVIzZUoxOFNBcm04MkplNkJxUTVyUnpsRURPaFIzT0pkbEp1V3BDQzlUMlBxdV8wSk4xU1JldVZVS1NqaXBCOUhpWjlXNF82ZXhJNHIyMw?oc=5"
     },
     {
-      "outlet": "unitel.bo",
-      "logo": "U",
-      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
-      "quote": "Estos son los 25 productos que más subieron de precio el último año, según un estudio de Populi",
-      "date": "9 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTW9xY3c3QjItaGV1VUFxNjAtQTZLb3FYY0lfRldHMGR5djd1VDFDNWJUX01VR2QwbnlRRVFxMDQ0TkotdnBfTWc3d2tHM0lTa1NYZzZ0bFp4MkgtOEVZNFlVcERxMzR5MVc3T1NDZEhSMXhWaGZ5Z2F3b3lFUEV1dG40VUdLRnBrZjFlTnpNam9uc3RyNzBrSFpwLTFnLUxEVU5tUV80ZkREOWhKdGhzN3FtR0E3STNfeFlSUW40RkV5SGItMHFXd3VJY01pODNhMzkwb3lKdmg?oc=5"
-    },
-    {
       "outlet": "El País Tarija",
       "logo": "PT",
       "favicon": "https://www.google.com/s2/favicons?domain=elpais.bo&sz=64",
@@ -753,6 +745,14 @@
       "quote": "Aumento de precios esenciales en Bolivia: un estudio evidencia incrementos del 79%",
       "date": "9 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWRaRURsV19nQjRSQktKZ0dHcXJXMGtWQmdIbG1DWDE4M3BtdjNYRjZ2aWtDY3ZPUW96bE8tNHBPam13WENpM3UxMm5xVnZjQkRpWkJaUDVtWDdaUW5LWkdPVUk4T1NCRWdGZU81dm1EQ2RZd0JOUWxsUWpvNG4zTEdldkh6TFVqV0h5S0ZERW1VQVNIYUlWZmd3R1VGS2tNM2pSQk53WHFPblBSSmZUa1VFb0I1THE2?oc=5"
+    },
+    {
+      "outlet": "unitel.bo",
+      "logo": "U",
+      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
+      "quote": "Estos son los 25 productos que más subieron de precio el último año, según un estudio de Populi",
+      "date": "9 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTW9xY3c3QjItaGV1VUFxNjAtQTZLb3FYY0lfRldHMGR5djd1VDFDNWJUX01VR2QwbnlRRVFxMDQ0TkotdnBfTWc3d2tHM0lTa1NYZzZ0bFp4MkgtOEVZNFlVcERxMzR5MVc3T1NDZEhSMXhWaGZ5Z2F3b3lFUEV1dG40VUdLRnBrZjFlTnpNam9uc3RyNzBrSFpwLTFnLUxEVU5tUV80ZkREOWhKdGhzN3FtR0E3STNfeFlSUW40RkV5SGItMHFXd3VJY01pODNhMzkwb3lKdmg?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -817,14 +817,6 @@
       "quote": "Desequilibrio fiscal de 10 años es de $us 38.790 millones y se financia con deuda pública",
       "date": "2 de febrero, 2025",
       "href": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSTJFRlBKNm5QVlVmYWhjZ0FQblRxbHB1WVI3ZUFPRFVXNFVaUzhzZWd1Tnh4dEFRaGExdjduT2lqekRBUFh5eXEzX05nSGdIUi1fN2wzQW9vM2Y0dmduR2U5ZXY0RmxtN2dQYWZKaER5WGlWMDhhLXNFOS0yT2ttdlhQTmtDalZPdjFkVlJjYlI3bUxnUXRBRG1HRmg4Q181QzkwWkpIb3VYM1FVVG9EZFdjZDVjZG0tN3J0a2ZpZVFHNk1qdmc?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Afirman que monopolio de BoA afecta al servicio de miles de pasajeros",
-      "date": "1 de febrero, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVMtbmtxUWNZalJ6VFNMNEt1dnM0ZGlrT3dueFQwYVo5T01jMG9vQlVSWmpZUVZEc29UelR6ZHVKTGFDeWNGRHVta3VRclVOemZDZGpKbm9zMklVZWZ2R01OTEo1OUt1b3F0Q3g0eHdwbEYxNXluNEEyNmQtOXpKWGJ1VWt1ZWJKdEl2VWI1MnZnR3ZYVUF5dEVnVVQyMUlncnhnc3h6eTViUQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -897,14 +889,6 @@
       "quote": "Deforestación: El Piraí perdió un 62,65% de bosques ribereños y el Río Grande un 34,65%",
       "date": "31 de marzo, 2024",
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSXNUV1djNWNlY2E1eFY1VVFKQ0tERzF4QUZVN3RqRUNtU2dtRm9MaVRldWd6YVBtVmFBMzFqQUNkU2d2bUlYbUFjWUQtaHZrV3VoaTYzRm9QTl9US3U5b2VCcjF2RnFpeGlaNXpKcmJ3YTNYcTM1Qlc1cTQxdFFfSzhXVEpYUXU4RmJHaXA4WnRySUpjb3JHSDFlVnVQaE90ZTFPRGIxOWd4c2huY3FsX0pUemR1NDVxV1dXUkxzLXJXb3J0UHpTTA?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Metropolización, el desafío en una época de menos ingresos para los municipios",
-      "date": "23 de marzo, 2024",
-      "href": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTN4UFJSaWNWNmZ4d3ctdlRhYnFFRXNrRl9UcWRKeUNlSmJQdFAzZWhHX3UzdmMwS1h1ZjZ5Zy14eHhWSTMzSWpYeTdkM2VFTUZkcHlMcHI5dEY3SlZNSUFZYWZPVms2dGlCOTBBQUw1Z0IzOGJINTd6U0NFYTNSOFdCcm1ndFNmd295OHZKNER1aW45LTNoN2VOdDJGT0lyWW80S3UyUzh5UmEyQV9ybDRLVWxHQXEwb0RvTWpQWWFJUQ?oc=5"
     },
     {
       "outlet": "RFI",

@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-15T16:14:05.307795+00:00",
-  "total": 115,
+  "actualizado": "2026-06-16T15:49:36.804548+00:00",
+  "total": 117,
   "medios": [
     {
       "outlet": "Red Uno",
@@ -67,12 +67,12 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkw4Rm51VGtkNDZxV3pwNkczeTZKcFFFeEd5WWFYYWU1UGZLcHI3N2c3ZkpEVHNkTXQxUldLSVpPa3hxSGxoTXppdkg1MldPUzM2ZFRPRWcyamo5Wk5sYWFvc3lRYmRqR002YzU1a3BkVXBxQlhJaXNnZHItVlYzRFBXREJ6N2R1X3hGWl90QWx4ZzVhV1BLeFFiRlhVOFBuM1ZfT3Fjdw?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "outlet": "unitel.bo",
+      "logo": "U",
+      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
       "quote": "Advierten que el dólar paralelo está por debajo del referencial, que subió Bs 1 en menos de un mes",
       "date": "6 de mayo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDRRQkFESXpNTUtYaVdVWGVqdEhWUzhNemMtUXRnajdWb3FnZ2diVGp2N19oNk9JekVEZVhBMWRnTjJ0ZEg1dEk5cGtQdk9BdzZoV1ZRTENlNUlCV201c1JfdnlaVFFOdTBDSmVWSnZpcXNUVHFoWG5QMXVBUERnMDhXZnlQYUNxeld2XzBWYXAwQzhNR2RBcVkzMVh4ejQwNUhtdlYzUm1uRzgxM3hzM1NUckdkWU0zc2l4dlBn?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaW1mb2VocjFGeVFwQlg1Mm5HU0lLSlljYlN6clk2VmhndlZjekltWHZhN21hMFlQQkphNkx0bjU2SXVwQTFidVpCejBBN3ExbzBwQzVnWDRxV2FBUzFSYmJ1cV9TTGc1ZUpaZlV1bnpVekd5RDhKNWM4M3A5T2Z5ZGU3RTFCMlhGNFpTaGtrdlNZTElnM29lSWpvWXRwX05xR3VBSFFDbDlaZXl3ZnZwUVI4RWU2UGZ6NTZsOWlCTUZyQlFtMHlaWXNaXy0wbXh5UXh0RzlYRlFzLV9k?oc=5"
     },
     {
       "outlet": "unitel.bo",
@@ -291,6 +291,14 @@
       "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWVqSmpEMnQzQ2lHUTcyalEyd0FfMEpNR2RjZlM2aWc0MG9BTWw3bUs2MVdxeFdveHMzN1E4MG1HbVdVczQ0dXFfOHJ6Qkt5dFpDWlJkdGdrR1B5RUpaS25qS3pNY1hyQ0U4emloRGQ1R0NScnV0Wk9CMUhxeU0xUmJFdi1LOHJOMVRiLTRYMnpGNFpxaEwxZmt3SzZSODRfYndn?oc=5"
     },
     {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Con apenas $us 75 millones en billetes el BCB pide no depender del oro",
+      "date": "4 de diciembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0JOc1A4R0luclNvVFFEZ2t6T3B0cFNEVjM1aVUtdmxkYU9rcklfMWJfRC1WLXR1c2d2Qk1lVEVTM05zX3Z4Vy1tanY3bGFSYy1mUHJTZDROaGFrM2RvVWtoQXBVOFd5WkZjUDlWNm9sRmVObWstTnQ3UEZZa3JfejRYVVM5Y1pIeDZpc21CUUFnZlRrcm1RcHlmVVItazg?oc=5"
+    },
+    {
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
@@ -355,14 +363,6 @@
       "href": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LM3Z5UExkNWU2NWdOWGdHVDZDeEI5NzdGX2I0ck94OWZCdDRnUlJoSE10ekhkd21tWFN2REMyRXQxYngxSUR4MEdDWU5TeGwySTg1V0dVWWU?oc=5"
     },
     {
-      "outlet": "Urgentebo",
-      "logo": "U",
-      "favicon": "https://www.google.com/s2/favicons?domain=urgente.bo&sz=64",
-      "quote": "Paz afrontará el vencimiento de deudas externas y una profunda desaceleración de la economía",
-      "date": "31 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjZzT2ZISmViYlNQMG0ySlRHQktfVHQ0aElFaFJFSnRFLXp1Uy1zNER6SUJvUGFHdDJLZFRJMnNYLVY2bzh2RjVPcnB4bWZLT3dwOHg1Qzd6V05rMlkzeDdtYlhmUmJUNU5WZWdXal8wOXBRa2V6bEFMcjRxVnY5bWs1OXdaQlVsZmRaeTZGa3Yyd1RGUzN2akl0Z0JpUTNqUmZ6UkxjUS01TzRVWmJQc3psSFFaaWVHdmZNaEhaVzI?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -377,6 +377,14 @@
       "quote": "Herencia: El MAS deja un país sin oxígeno fiscal",
       "date": "20 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkR1VmpXeERkejBwRzk1bExNU3BxTzlvcVBIWkQzQ1ZHd3FOMDFGTHc2WDZtRlRzSGlhcUFPOTBSOFVQVS1BUkRtOHFJaUluQWtEcklpOEtsUG1sQU50NjRsa1Z6ZjgxTGN5ZEZWRXppaW4wLWJqUWMyS2FRRWh5cm9YdFdTRHJ0c3lVRlhDeWhBeURsYUllemxURQ?oc=5"
+    },
+    {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "Municipio de Santa Cruz acumula una deuda de más de 800 millones por mala gestión financiera, advierte economista",
+      "date": "17 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ0h2Nm95aFpDc29CWHd1cXBFNEtXUEN5VmVBM1BmR3ktdnJIbXpMRTRrQ29iUjJTbkJBOW9FRGRnRVBUZEppMEY1bEhjVVlCS01CemhJTnBsYldMZXB6QkgtZHNOdlZvZGUwb1AzRW9aZUdFZmJJaDZoWGhlWW5KRTBGVXo1ak90c3VUc1BiVUZSaFNVZHNCanM5aFBmMEZKODdpSnlWazcyVGlIZFdaMUdUR3A4Mkx2eUdGOWI3d2dfYkZIQmVZMTN1aTBjM3g5V3VHT1dhUQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -563,6 +571,14 @@
       "href": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejlnSG9nQ05FaENCY3JGcDJKai1PWi1jUlA0MGhoUFk3RWtNa3hCNC1HNTQ4S3lMbTNoNEdLbVRseFNQN2lBbkRfX2VDV2liQzNQSmdJRnJvbDhremRtSDNuNU5OR3RHNTlNcXkyd1U0Skl4NEFZaTR1YnNHbHFFNVhrZjUxdWttcDRFNVNBOGJiMTZfZ0R0TTQ2ZjZaU2Ezb0ZTcTR3?oc=5"
     },
     {
+      "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
+      "logo": "DNP",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
+      "quote": "Revelan cifras alarmantes: Bolivia necesita $us 14 mil millones para 2025 y 2026",
+      "date": "30 de julio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQUtmVkhRN1lYeDFaemcyRVk1LU9sUWVkMzVnMGlhb3NaMGd4bk1UdXZVaTQzOFBzbEdPdFhzZ2hpWFJyaXNPT2RCaHRLQWFFVTVUS0VETHBHc1h2bk9wRXVtaEpjZ3Uwbm1ycUhfTWlwSFlZYkktX2FwUlVzUlVsbVFuNjBwOHc4ck03OGFvUzhTS181czJOX0lENGpYd3hucldHZmtGLUxxdC1tUjFMbnF2QlpJdHZ2NmF4WVF4aGRlRXM?oc=5"
+    },
+    {
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
@@ -731,6 +747,14 @@
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG5nZjBaMDJidWdlNElJbHk1VXBxOFd1UjlJQmlqemJReVJpX3ZySFJXUUROeHdEckd4aVNLN2pjM0hXRmhsWGdCM2dqdWdjWFhWbU5DSWRRekpkdjJtMzFPa0lneHlIamJBR0VCYnc5bkthZlNUZEJZZVIzZUoxOFNBcm04MkplNkJxUTVyUnpsRURPaFIzT0pkbEp1V3BDQzlUMlBxdV8wSk4xU1JldVZVS1NqaXBCOUhpWjlXNF82ZXhJNHIyMw?oc=5"
     },
     {
+      "outlet": "unitel.bo",
+      "logo": "U",
+      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
+      "quote": "Estos son los 25 productos que más subieron de precio el último año, según un estudio de Populi",
+      "date": "9 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTW9xY3c3QjItaGV1VUFxNjAtQTZLb3FYY0lfRldHMGR5djd1VDFDNWJUX01VR2QwbnlRRVFxMDQ0TkotdnBfTWc3d2tHM0lTa1NYZzZ0bFp4MkgtOEVZNFlVcERxMzR5MVc3T1NDZEhSMXhWaGZ5Z2F3b3lFUEV1dG40VUdLRnBrZjFlTnpNam9uc3RyNzBrSFpwLTFnLUxEVU5tUV80ZkREOWhKdGhzN3FtR0E3STNfeFlSUW40RkV5SGItMHFXd3VJY01pODNhMzkwb3lKdmg?oc=5"
+    },
+    {
       "outlet": "El País Tarija",
       "logo": "PT",
       "favicon": "https://www.google.com/s2/favicons?domain=elpais.bo&sz=64",
@@ -745,14 +769,6 @@
       "quote": "Aumento de precios esenciales en Bolivia: un estudio evidencia incrementos del 79%",
       "date": "9 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWRaRURsV19nQjRSQktKZ0dHcXJXMGtWQmdIbG1DWDE4M3BtdjNYRjZ2aWtDY3ZPUW96bE8tNHBPam13WENpM3UxMm5xVnZjQkRpWkJaUDVtWDdaUW5LWkdPVUk4T1NCRWdGZU81dm1EQ2RZd0JOUWxsUWpvNG4zTEdldkh6TFVqV0h5S0ZERW1VQVNIYUlWZmd3R1VGS2tNM2pSQk53WHFPblBSSmZUa1VFb0I1THE2?oc=5"
-    },
-    {
-      "outlet": "unitel.bo",
-      "logo": "U",
-      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
-      "quote": "Estos son los 25 productos que más subieron de precio el último año, según un estudio de Populi",
-      "date": "9 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTW9xY3c3QjItaGV1VUFxNjAtQTZLb3FYY0lfRldHMGR5djd1VDFDNWJUX01VR2QwbnlRRVFxMDQ0TkotdnBfTWc3d2tHM0lTa1NYZzZ0bFp4MkgtOEVZNFlVcERxMzR5MVc3T1NDZEhSMXhWaGZ5Z2F3b3lFUEV1dG40VUdLRnBrZjFlTnpNam9uc3RyNzBrSFpwLTFnLUxEVU5tUV80ZkREOWhKdGhzN3FtR0E3STNfeFlSUW40RkV5SGItMHFXd3VJY01pODNhMzkwb3lKdmg?oc=5"
     },
     {
       "outlet": "El Deber",

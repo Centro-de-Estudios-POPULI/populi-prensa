@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-16T15:49:36.804548+00:00",
-  "total": 117,
+  "actualizado": "2026-06-17T14:24:13.598903+00:00",
+  "total": 120,
   "medios": [
     {
       "outlet": "Red Uno",
@@ -115,12 +115,12 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmtET1UtN3hYc01McG1wbkhyaUdkQkJTejBDeURRMWNhVmxVT3dfS3Rmem01Wm9KRFM1YmVQcnZDWEZLVlJRdEJCaGl5NEZ6X1h3Q2Q5ZXQ5T19IQjRGeXVRenM3RnFuZUlVMTRvbzVvaVJpUVdkSUc0NG1tTHVTMGUyWlBwSktxRFVnTllRbnpXbmZyQ0Q0ZGNCSlZ1V0lDQnJRZFlQYw?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Gobernación de Santa Cruz depende del nivel central: solo el 5,4% de sus ingresos es propio, según Populi",
-      "date": "19 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOHd4RmppT2xwN3lQMEJmU2hGODJYeS04aTFwaUFLY2JtZ1pIUS1Fcmg0WGsyNkdfT2NUQnI1U3Bkc05TUFV5M2w3cU05cW5OSHZfVzRpNDlUcEdoMUs0aXlXMC12c3h2M3g0SGJxTkR0eUJlRjdMS2xNcGRQQm5SUVJIcVNQNzljWVpkQnpyMzA2M0JWLU94MlVJbUZqTk5jbWl4dHpWZjFyai1yaHVlZHdJMFZ6RUM1Wmd2MTJ4YjAyZFdHQWc?oc=5"
+      "date": "18 de abril, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnJ5eUN6M3VrNWgyWTdkdkFoME1hTkhQU2IxRlJoX0IwUGdEdHJCTUYyQ2FwNjBuMkV0UWF1TGJETDl6NG9RUndyTExlb0txSUN5QTdGanFKOWZnNmVneXZrenBHUzNWei1JTXNOVmd4X3AxZU40bFkyb3pVa1lLOXdOWlpVYkZoVXpjd2dHYjI0NmNBMVhhZ2pOWmNWVXZ6ZE43ZGJQTFZEazFXS1psNEMwYlVqZ2gwcENJ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -169,6 +169,14 @@
       "quote": "Proyección electoral: Así queda el mapa de poder en los Concejos municipales de Santa Cruz, La Paz y Cochabamba",
       "date": "23 de marzo, 2026",
       "href": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdEJObGhGWG5WM0IxRnBaaHJ0b3p0dWJkRGJnQU9ZNUVFRVE1Z0R4ZWZXa0NvQzg1M3hUcTV3clUtYTlrTko3MTRUVUVlQkpfbDdfTlVncGRkdHdDZGt2MDZOVzVYd0Y4SzhMOUFTUGJfNldrZDlwdGowdVkwYXU2ZVo0MWxJa0wtM0s5cmpHRmZFdWxsNWZHa3AyTURHMk9hamYxZ2RBaHgxaml3eUJUYTNxbk5IRnBnV1lCdE1VcGtIeXJDT21abjNsZTB2Q3JpbzhlY0tNNzhQc1RvMHlpb3Bsdl8wYURSZXljUHlScnRrVkU?oc=5"
+    },
+    {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "¿Gobernabilidad o bloqueo? Carlos Aranda lanza herramienta interactiva para entender los nuevos Concejos Municipales",
+      "date": "23 de marzo, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNakZOS3M0MURFR1I0Nks2Mk5KYVJ5UzNReGRvd2VoV1lORGpOUmNSSjNsclJ2R0FSSzROWHdxUkRpb1QxU0RFNTNMOFJNczVmVVE2eno3eXNpblFGM2Q3aG41dFlQZW84QjBlVHFjWWJuamZJVDlpV292MVZRbDd6LW5aLUZNS0VSbHRmWFZuTmFYdlViOEdndDJXNHhfVkpWT0w5SFVqbHhwNXZsMVFGWkptNnQwcEhhdUZDUEtFVEFkaWNpa3VnS1ZkQ1VvNVpFQ1NIMTJOZTFXUQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -227,20 +235,20 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEdaRUdrU0ttdjZiSFJ5d2JzdEJ6WXJFSndyb19fMEFQdDFhNTNlak95MDU0NFRuUFcwejRWc0lGZ3hIV2hWZmJPSkpNckJXZUh6YzJIMjlobWlvVkJfRERpM1lvdTliY2pIVjFxeG9zLU5Ba2poNUFqRDFzNzJ5Z1IzSWtpZHZfSmVhenlvQ1REOHJqLUhSSGNlTFJScGNXOWwxeGFMZw?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "El monopolio y la contracción del mercado frenan liberación de vuelos",
-      "date": "15 de diciembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUxXa0QxNTZEZF9Rd05RZGphMmhzTGJ1SzNWUGx0dDlDREM2NjJsbzZHSFlLQmtkRTJFOEEtRkk0eTVmTWZuSlZIX0l1SFhJMU5BTkNzNjdsTEMwdnREam90d2pSSlUyZjZ2a0lHZVMxaEJJSGVUM05TT185cTlXNVhReWlPQlBtcXlaWUc2NkhQTnF6Q1FXSw?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Con cielos abiertos, BoA debe ser competitiva",
       "date": "15 de diciembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3kzZ2l2d3FiTmNjVVdTMnowTHZkeFd1TWFST252ek1kcDdzVDBRM21mQXBKdGFrUFhiQmNZa2lnYkJxWXM2aE84TjBwZ2ZzNlk2RkhwU2sydEpWQ3hJYkM4Q2ZRbGVlQnpsWjE3dldqOTNpM285SHUtMTZiX1owNzlVU1JTUjJ2YXVZ?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "El monopolio y la contracción del mercado frenan liberación de vuelos",
+      "date": "15 de diciembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2FTbnMxeVVBWURhdnBHVTVhYzhqWXdicG9MdkVuZ1hxREZPRnZaZVVTSW9ZaDB0cF9hTjFMV0ZnZXpad0pzQUZuRDRHbEg0UGR5UW9QS3ZseUJTME14X1hHWFJLNHpNc3ZBSGNKZHNVSjJCRkhpUE5GYjhTbkx5WXcwU3lhTTZTZF9GaWh6UDV4S0tJOExGTk1mMVBYZw?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -377,14 +385,6 @@
       "quote": "Herencia: El MAS deja un país sin oxígeno fiscal",
       "date": "20 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkR1VmpXeERkejBwRzk1bExNU3BxTzlvcVBIWkQzQ1ZHd3FOMDFGTHc2WDZtRlRzSGlhcUFPOTBSOFVQVS1BUkRtOHFJaUluQWtEcklpOEtsUG1sQU50NjRsa1Z6ZjgxTGN5ZEZWRXppaW4wLWJqUWMyS2FRRWh5cm9YdFdTRHJ0c3lVRlhDeWhBeURsYUllemxURQ?oc=5"
-    },
-    {
-      "outlet": "Nueva Presencia",
-      "logo": "NP",
-      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
-      "quote": "Municipio de Santa Cruz acumula una deuda de más de 800 millones por mala gestión financiera, advierte economista",
-      "date": "17 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ0h2Nm95aFpDc29CWHd1cXBFNEtXUEN5VmVBM1BmR3ktdnJIbXpMRTRrQ29iUjJTbkJBOW9FRGRnRVBUZEppMEY1bEhjVVlCS01CemhJTnBsYldMZXB6QkgtZHNOdlZvZGUwb1AzRW9aZUdFZmJJaDZoWGhlWW5KRTBGVXo1ak90c3VUc1BiVUZSaFNVZHNCanM5aFBmMEZKODdpSnlWazcyVGlIZFdaMUdUR3A4Mkx2eUdGOWI3d2dfYkZIQmVZMTN1aTBjM3g5V3VHT1dhUQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -529,6 +529,14 @@
       "quote": "El próximo Gobierno debe pagar más de $us 8.000 millones por deuda externa",
       "date": "10 de agosto, 2025",
       "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1lZU3EwN19NNjRDaFhCOEF4YjZpMWI0UlhWcm1NME9MOEYwZTM3Rlo5Vk51RnVQTUQ1Z0YzbHEzNF9QVWI2VkpUclA4bF9xQ3lCSnk5cFBqWjA1NC0tT1Bobkd2TVZUUFQ0X0Fmamw0bDFpR3FEZFJYVTdIOW1uRHRzNnM2Q1RYdUxieGxvSFI0MmRnQUoxT2NSeVJrSUp2NXA0TzlTSkhLWmR4?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Bolivia llega a los 200 años con inflación de dos dígitos y estancamiento productivo",
+      "date": "10 de agosto, 2025",
+      "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR3dpMmI4UzNhSnVXdnJsS2gwSy1Uc2JCc1FEdzQxdjBYdzlPLUZVeVZvcWFhcHJxXzUwX0trUEF5SEtuUGxtSi1pemkteHFNVDZLRGJGOXhIdjJtcVA0eHJ3aDhpbXN5U1VHNWR6Zi16SF93WUdZMlBnay1mNUFrNmtGX3N6TldqZkgxeVFXMmgyb0o3VWo0ZDZWWGhZbVVsQ3k4R1g0R0VndlFnQlZySmV5S0lrZ3FBRWdEUzZKVQ?oc=5"
     },
     {
       "outlet": "Agrolatam",
@@ -739,14 +747,6 @@
       "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkFFbzZWcmJjUEtzb2tBdENQSUFpNkNOeEJTT3pVOWtLM2JpRTZzNms2dEdHR2dicC1mSEhsclc5em5mU0VyVDRxY3J1LUU4TXV1c3VrWVRkMmp1UFpkX2tya05YWjR4RGtZVjlCOWRnV1FWa18yVUVTSjlWa0UyUW1wSFNYM0ZWU2x4bXh6OXlBdWFTMkZsR0w1QWJfZTBobFFueVR5dklIeFVIQmVNb3ZHMWxMMXNCSVN5SF9lWQ?oc=5"
     },
     {
-      "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
-      "logo": "DNP",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
-      "quote": "Conozca los 25 productos que más aumentaron de precio en un año, entre ellos el café",
-      "date": "9 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG5nZjBaMDJidWdlNElJbHk1VXBxOFd1UjlJQmlqemJReVJpX3ZySFJXUUROeHdEckd4aVNLN2pjM0hXRmhsWGdCM2dqdWdjWFhWbU5DSWRRekpkdjJtMzFPa0lneHlIamJBR0VCYnc5bkthZlNUZEJZZVIzZUoxOFNBcm04MkplNkJxUTVyUnpsRURPaFIzT0pkbEp1V3BDQzlUMlBxdV8wSk4xU1JldVZVS1NqaXBCOUhpWjlXNF82ZXhJNHIyMw?oc=5"
-    },
-    {
       "outlet": "unitel.bo",
       "logo": "U",
       "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
@@ -769,6 +769,14 @@
       "quote": "Aumento de precios esenciales en Bolivia: un estudio evidencia incrementos del 79%",
       "date": "9 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWRaRURsV19nQjRSQktKZ0dHcXJXMGtWQmdIbG1DWDE4M3BtdjNYRjZ2aWtDY3ZPUW96bE8tNHBPam13WENpM3UxMm5xVnZjQkRpWkJaUDVtWDdaUW5LWkdPVUk4T1NCRWdGZU81dm1EQ2RZd0JOUWxsUWpvNG4zTEdldkh6TFVqV0h5S0ZERW1VQVNIYUlWZmd3R1VGS2tNM2pSQk53WHFPblBSSmZUa1VFb0I1THE2?oc=5"
+    },
+    {
+      "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
+      "logo": "DNP",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
+      "quote": "Conozca los 25 productos que más aumentaron de precio en un año, entre ellos el café",
+      "date": "9 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG5nZjBaMDJidWdlNElJbHk1VXBxOFd1UjlJQmlqemJReVJpX3ZySFJXUUROeHdEckd4aVNLN2pjM0hXRmhsWGdCM2dqdWdjWFhWbU5DSWRRekpkdjJtMzFPa0lneHlIamJBR0VCYnc5bkthZlNUZEJZZVIzZUoxOFNBcm04MkplNkJxUTVyUnpsRURPaFIzT0pkbEp1V3BDQzlUMlBxdV8wSk4xU1JldVZVS1NqaXBCOUhpWjlXNF82ZXhJNHIyMw?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -833,6 +841,14 @@
       "quote": "Desequilibrio fiscal de 10 años es de $us 38.790 millones y se financia con deuda pública",
       "date": "2 de febrero, 2025",
       "href": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSTJFRlBKNm5QVlVmYWhjZ0FQblRxbHB1WVI3ZUFPRFVXNFVaUzhzZWd1Tnh4dEFRaGExdjduT2lqekRBUFh5eXEzX05nSGdIUi1fN2wzQW9vM2Y0dmduR2U5ZXY0RmxtN2dQYWZKaER5WGlWMDhhLXNFOS0yT2ttdlhQTmtDalZPdjFkVlJjYlI3bUxnUXRBRG1HRmg4Q181QzkwWkpIb3VYM1FVVG9EZFdjZDVjZG0tN3J0a2ZpZVFHNk1qdmc?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Proyecto de PGE 2025 prevé un 12% más en gastos y créditos externos por $us 3.400 millones",
+      "date": "26 de noviembre, 2024",
+      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUwtd0tDeDQzTE1KZ1V2a2Z3bkRUX3lNS2djNEZ5ZEpzVTUtRGdCZFZOMVh5c1Eya0RJM2F4YXVDcXVXdWlDWXUwT250ZFBZZmtaZXRsN0plZnYtaXZ2Z0x3TmJ6VnhjcU8tdzRtQzRId054c2h6Zml0ZkJ6c3d3MDJueWZZdUQ4R0hsNm90bXFqYkdHVUF3cWYwNUVfbXNVcVI1NGt6Nm11N0s4X1BLMDZ5Mkk4emxtYmc?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -907,6 +923,14 @@
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSXNUV1djNWNlY2E1eFY1VVFKQ0tERzF4QUZVN3RqRUNtU2dtRm9MaVRldWd6YVBtVmFBMzFqQUNkU2d2bUlYbUFjWUQtaHZrV3VoaTYzRm9QTl9US3U5b2VCcjF2RnFpeGlaNXpKcmJ3YTNYcTM1Qlc1cTQxdFFfSzhXVEpYUXU4RmJHaXA4WnRySUpjb3JHSDFlVnVQaE90ZTFPRGIxOWd4c2huY3FsX0pUemR1NDVxV1dXUkxzLXJXb3J0UHpTTA?oc=5"
     },
     {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Metropolización, el desafío en una época de menos ingresos para los municipios",
+      "date": "23 de marzo, 2024",
+      "href": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTN4UFJSaWNWNmZ4d3ctdlRhYnFFRXNrRl9UcWRKeUNlSmJQdFAzZWhHX3UzdmMwS1h1ZjZ5Zy14eHhWSTMzSWpYeTdkM2VFTUZkcHlMcHI5dEY3SlZNSUFZYWZPVms2dGlCOTBBQUw1Z0IzOGJINTd6U0NFYTNSOFdCcm1ndFNmd295OHZKNER1aW45LTNoN2VOdDJGT0lyWW80S3UyUzh5UmEyQV9ybDRLVWxHQXEwb0RvTWpQWWFJUQ?oc=5"
+    },
+    {
       "outlet": "RFI",
       "logo": "R",
       "favicon": "https://www.google.com/s2/favicons?domain=rfi.fr&sz=64",
@@ -931,12 +955,12 @@
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1Bac0JjZkpDbTlkZkgyS2NMT3ZYUkNEWEpQajExeXVRY3pEM21pSFJaWk9wWG5ZWGtiZm5jeTVUVE9GbGZ0NDk1VWQ5VUlOb2FDdzhqWnVNcFhmbnh5SHdwWWMyWVFOZjRhTXJtY0VWSFNhUVIzczNQUVJ3Z1ZXeFNKYlpaREJHN2lSd0pwMG1GamZZRTgxazdZZmM?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Constructores reeligieron a Carolina Gutiérrez como presidente de Cadecocruz",
-      "date": "15 de marzo, 2023",
-      "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWtROGl4cUpfVjZKVjRJM3BQQ0ZGQ3Y0WHBpaGxnRjZGb0ZEN3MwZHFGM2VMVnJ5QTMxeGNERDUwVTcyRm80VmZyOEV1aFlLMFNTZ2VOd1d2YjhLcUx5ZE1OUVhWUUlCeURDRXhLRWtZN2JPQkdSbVJjaGpDV1FDZXhZeVNYamVCSmxILTM0ZTQzQnU3NFcyNWhsbTBfTkFFemc?oc=5"
+      "outlet": "El País Tarija",
+      "logo": "PT",
+      "favicon": "https://www.google.com/s2/favicons?domain=elpais.bo&sz=64",
+      "quote": "Piden a los candidatos plantear cómo enfrentar la informalidad e incentivar la exportación",
+      "date": "22 de septiembre, 2020",
+      "href": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeXV6cUdCT1B0Skt4aXVZdm1UWWJ1NlV5Nkt3QXB1VkJ4ZHZCWXIzbk5UU3BiYzh4blJCYWlBakVTR053NnJlczNhTWMyZWRRZ2EtVWlYZEt0WVY1bGRaQy04TUN1UUZRUzk5azZqUEFGNUJfZTA5eS1FSDJTLThqM3dFb0kzQ3RNS19TaUtubHhFSkEzYnhHT1ZfczFvMVFoNHhqRmZKeDVSRVJDcGJyOHpRc1BzajJtdGMwbDJISEpVa2p4aDB1RFNfWXp3dkQzbW9UQkFfTkd6TWs?oc=5"
     }
   ]
 }

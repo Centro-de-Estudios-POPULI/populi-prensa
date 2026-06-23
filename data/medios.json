@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-06-22T15:47:54.639654+00:00",
+  "actualizado": "2026-06-23T13:38:42.312686+00:00",
   "total": 112,
   "medios": [
     {
@@ -17,14 +17,6 @@
       "quote": "Menos gas, más obligaciones: el reto que enfrentan alcaldes y gobernadores en 2026",
       "date": "2 de junio, 2026",
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUJLd25hczlpZHVRVG8tX1BmelhRXzltWWozaEFPbGdzUUJINThmT1NMbHQ0YjVjS3dOZm02YXZwRjc1UXcteHJHOHBMMzFpYjFIQjJ5aElpSUVpVGRIT3lSTUJ2WXZqTFhfamdGVmoxYjFsNzlQRmtrRElnRE9qbUloY3FMS18zVjJnd3k3aUlRZkdtUnFwSXp3Z1JadVBZNm5jSm00WEdhc1E?oc=5"
-    },
-    {
-      "outlet": "Asuntos Centrales",
-      "logo": "AC",
-      "favicon": "https://www.google.com/s2/favicons?domain=asuntoscentrales.com&sz=64",
-      "quote": "Ingresos por IDH de las gobernaciones cayeron 82% en una década, según nuevo observatorio",
-      "date": "31 de mayo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXR0VFo1cjNYU0lzNDhiNTZ4Q2RaUmxOZC1sMkVLd0RRNWFXbElBZ1lNWVFRcGFXcmRkaURDTGNGUHVoZV9EVlhfeURUejB3OWR3allDeG5nSC1zNHFWc3pQbVV5M3d3UFNBUlVadkI3djlCNmRhWGpnU1JvRmNQLTFqbXRBdGVzTG4tc0F4R1V5WE5aR3FjOW1pNE5LcFYtdmxWQTBhWUdZZHpkWHd2cDlEM0k3QUlm?oc=5"
     },
     {
       "outlet": "elmundo.com.bo",
@@ -65,6 +57,14 @@
       "quote": "Advierten que el dólar paralelo está por debajo del referencial, que subió Bs 1 en menos de un mes",
       "date": "6 de mayo, 2026",
       "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDRRQkFESXpNTUtYaVdVWGVqdEhWUzhNemMtUXRnajdWb3FnZ2diVGp2N19oNk9JekVEZVhBMWRnTjJ0ZEg1dEk5cGtQdk9BdzZoV1ZRTENlNUlCV201c1JfdnlaVFFOdTBDSmVWSnZpcXNUVHFoWG5QMXVBUERnMDhXZnlQYUNxeld2XzBWYXAwQzhNR2RBcVkzMVh4ejQwNUhtdlYzUm1uRzgxM3hzM1NUckdkWU0zc2l4dlBn?oc=5"
+    },
+    {
+      "outlet": "Red PAT",
+      "logo": "RP",
+      "favicon": "https://www.google.com/s2/favicons?domain=redpat.tv&sz=64",
+      "quote": "Dólar referencial sube Bs 1 en un mes, pero el paralelo en Santa Cruz se cotiza por debajo",
+      "date": "6 de mayo, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckZhaXJEakg5REZzY0YtY1dVOGkwV3BXTzVsMEtOQkNzUDFlUVN1RUgxR3c0Q1lSQjhJczhrQ3hXYTZTYkh2NEpiejJROUdBU3E5d2V6end3RjV4cmFHNzZqYkdDTDNtSlVZU3dCYVVaV2g4QUR3LWg5M0d1cGRvandvbENFQlRCNm9JUlJNd0FobnJBbmdoTUtqb2I1aXlXMnhUZWxkajEyNUo4cUJKbGZsR05TZlphX3ln?oc=5"
     },
     {
       "outlet": "unitel.bo",
@@ -137,6 +137,14 @@
       "quote": "Contracción proyectada en -3,2% genera presión sobre empleo, crédito e inversión",
       "date": "10 de abril, 2026",
       "href": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnlBZE1rYnprZVJ0OERWWmVCd3o0aEhXUkxGNVhCX2dha2ZzT0JpcV91NlBHdlUwRmtQTXZIOUNYTzUxcWRna2Uwc1B0V1pwNEZOS3EyaldabGZWOFVkLWdQU0E4SmtxZ3hKamRmM281cHlWX2U4RTBRcmhCd2JfMFhPdWJfWHl3QS10OWNfWGxTYTRvZlBOaE10a3p6dmJpcHd3MS1xNTZKY2UwV2c?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Ingresos Fiscales",
+      "date": "25 de marzo, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JU3YtV29Pa2FUNS0xQzQ2MWY4cnRlN1E5SnBVeWZfeWpoYVJKbHI4MFBaWEI3aElMMXA3NXAwbFNzRGV6YWY3T0o4cWZzeko0THEwTEY0RQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -265,14 +273,6 @@
       "quote": "El Banco Central y el valor referencial de las transacciones en dólares; medida acertada pero incompleta",
       "date": "9 de diciembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeS1GYjdGTURfZGdqWGhYRHNkeE81d3dHcUFsUG0yNUt5ZkVfMEpWT2N0Mld1dWVmZW5scERaTlQ2anBnYnVsOGZwanZGZlJfTEVCT1ltX0Rkak93QzdsU1dBdVVfT0FTSGlUWWNndHpGbWlCb3BaYnQxNm1TN1RkSjdtYTdlTm1nZ2ctYVVzVnNuMFU1TnMzeTMyVFo?oc=5"
-    },
-    {
-      "outlet": "ATB",
-      "logo": "A",
-      "favicon": "https://www.google.com/s2/favicons?domain=atb.com.bo&sz=64",
-      "quote": "Con solo 75 millones de dólares en efectivo, el BCB advierte sobre la dependencia del oro.",
-      "date": "5 de diciembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNko1aWhvd2dpUW1OSkpFTVBwZEduVC1jM29fZjdNbHNKWWQ4QWtzc3dsejJ4Umw4d2NWLVBSSlZMT2tWZjBkUGxJckpMLVU2OHNnX2s5SUFKNU5sYl9mTk1FWTJlVWtxTExMLXhNTGpRSjlidlc2Ujloc0hOZm0ydXNMejJab1BOb01ENk91b3JSWEt5QnctWno3MjJLaTJIQm1xMmZiZUlxMzBLMkhRZ0hIUmZTUW5CYnF1Zzljei0?oc=5"
     },
     {
       "outlet": "Correo del Sur",
@@ -675,6 +675,14 @@
       "href": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmdmM2liUzB0VE9wRlB6Yk4wRjF4UGxvTy15ZjhCWFVsTFI2b21oWG5acXZxdU1aNnlGYk8wVFBhd3lJcURiemduSGVfTnB5U1hDVFh3cEU2eEFEeW9CaXIzZlViNFQ0RzdGWE1JU2d6UEFhNVpSZ3NDd0VNQWk2QjdLY2FQLXdLLVFoY21mb2NPc0pZMnh3ZXQ3V1VYR1Nhckw3OA?oc=5"
     },
     {
+      "outlet": "El Potosí",
+      "logo": "P",
+      "favicon": "https://www.google.com/s2/favicons?domain=elpotosi.net&sz=64",
+      "quote": "Economistas identifican más causas de la inflación",
+      "date": "11 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdW9UVzhzNFNTS2VXS2dFSWZ3NlJPMjhoNVdPMHc3WV9idXoyVkd6NzEyLWIxMUM2ZDZudU1FYldvMExYRHlZeUJoZWFfMEwzYV91NDdIVE0zOVFiakpubmlKOS1tR1dSdDVQZUtzckp4QVpuUjlHcV9iUXJHR215ZW5iWl9nNFI5VVZOTURrOFVDU3EtTVpLYlJB?oc=5"
+    },
+    {
       "outlet": "unitel.bo",
       "logo": "U",
       "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
@@ -793,14 +801,6 @@
       "quote": "Desequilibrio fiscal de 10 años es de $us 38.790 millones y se financia con deuda pública",
       "date": "2 de febrero, 2025",
       "href": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSTJFRlBKNm5QVlVmYWhjZ0FQblRxbHB1WVI3ZUFPRFVXNFVaUzhzZWd1Tnh4dEFRaGExdjduT2lqekRBUFh5eXEzX05nSGdIUi1fN2wzQW9vM2Y0dmduR2U5ZXY0RmxtN2dQYWZKaER5WGlWMDhhLXNFOS0yT2ttdlhQTmtDalZPdjFkVlJjYlI3bUxnUXRBRG1HRmg4Q181QzkwWkpIb3VYM1FVVG9EZFdjZDVjZG0tN3J0a2ZpZVFHNk1qdmc?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Afirman que monopolio de BoA afecta al servicio de miles de pasajeros",
-      "date": "1 de febrero, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVMtbmtxUWNZalJ6VFNMNEt1dnM0ZGlrT3dueFQwYVo5T01jMG9vQlVSWmpZUVZEc29UelR6ZHVKTGFDeWNGRHVta3VRclVOemZDZGpKbm9zMklVZWZ2R01OTEo1OUt1b3F0Q3g0eHdwbEYxNXluNEEyNmQtOXpKWGJ1VWt1ZWJKdEl2VWI1MnZnR3ZYVUF5dEVnVVQyMUlncnhnc3h6eTViUQ?oc=5"
     },
     {
       "outlet": "El Deber",

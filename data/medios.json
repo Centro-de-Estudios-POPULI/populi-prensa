@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-06-24T13:12:52.626638+00:00",
-  "total": 110,
+  "actualizado": "2026-06-25T13:12:24.211333+00:00",
+  "total": 114,
   "medios": [
+    {
+      "outlet": "Vozpopuli",
+      "logo": "V",
+      "favicon": "https://www.google.com/s2/favicons?domain=vozpopuli.com&sz=64",
+      "quote": "La UDEF desvela una comisión de 200.000 euros a Zapatero por una mediación con el presidente de Bolivia",
+      "date": "24 de junio, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQmN4MjJzdGJTTWlVcFowaXpUbzJkb3ZkckZ4VHdUVWZCTXF4S3FVemVha1oySG04WW5BV2lla3l2QVNIcnJUb19GTXVxeGpMb0xVLUhTSEYyOUlYdHZRcl9ycTBHRDBlY1YzU0QtMEZtRmU4dmxLWUoteExnZm1FbThjTGwzTk9FXzFheV9xbDBDVFBGVG1BSjJzWFRuYk5TRjc2LUZndE9wRzdmVVNkdFJiRGFQVFFEZ2hSUVE5RXVVQ0pZWDU0NS1UM0VvTkN3a3RTbmpkbTVnNFBGWExldEVR0gHiAUFVX3lxTE9CY3gyMnN0YlNNaVVwWjBpelRvMmRvdmRyRnhUd1RVZkJNcXhLcVV6ZWFrWjJIbThZbkFXaWVreXZBU0hyclRvX0ZNdXF4akxvTFUtSFNIRjI5SVh0dlFyX3JxMEdEMGVjVjNTRC0wRm1GZTh2bEtZSi14TGdmbUVtOGNMbDNOT0VfMWF5X3FsMENUUEZUbUFKMnNYVG5iTlNGNzYtRmd0T3BHN2ZVU2R0UmJEYVBUUURnaFJRUTlFdVVDSllYNTQ1LVQzRW9OQ3drdFNuamRtNWc0UEZYTGV0RVE?oc=5"
+    },
     {
       "outlet": "Red Uno",
       "logo": "RU",
@@ -17,6 +25,14 @@
       "quote": "Menos gas, más obligaciones: el reto que enfrentan alcaldes y gobernadores en 2026",
       "date": "2 de junio, 2026",
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUJLd25hczlpZHVRVG8tX1BmelhRXzltWWozaEFPbGdzUUJINThmT1NMbHQ0YjVjS3dOZm02YXZwRjc1UXcteHJHOHBMMzFpYjFIQjJ5aElpSUVpVGRIT3lSTUJ2WXZqTFhfamdGVmoxYjFsNzlQRmtrRElnRE9qbUloY3FMS18zVjJnd3k3aUlRZkdtUnFwSXp3Z1JadVBZNm5jSm00WEdhc1E?oc=5"
+    },
+    {
+      "outlet": "Asuntos Centrales",
+      "logo": "AC",
+      "favicon": "https://www.google.com/s2/favicons?domain=asuntoscentrales.com&sz=64",
+      "quote": "Ingresos por IDH de las gobernaciones cayeron 82% en una década, según nuevo observatorio",
+      "date": "31 de mayo, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXR0VFo1cjNYU0lzNDhiNTZ4Q2RaUmxOZC1sMkVLd0RRNWFXbElBZ1lNWVFRcGFXcmRkaURDTGNGUHVoZV9EVlhfeURUejB3OWR3allDeG5nSC1zNHFWc3pQbVV5M3d3UFNBUlVadkI3djlCNmRhWGpnU1JvRmNQLTFqbXRBdGVzTG4tc0F4R1V5WE5aR3FjOW1pNE5LcFYtdmxWQTBhWUdZZHpkWHd2cDlEM0k3QUlm?oc=5"
     },
     {
       "outlet": "elmundo.com.bo",
@@ -41,6 +57,14 @@
       "quote": "La institucionalidad y la academia presentaron la primera plataforma de análisis fiscal y socioeconómico completa del país",
       "date": "28 de mayo, 2026",
       "href": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQal9oRVVWTElwZ1JmNDJPdHd2YVFjQU5mT3REWjFCeEdzQ1R3Ynd5MkdFeGtBZHlYam4yZEp5ZG1WSnQtVVBpbk5UNkoweHF5V002SVVNUHZ4cHBnN1lETEZtakE5bEwtMnQ0Q3ZMUGt6Qm9aWG1kUEdOUXdleFVJUlhpMUJTT2ZnYnVfQUdHUXl6VEVidGpDZ3pwM2x5RFJCSkJia2hLOU5LSWVEUWtNTHZPZFJ4bTJxclBkNkZJWEVTR3Rla1JuUzRoVHY2ZGRuT0JYcGV0QV8wQWNUNHIw?oc=5"
+    },
+    {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "Nueva plataforma interactiva revoluciona el análisis fiscal y socioeconómico en Bolivia: Presentan el Observatorio de Finanzas Públicas",
+      "date": "28 de mayo, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdnFaam1lOWtybHVKbENxSkVvWUdEcnlMeFNUVnJxcTRlZURDdHR5TmUyUm1NS1o0SGY3YnIwQ193aFBRZGhFY3hqLTBqdnFJR2ZmWlh1Y3puRENUN1RqSHphMVYtaUdrMWFHT25LRHZua0NkMnNaV1htZmZXdHR4MUtUYVJQbEdqY09JT0trWlkwSF9la2tLVFNPeE1DNHZlaDVkb1FSMmlYTjdKeER4WHhrQ2JDaDNGRXlXZEZnWnVNRm5BVGRaVVRmdWpaSlNQMFBaS1hPV3g1X2twWXlCRUhWdkdqNnpaTXpuaDRJYkNnV3Va?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -83,12 +107,20 @@
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWlA0Qk5DN0hTTEdBdi1xRW82cV9lQnM5WDVxeDRyelNRRFF4ZEtVNVhkTEdQbjUwWUZYZFk4eWw3dlAzRy1oWHB3eXZPZ1NyUE51alh3c2Y1S0tUQmdRWlE1Sk9XdnN1c0NTUWQ5RUZ2U19MSHh5MjY2enVvZDhpWUk0ZWg5Y193U1Y4d3dJNDlpUmN5eW92M3ZyWWNhVnhqTERsWE9BdDJHSms?oc=5"
     },
     {
-      "outlet": "americaeconomica.com",
-      "logo": "A",
-      "favicon": "https://www.google.com/s2/favicons?domain=americaeconomica.com&sz=64",
-      "quote": "El partido del presidente boliviano Rodrigo Paz fue derrotado en los comicios regionales",
-      "date": "20 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU1ZzMGhlWDdSV2QycmF6V3J2dUdXektUckJkYU5aLXVzR3FHYVlvcFR0Q2dmQ25aOXdZcnowREhvMldfeVpwUGtLemxfemVGZGFVTDhWdjVxOXNmTjYtc2M0SWhLTmFSZjU2STFwVXNpYVdkTGFZWjZOYXRMMHZkdVRfZjNlWHllbGxXYzZ0ZVRybGw1WWFURFh4M09Hb19tWGVFNE5FYUhZUVlDXy1KR1NxdVEwMEt4b2o0ZFBoWWxQbldEVzEyaDNURVZSNGFkbkZqTNIB2gFBVV95cUxOTi01eGtZZVNOdk0tS1VLVmgzY0hQckFEb0tsbHF5RGYyTFo3XzM0WUpFRUJVcTMwYTE5c3RtLXphTTFQbmk5eGwzWWk4LWUtUEViX1NGQ2xOT0cwQ1o4OFNxUFFzbjRGX1NsdjZfUDdMaU43MVZGVk01QjdFTlZVdXRROGkxREY4RlFiNHRyOUYxaG5XVF9zN2tiVTJ5X0VCd0VZRGk3UUpxQmFpak55QWpxWVUtdDRVN3lQOUFEM29aU3FTM0x0cWFKU2FCQkxaQUcxSzJ0Z0o2UQ?oc=5"
+      "outlet": "Vozpopuli",
+      "logo": "V",
+      "favicon": "https://www.google.com/s2/favicons?domain=vozpopuli.com&sz=64",
+      "quote": "La OCDE constata que el IRPF devora la mejora salarial en España",
+      "date": "22 de abril, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMmlsd29Rb1JqQjZOOWIwS3JXWVlHejYwWHlPWGVXWEFtT2JSMEdnM0h5dDg5WU5EMnZKMThJU2hOc19SdUQ1VFNwWnJraWlvWWFCdzdGSFVfWWVMd3AwanlNMy01RDN3a1RGTy1SeURTWXQtYjNkYW9vRXlmOGZLT1UwUDZnNzlVcV9xbWRXTUMweG9UVmt6OFFUOTd6cEhpOE9lZ1o5NjZZUmpZM0x1SmFfRHJxcXhrSnfSAb8BQVVfeXFMT0JDVzN1NEFsRl9Sc3NIdWdTVG5pS2VfM1BwQnR5am04emgtVUhIa191SUhqSDl1azVjVkJFUXpNbFFNM09peFRJNTd1N285RUUwbXcwcmV4Y0UtNHRoWHdyWmdLbS1qRld4YmJuRERseVR3YVVjOENNM19tUnZtb2xWTjdCVGxzeGlXZmpVQW1rZ2pTLWF4RGtBY3YtNGRMUVU3SkRnVVdObmNIZm5IdzA3ZTl2Mzg4X0JULXhsZDQ?oc=5"
+    },
+    {
+      "outlet": "cronicadigital.cl",
+      "logo": "CC",
+      "favicon": "https://www.google.com/s2/favicons?domain=cronicadigital.cl&sz=64",
+      "quote": "El partido del Presidente boliviano Rodrigo Paz fue derrotado en los comicios regionales",
+      "date": "21 de abril, 2026",
+      "href": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX19ReXRNenRENFJFOXJrSmx4QXpDX3ZCd0p3YVB3OWJ6U0tJWUx2ZkJqLUpXcTA4VmFvRU9TcENfWVpDampxUktxeEtXZlA2b2hlM2d5dTcxY25aSGN1MW96NFFINHdtNzdCM25CMDRhSVJlbWh5VVFDOVNCbDlCTV9oR0p2MUw3NFNwOGgwWEVmMVFZNnJUZGNQandZRTZvaGJnTnhVRVplSEwzUmYzMmFzUGYyUQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -193,14 +225,6 @@
       "quote": "Tren y energía nuclear están en agenda de los candidatos",
       "date": "29 de enero, 2026",
       "href": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2NjOVNEU3d6TXE4dnMyYnRCalBVTngydFJIM3d3UTJneGJBbWY4VEhfcFhQcThFTjZYV0s0aGhqM1hhVVVPRkU5Njl5WlZhemVLRWhpTmlFeGZXXzdKRXNURUFZR1R3TzZYbElmMFBZZW1vT2xhekkyRjV4NkN3LVNrSjFZTFFHbTJlQTRmZDg?oc=5"
-    },
-    {
-      "outlet": "Nueva Presencia",
-      "logo": "NP",
-      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
-      "quote": "Fallece Tito Kuramoto, referente histórico de las artes plásticas cruceñas",
-      "date": "26 de enero, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSldsaFlZZC1IQjJQcUx0aWVQWkFWdTBJUF8tYkZydzY2UjNScHpKTnhfTFZmdWQ1TkFoeDRRbTRST2RrUVVwenB0YWxIM0E5WVhwcG5SOUpjQ2hwd0pGOXdUbTFTamRJZWp3R28tejlHRTNHYmFvMzlOVVE3ZXNPSVQxbE1ySjVFVDdfSUFnSlFYM3l2V0E0emI5Yl9ObzBxVE9z?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -337,6 +361,14 @@
       "quote": "Austeridad expansiva: Los desafíos económicos del próximo Gobierno",
       "date": "28 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzdKTmx6b0Y2MmhFVFlURDZyY3dlNHdLR1JxUjJkel9JUGVSd0d2b3J4YzZuODFCdUpiQ1dIaW9ZSTdCY0NmNlp6cGUzVUZyM2RiTW43bEExYXp1RnRERTVLOC1EdkhQUEM1SzFvdHdoVnZiQVBVbVI5ellVbXR4ZTBVSzctZU5Da29jTXhwX09RQi1CR1hscUV1R3V0UXpOR2c?oc=5"
+    },
+    {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "Municipio de Santa Cruz acumula una deuda de más de 800 millones por mala gestión financiera, advierte economista",
+      "date": "17 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ0h2Nm95aFpDc29CWHd1cXBFNEtXUEN5VmVBM1BmR3ktdnJIbXpMRTRrQ29iUjJTbkJBOW9FRGRnRVBUZEppMEY1bEhjVVlCS01CemhJTnBsYldMZXB6QkgtZHNOdlZvZGUwb1AzRW9aZUdFZmJJaDZoWGhlWW5KRTBGVXo1ak90c3VUc1BiVUZSaFNVZHNCanM5aFBmMEZKODdpSnlWazcyVGlIZFdaMUdUR3A4Mkx2eUdGOWI3d2dfYkZIQmVZMTN1aTBjM3g5V3VHT1dhUQ?oc=5"
     },
     {
       "outlet": "El Deber",

@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-06-27T12:05:17.765214+00:00",
-  "total": 116,
+  "actualizado": "2026-06-28T12:12:52.353784+00:00",
+  "total": 113,
   "medios": [
+    {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "¿Fue el momento correcto? Economistas discrepan sobre el cambio flexible del dólar",
+      "date": "27 de junio, 2026",
+      "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0FwbGZTRE9HRlBOMmxLc1I4R3NCb0JZSDVOb242TDktcndmdVJhUEYzeFhVSjRJekRGZlFkM0tlb2tURkQ3M3g3aG0zWFUyR1dXak80M3NQU1FRX1BwVkJQeXI0dXo2SlFXZklRcmI1dUZoZUhrQ2UteXBmc2RZY1dvR1UxT3RDcHBkUDZlNWxFeWpLeUlvV05lYlZlaFJKU29ORWZCWQ?oc=5"
+    },
+    {
+      "outlet": "unitel.bo",
+      "logo": "U",
+      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
+      "quote": "Dólares: “En términos de transacciones, nada va a cambiar con el nuevo régimen cambiario”, señala economista",
+      "date": "27 de junio, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZzhkalhiMkRZVFpCLVJNYTI5VUdLd3pISHBtcXdoQzliUWE2WEFjZlVsUEZxX2tZT19VQnhKRUtvX1pLMGEtWVF1UFJLYS1TbkxqLU5YLVFiTUJnc08wakdyS2ZIWFpOTEZ6MnJvc1BRZW1Sa3BITk04MWs0UFU0TURLXzM2SDhPSFM0Z0xTSFJCQnRobnBIUDNkYmlmWWZYZW51MEpWZXcxakMwNEtxRXlReWpmMHd5UWFvVE1tOVpPRFJNdjkzSTEwQlhDdDNNTnFJSk9iS2hHa0NYeDJuY1FWTXI?oc=5"
+    },
     {
       "outlet": "Vozpopuli",
       "logo": "V",
@@ -9,14 +25,6 @@
       "quote": "La UDEF desvela una comisión de 200.000 euros a Zapatero por una mediación con el presidente de Bolivia",
       "date": "24 de junio, 2026",
       "href": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNlREVDhNNnhXQTBPMzRwRWZSeklTVG41bnhGa1ZxWFNEMHRCRXRJQlVKQTVEekQ1SmZzRllPQ0dreURrVGt1U3JSNmtFZlRKSmp1RU9FMjdha3RXNUZleEF6eDJGXzVrYmRmVjh5UElOeEFpUE10aUl4R3JhNi1rY0IxUkZkWkd5Rkh1djk2Z1NRYTZKTE5qT1Q1YzRvVkNsa1FzM0JrS3dCUlhRZkZQa3EyeWo2RTZHM1AtcDNrYTd3VU5EMm90cVdxZ2hneFF3MS1QT2ozUGFxSUNj0gHiAUFVX3lxTE9CY3gyMnN0YlNNaVVwWjBpelRvMmRvdmRyRnhUd1RVZkJNcXhLcVV6ZWFrWjJIbThZbkFXaWVreXZBU0hyclRvX0ZNdXF4akxvTFUtSFNIRjI5SVh0dlFyX3JxMEdEMGVjVjNTRC0wRm1GZTh2bEtZSi14TGdmbUVtOGNMbDNOT0VfMWF5X3FsMENUUEZUbUFKMnNYVG5iTlNGNzYtRmd0T3BHN2ZVU2R0UmJEYVBUUURnaFJRUTlFdVVDSllYNTQ1LVQzRW9OQ3drdFNuamRtNWc0UEZYTGV0RVE?oc=5"
-    },
-    {
-      "outlet": "Red Uno",
-      "logo": "RU",
-      "favicon": "https://www.google.com/s2/favicons?domain=reduno.com.bo&sz=64",
-      "quote": "¿Qué son los gastos hormiga y cómo afectan sus finanzas personales?",
-      "date": "8 de junio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXlWNTh1cEZoclJrZXhvWlpYUEE2VTNyanp6VGE5RVVpbjZMNmV3WmpSS2dOM2RJUEdmNW9jNVlEMnk2R2NDRTlWT3VTcTU5OTR0b1kyQXhzdmJZU0N0NGNUclh4bFhXT2tYazZ2bGd0cERsWGd0SkVKSU9PN1NGUFVONUNFcVNHV0RnQTBCTmlyNWQ2VFNHR0NfUUZ2aGdlQ2xrRWVNTTRRQjJkQ01fVml3?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -75,28 +83,12 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZkw4Rm51VGtkNDZxV3pwNkczeTZKcFFFeEd5WWFYYWU1UGZLcHI3N2c3ZkpEVHNkTXQxUldLSVpPa3hxSGxoTXppdkg1MldPUzM2ZFRPRWcyamo5Wk5sYWFvc3lRYmRqR002YzU1a3BkVXBxQlhJaXNnZHItVlYzRFBXREJ6N2R1X3hGWl90QWx4ZzVhV1BLeFFiRlhVOFBuM1ZfT3Fjdw?oc=5"
     },
     {
-      "outlet": "Vozpopuli",
-      "logo": "V",
-      "favicon": "https://www.google.com/s2/favicons?domain=vozpopuli.com&sz=64",
-      "quote": "La AIReF cuestiona las previsiones económicas \"parciales\" del Gobierno por no incluir el 'shock' energético",
-      "date": "14 de mayo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQXNDQ3pBX1kwMVM3SFZPSkVsTXY1QkNzdVRpenE2SjdzX3pqSVlFVzZiMHE5ZzhGb0JaOTI4RlZHbkEtaDV0WVk3blpsN2dnQk5tS3ppNGFwQ0ZaYVB5Y01JZm5SZFJCdWFISDdmOEpHOGg4N0hObldGaXM1WGg4NlR0czBJblBNWERTRjNCdHUxR1VKLVN5V0ctU2lZd1A0VHlSMnFMcUkwSVAxVVVjWG15c2FPVEVCUDdMU1BGZlh4aVNXVnFGckZHbzQ3UGxIbTdpQktyS2VLemNxRU13OF9KOTJBcnJlNGlxR1Fn0gHzAUFVX3lxTE85VEM3MUxIZ2NwQUd6QUNfZ2lCSVRCWU8wUFpxd1VJQ0NMaVpkZkNpREM3VlJTUTVWRDNxQkNhaHNVQWlkbzBOVFI2SktCd0lXaEE3MlVCcGEyaXZ6blVtRFFLU01pT18wRXVMQi1nd29SVDItd0tCZ08zVFBRQXdoMzR1R3JkOWlJMWFlQkpPOWRKY1N1amZsSmhYRkZneDZjMlFyX0FsQlJLY19CNVppQlUxY0lDR3o5cGowaVVOZHhCajBhYmdYQjNqZTVVWjl5MkJIOHRfV0YzcEQwSFlFZFU5SmVhV1ExbWFpQ0pHWnBmaw?oc=5"
-    },
-    {
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "Advierten que el dólar paralelo está por debajo del referencial, que subió Bs 1 en menos de un mes",
       "date": "6 de mayo, 2026",
       "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDRRQkFESXpNTUtYaVdVWGVqdEhWUzhNemMtUXRnajdWb3FnZ2diVGp2N19oNk9JekVEZVhBMWRnTjJ0ZEg1dEk5cGtQdk9BdzZoV1ZRTENlNUlCV201c1JfdnlaVFFOdTBDSmVWSnZpcXNUVHFoWG5QMXVBUERnMDhXZnlQYUNxeld2XzBWYXAwQzhNR2RBcVkzMVh4ejQwNUhtdlYzUm1uRzgxM3hzM1NUckdkWU0zc2l4dlBn?oc=5"
-    },
-    {
-      "outlet": "Red PAT",
-      "logo": "RP",
-      "favicon": "https://www.google.com/s2/favicons?domain=redpat.tv&sz=64",
-      "quote": "Dólar referencial sube Bs 1 en un mes, pero el paralelo en Santa Cruz se cotiza por debajo",
-      "date": "6 de mayo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckZhaXJEakg5REZzY0YtY1dVOGkwV3BXTzVsMEtOQkNzUDFlUVN1RUgxR3c0Q1lSQjhJczhrQ3hXYTZTYkh2NEpiejJROUdBU3E5d2V6end3RjV4cmFHNzZqYkdDTDNtSlVZU3dCYVVaV2g4QUR3LWg5M0d1cGRvandvbENFQlRCNm9JUlJNd0FobnJBbmdoTUtqb2I1aXlXMnhUZWxkajEyNUo4cUJKbGZsR05TZlphX3ln?oc=5"
     },
     {
       "outlet": "unitel.bo",
@@ -169,14 +161,6 @@
       "quote": "Contracción proyectada en -3,2% genera presión sobre empleo, crédito e inversión",
       "date": "10 de abril, 2026",
       "href": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnlBZE1rYnprZVJ0OERWWmVCd3o0aEhXUkxGNVhCX2dha2ZzT0JpcV91NlBHdlUwRmtQTXZIOUNYTzUxcWRna2Uwc1B0V1pwNEZOS3EyaldabGZWOFVkLWdQU0E4SmtxZ3hKamRmM281cHlWX2U4RTBRcmhCd2JfMFhPdWJfWHl3QS10OWNfWGxTYTRvZlBOaE10a3p6dmJpcHd3MS1xNTZKY2UwV2c?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Ingresos Fiscales",
-      "date": "25 de marzo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JU3YtV29Pa2FUNS0xQzQ2MWY4cnRlN1E5SnBVeWZfeWpoYVJKbHI4MFBaWEI3aElMMXA3NXAwbFNzRGV6YWY3T0o4cWZzeko0THEwTEY0RQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -355,14 +339,6 @@
       "href": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LM3Z5UExkNWU2NWdOWGdHVDZDeEI5NzdGX2I0ck94OWZCdDRnUlJoSE10ekhkd21tWFN2REMyRXQxYngxSUR4MEdDWU5TeGwySTg1V0dVWWU?oc=5"
     },
     {
-      "outlet": "Urgentebo",
-      "logo": "U",
-      "favicon": "https://www.google.com/s2/favicons?domain=urgente.bo&sz=64",
-      "quote": "Paz afrontará el vencimiento de deudas externas y una profunda desaceleración de la economía",
-      "date": "31 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjZzT2ZISmViYlNQMG0ySlRHQktfVHQ0aElFaFJFSnRFLXp1Uy1zNER6SUJvUGFHdDJLZFRJMnNYLVY2bzh2RjVPcnB4bWZLT3dwOHg1Qzd6V05rMlkzeDdtYlhmUmJUNU5WZWdXal8wOXBRa2V6bEFMcjRxVnY5bWs1OXdaQlVsZmRaeTZGa3Yyd1RGUzN2akl0Z0JpUTNqUmZ6UkxjUS01TzRVWmJQc3psSFFaaWVHdmZNaEhaVzI?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -497,14 +473,6 @@
       "quote": "Balance monetario: ¿La emisión y la inflación afectaron al sistema financiero?",
       "date": "26 de agosto, 2025",
       "href": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUdzLXBKUll2WDZENDlvM0pON0RpODlKTVBJdi15bkNZSkRMS05FRFhIdnRsZ3VZMUcxU25rS2t0VzBEcVNoQXA2UkhNWTMxRDExWE5yY3BJa1ZMRzE1M1czNGhwcTAzaXA4ZXJMSGVZc3ZveEVRTnNqN1VqcXVzNzI5UV9qLS1zU0FmU29VTDVnRkFsX2tISVZyYW84ekJsb1pYMjVLWHBwZ3JsenhSQXlBWQ?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Segunda vuelta: Bolivia debe elegir entre la austeridad o crecimiento con rostro social",
-      "date": "25 de agosto, 2025",
-      "href": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSE5HTDd4ZVN0SnA3SkVnYkd3ejBWdGN5QTJpdXRYaDhCY0lOdHI2LXpsRVpWTjA0dDFNNWNQSzh6eDF0SHVoNmh1aFNuMTIwa1BCWnVLZGN1TFBrSGV2UDhkNDJGS19MN3ZhLV9nR1Rta1cwWWdkLWtCenI2UDRQeGZOdzFuMjUwN2xGWWF4clp6M09Ta0QyYndpRl9jLURxZl9NZnkzWUdlSXJ2VWVCYS1OSFJ0U29sTlQ2dGQzTkpqeENl?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -785,6 +753,14 @@
       "quote": "Compras en el exterior tienen una comisión en base al dólar paralelo, según nueva determinación de la ASFI",
       "date": "25 de marzo, 2025",
       "href": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdW1OV01TVFlUSFNXYkZSUTNjQ3NNakVzc0NZZnlnUmRBVkpuU0NIcXh6VUVVMEpSOUFQc3hqaTBoZTY1aElkMV9TVERiSzdLZnNMazNNSFVfSkxrcDQ4QzNaeGFXYUV4aEdPTThPUW5RUXhGVnNwZHFRM2dQQW0xVDdNZ0psRzNNTEt0NFVZZWZyNS1Ycl9aSFQxMzFLT29YTUw1d0FudEg0ZmFKalN6a1F1ZGc1VF85YktQV2N2Qmx5MXA5Uy1rT2hrWVdNRzRNQ0JWbW5oMzUyakxSTWc?oc=5"
+    },
+    {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "Un 8% del parque automotor de Bolivia migró a GNV en 25 años",
+      "date": "25 de marzo, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdE92cWF4TW9qczN6aENqN1B4QlJPV0lLeTFaejZweW5PaThTb0pncUZnTDczcThJeXFEb29wS3IwM0VrS1lHSUw5dkZ4NUVFaXpVWEFWQnJOeENjeVJDVWhGT3pncEx5OGZVWE44cmlHNmc2MnF1emstR2U0WXpJRzdZUENWWFlUSVJRem9oWVhzRzJoM0R1TWF2dXNFdVdlWXlqdWFTNGNlZTQ?oc=5"
     },
     {
       "outlet": "El Deber",

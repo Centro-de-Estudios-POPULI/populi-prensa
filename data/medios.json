@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-06-29T14:43:31.236294+00:00",
-  "total": 110,
+  "actualizado": "2026-06-30T13:05:31.486727+00:00",
+  "total": 108,
   "medios": [
     {
       "outlet": "eju.tv",
@@ -131,12 +131,12 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmtET1UtN3hYc01McG1wbkhyaUdkQkJTejBDeURRMWNhVmxVT3dfS3Rmem01Wm9KRFM1YmVQcnZDWEZLVlJRdEJCaGl5NEZ6X1h3Q2Q5ZXQ5T19IQjRGeXVRenM3RnFuZUlVMTRvbzVvaVJpUVdkSUc0NG1tTHVTMGUyWlBwSktxRFVnTllRbnpXbmZyQ0Q0ZGNCSlZ1V0lDQnJRZFlQYw?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Gobernación de Santa Cruz depende del nivel central: solo el 5,4% de sus ingresos es propio, según Populi",
       "date": "18 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOURkN2toOHRPZDBaMmxDWHdrRElXZHdpdG1lVmlVU3oyYVZjRU4wY21zM3c2RGtoSUNEODJVVXJLalFjX184MFhTUGVaNkZMV2JfX29XUUlYQXhYUjd0M2RGZ0F5ZDZKb2JoTWFtdW9jUE1xcFdQdENuNDFqTkU4cWxRc3QxeDdyTG9iTXRYTWJZNEppOXZrSmJZZlhsTnpoVER6NW51ZWdoNXJqZHY4OV9LWFRibXRDZlZOWkZrQmZRVE0?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnJ5eUN6M3VrNWgyWTdkdkFoME1hTkhQU2IxRlJoX0IwUGdEdHJCTUYyQ2FwNjBuMkV0UWF1TGJETDl6NG9RUndyTExlb0txSUN5QTdGanFKOWZnNmVneXZrenBHUzNWei1JTXNOVmd4X3AxZU40bFkyb3pVa1lLOXdOWlpVYkZoVXpjd2dHYjI0NmNBMVhhZ2pOWmNWVXZ6ZE43ZGJQTFZEazFXS1psNEMwYlVqZ2gwcENJ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -185,6 +185,14 @@
       "quote": "Proyección electoral: Así queda el mapa de poder en los Concejos municipales de Santa Cruz, La Paz y Cochabamba",
       "date": "23 de marzo, 2026",
       "href": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdEJObGhGWG5WM0IxRnBaaHJ0b3p0dWJkRGJnQU9ZNUVFRVE1Z0R4ZWZXa0NvQzg1M3hUcTV3clUtYTlrTko3MTRUVUVlQkpfbDdfTlVncGRkdHdDZGt2MDZOVzVYd0Y4SzhMOUFTUGJfNldrZDlwdGowdVkwYXU2ZVo0MWxJa0wtM0s5cmpHRmZFdWxsNWZHa3AyTURHMk9hamYxZ2RBaHgxaml3eUJUYTNxbk5IRnBnV1lCdE1VcGtIeXJDT21abjNsZTB2Q3JpbzhlY0tNNzhQc1RvMHlpb3Bsdl8wYURSZXljUHlScnRrVkU?oc=5"
+    },
+    {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "¿Gobernabilidad o bloqueo? Carlos Aranda lanza herramienta interactiva para entender los nuevos Concejos Municipales",
+      "date": "23 de marzo, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNakZOS3M0MURFR1I0Nks2Mk5KYVJ5UzNReGRvd2VoV1lORGpOUmNSSjNsclJ2R0FSSzROWHdxUkRpb1QxU0RFNTNMOFJNczVmVVE2eno3eXNpblFGM2Q3aG41dFlQZW84QjBlVHFjWWJuamZJVDlpV292MVZRbDd6LW5aLUZNS0VSbHRmWFZuTmFYdlViOEdndDJXNHhfVkpWT0w5SFVqbHhwNXZsMVFGWkptNnQwcEhhdUZDUEtFVEFkaWNpa3VnS1ZkQ1VvNVpFQ1NIMTJOZTFXUQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -291,14 +299,6 @@
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeS1GYjdGTURfZGdqWGhYRHNkeE81d3dHcUFsUG0yNUt5ZkVfMEpWT2N0Mld1dWVmZW5scERaTlQ2anBnYnVsOGZwanZGZlJfTEVCT1ltX0Rkak93QzdsU1dBdVVfT0FTSGlUWWNndHpGbWlCb3BaYnQxNm1TN1RkSjdtYTdlTm1nZ2ctYVVzVnNuMFU1TnMzeTMyVFo?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
-      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "Economistas: “El tipo de cambio debe ser único, real y flexible”",
-      "date": "3 de diciembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMmF0anVBV2dBb0M4bzBBcTh6WWhzdWQyQUZzU3lUZkRVWVhGUzZRS1RHeWhwdnRPVzVyTC00aG5JVkZYOElod0czSENXZVdJY1FnRzc3dXRRYTdsNGJCRERqNE03MENqVlpsOFRYMUxicmI3SmpOMkJOV2lkd19sTEhpd1VTdkxxRk1rVGNJR3lZaDVEZ3M2MUpEbE9Ec2hFTDdBOWF3OGRYWlZQ?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -355,14 +355,6 @@
       "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzdKTmx6b0Y2MmhFVFlURDZyY3dlNHdLR1JxUjJkel9JUGVSd0d2b3J4YzZuODFCdUpiQ1dIaW9ZSTdCY0NmNlp6cGUzVUZyM2RiTW43bEExYXp1RnRERTVLOC1EdkhQUEM1SzFvdHdoVnZiQVBVbVI5ellVbXR4ZTBVSzctZU5Da29jTXhwX09RQi1CR1hscUV1R3V0UXpOR2c?oc=5"
     },
     {
-      "outlet": "Nueva Presencia",
-      "logo": "NP",
-      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
-      "quote": "Municipio de Santa Cruz acumula una deuda de más de 800 millones por mala gestión financiera, advierte economista",
-      "date": "17 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ0h2Nm95aFpDc29CWHd1cXBFNEtXUEN5VmVBM1BmR3ktdnJIbXpMRTRrQ29iUjJTbkJBOW9FRGRnRVBUZEppMEY1bEhjVVlCS01CemhJTnBsYldMZXB6QkgtZHNOdlZvZGUwb1AzRW9aZUdFZmJJaDZoWGhlWW5KRTBGVXo1ak90c3VUc1BiVUZSaFNVZHNCanM5aFBmMEZKODdpSnlWazcyVGlIZFdaMUdUR3A4Mkx2eUdGOWI3d2dfYkZIQmVZMTN1aTBjM3g5V3VHT1dhUQ?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -377,6 +369,14 @@
       "quote": "Calculan 500 mil pobres más en los últimos años",
       "date": "16 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVdCT05tc3Y4N2tIdWNEQkcyZDIxZHo2UEZPSTRkX21UVEZ5eDI3M0NWbF9TTldnMllYSXh1ZlBMQ21nZkYxTDg1bXlXSUdKc1BCMmpQMmlPY1B4U2tuLU5sUUw4Z29ZT2dOQkExbjQwUTVjcEFmdjd1MVNWdXdHaGJ6SHBpMUlXWG9XXzgxWG1rc1Q5WmdFYzVxaw?oc=5"
+    },
+    {
+      "outlet": "Asuntos Centrales",
+      "logo": "AC",
+      "favicon": "https://www.google.com/s2/favicons?domain=asuntoscentrales.com&sz=64",
+      "quote": "Bolivia entra en estanflación: economista advierte mayor pobreza y presión sobre empresas",
+      "date": "15 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0pKQkRIS2tZN1Fvc25FaGlQLTlLLWJWRllteU1OQ2VzU1UxZVV2S2M2VzBQSDB2RldBRllCRUtlSVlYUXdrU24wM0UzX0d5QnRaRDBkb2R6VElGcHpvT0dVTGpTdC1kWG1wZmlNUnBscHRkSExfLS1JQTRqNlRYdWlvRDhadWpEUTNtdmkxcEU2NENTaUgtclA5YVBKWHdoYmhqaXRnVnRTRnVYNXM1N2hNVkxNMjk1Z3c?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -691,14 +691,6 @@
       "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdW9UVzhzNFNTS2VXS2dFSWZ3NlJPMjhoNVdPMHc3WV9idXoyVkd6NzEyLWIxMUM2ZDZudU1FYldvMExYRHlZeUJoZWFfMEwzYV91NDdIVE0zOVFiakpubmlKOS1tR1dSdDVQZUtzckp4QVpuUjlHcV9iUXJHR215ZW5iWl9nNFI5VVZOTURrOFVDU3EtTVpLYlJB?oc=5"
     },
     {
-      "outlet": "unitel.bo",
-      "logo": "U",
-      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
-      "quote": "Economistas apuntan al financiamiento del déficit fiscal como detonante de la inflación",
-      "date": "10 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDdUZV9YdXoyMXY0bUM2MlVKZW1fblpwSXRPRUVmeTZpNWl0Z2Vha29TTHFZdG5JTnl4T2VmbTV5MHpNQ1BiRjNtNmVnVWo2cXlyOXM1QUh1RTBuR29JQ3QwMnVWbUZ1QjhfTXNaaVhxRm41bFlnc0MzLTM3NFYyN1pqZjJBX2loNFpKUFBySHdBZ2hTcTY3eW5WcnVHal9JdEp1YjJNcmNjWGlIVmlnUWlJY1RCZGdRVEdwWnR4VmlCSzl6a0tCRnJtN05Ya0U?oc=5"
-    },
-    {
       "outlet": "lapatria.bo",
       "logo": "L",
       "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
@@ -753,14 +745,6 @@
       "quote": "Compras en el exterior tienen una comisión en base al dólar paralelo, según nueva determinación de la ASFI",
       "date": "25 de marzo, 2025",
       "href": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdW1OV01TVFlUSFNXYkZSUTNjQ3NNakVzc0NZZnlnUmRBVkpuU0NIcXh6VUVVMEpSOUFQc3hqaTBoZTY1aElkMV9TVERiSzdLZnNMazNNSFVfSkxrcDQ4QzNaeGFXYUV4aEdPTThPUW5RUXhGVnNwZHFRM2dQQW0xVDdNZ0psRzNNTEt0NFVZZWZyNS1Ycl9aSFQxMzFLT29YTUw1d0FudEg0ZmFKalN6a1F1ZGc1VF85YktQV2N2Qmx5MXA5Uy1rT2hrWVdNRzRNQ0JWbW5oMzUyakxSTWc?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=epaper.eldeber.com.bo&sz=64",
-      "quote": "Conversión a GNV es solo un 8,1% del parque automotor de Bolivia 2010 8.000",
-      "date": "24 de marzo, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPQ1QtcU1iM2h5WGxzdTBEYzA1bnlZLUs1NlduSFJVMW41Vk1QWnJGcDJVN0EyazctT2ZVNWcxNWI4S0FGVmlqVy1aMG9QcjF3Y3hGY0xaaUxJamZadXVlMnNfWVU0Z09D?oc=5"
     },
     {
       "outlet": "El Deber",

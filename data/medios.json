@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-07-01T13:31:45.503889+00:00",
+  "actualizado": "2026-07-02T12:53:54.617241+00:00",
   "total": 110,
   "medios": [
+    {
+      "outlet": "facebook.com",
+      "logo": "F",
+      "favicon": "https://www.google.com/s2/favicons?domain=facebook.com&sz=64",
+      "quote": "El funcionario designado aseguró que la próxima administración heredará un fuerte desequilibrio presupuestal, una elevada carga de deuda y un déficit que obligará a tomar decisiones inmediatas",
+      "date": "1 de julio, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT0c4T09RMkQ3Mi1TeTZTTUdEcDEwVDRpcW5KT0xwRFRSZXJpUDltZjg5b1BDWFJnMnZIVk5MdEdxU1IzTkZHYnBLbnczU0RjX3J0cGN4UXJOemVvSElSOUR6WnFtemRUTndrdlk1WW44YWhDTGJDelJaQmp3YTNoU29tQ0IwNGpReW9qMHpQclJ2WXgzY0xBV1czd3U5bS1PX2ZuQVA5R0F5Qmlab0V6cVhmeTZaTGZ5dnRaTENQYk9YRmZzN2dRRms5Q0hGY2pkTWNZd2Z4VkZ4MTZBTzAzMmNBMDUtcWdYTW00ZGxBNW5CdzBhRUtEZA?oc=5"
+    },
     {
       "outlet": "eju.tv",
       "logo": "ET",
@@ -67,14 +75,6 @@
       "href": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQal9oRVVWTElwZ1JmNDJPdHd2YVFjQU5mT3REWjFCeEdzQ1R3Ynd5MkdFeGtBZHlYam4yZEp5ZG1WSnQtVVBpbk5UNkoweHF5V002SVVNUHZ4cHBnN1lETEZtakE5bEwtMnQ0Q3ZMUGt6Qm9aWG1kUEdOUXdleFVJUlhpMUJTT2ZnYnVfQUdHUXl6VEVidGpDZ3pwM2x5RFJCSkJia2hLOU5LSWVEUWtNTHZPZFJ4bTJxclBkNkZJWEVTR3Rla1JuUzRoVHY2ZGRuT0JYcGV0QV8wQWNUNHIw?oc=5"
     },
     {
-      "outlet": "Nueva Presencia",
-      "logo": "NP",
-      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
-      "quote": "Nueva plataforma interactiva revoluciona el análisis fiscal y socioeconómico en Bolivia: Presentan el Observatorio de Finanzas Públicas",
-      "date": "28 de mayo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdnFaam1lOWtybHVKbENxSkVvWUdEcnlMeFNUVnJxcTRlZURDdHR5TmUyUm1NS1o0SGY3YnIwQ193aFBRZGhFY3hqLTBqdnFJR2ZmWlh1Y3puRENUN1RqSHphMVYtaUdrMWFHT25LRHZua0NkMnNaV1htZmZXdHR4MUtUYVJQbEdqY09JT0trWlkwSF9la2tLVFNPeE1DNHZlaDVkb1FSMmlYTjdKeER4WHhrQ2JDaDNGRXlXZEZnWnVNRm5BVGRaVVRmdWpaSlNQMFBaS1hPV3g1X2twWXlCRUhWdkdqNnpaTXpuaDRJYkNnV3Va?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -131,12 +131,12 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmtET1UtN3hYc01McG1wbkhyaUdkQkJTejBDeURRMWNhVmxVT3dfS3Rmem01Wm9KRFM1YmVQcnZDWEZLVlJRdEJCaGl5NEZ6X1h3Q2Q5ZXQ5T19IQjRGeXVRenM3RnFuZUlVMTRvbzVvaVJpUVdkSUc0NG1tTHVTMGUyWlBwSktxRFVnTllRbnpXbmZyQ0Q0ZGNCSlZ1V0lDQnJRZFlQYw?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "Gobernación de Santa Cruz depende del nivel central: solo el 5,4% de sus ingresos es propio, según Populi",
-      "date": "18 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnJ5eUN6M3VrNWgyWTdkdkFoME1hTkhQU2IxRlJoX0IwUGdEdHJCTUYyQ2FwNjBuMkV0UWF1TGJETDl6NG9RUndyTExlb0txSUN5QTdGanFKOWZnNmVneXZrenBHUzNWei1JTXNOVmd4X3AxZU40bFkyb3pVa1lLOXdOWlpVYkZoVXpjd2dHYjI0NmNBMVhhZ2pOWmNWVXZ6ZE43ZGJQTFZEazFXS1psNEMwYlVqZ2gwcENJ?oc=5"
+      "date": "19 de abril, 2026",
+      "href": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOHd4RmppT2xwN3lQMEJmU2hGODJYeS04aTFwaUFLY2JtZ1pIUS1Fcmg0WGsyNkdfT2NUQnI1U3Bkc05TUFV5M2w3cU05cW5OSHZfVzRpNDlUcEdoMUs0aXlXMC12c3h2M3g0SGJxTkR0eUJlRjdMS2xNcGRQQm5SUVJIcVNQNzljWVpkQnpyMzA2M0JWLU94MlVJbUZqTk5jbWl4dHpWZjFyai1yaHVlZHdJMFZ6RUM1Wmd2MTJ4YjAyZFdHQWc?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -275,8 +275,8 @@
       "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjk0UFBTTlBpOU1ncGtEeGZRZWc4YU9SYlg1ODNhaUdIZjFVcmQwaDRRc1c5M2ZIbGF4Wm8wY0dBVlh1NnI5VjZNVmR6UFMxMEJoX05rU2drdG5uZUNiU01rUFR6OF9XbEw4R2stN1ZfSXRrRVVIbzZfR3llV1RmX3k1eXM2U2Z5NG90Qy1XZlE0d0FmcHE3ZFZR?oc=5"
     },
     {
-      "outlet": "lapatria.bo",
-      "logo": "L",
+      "outlet": "La Patria 3.0",
+      "logo": "P30",
       "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
       "quote": "El dólar en Bolivia disminuye a Bs 9,10 en el mercado paralelo",
       "date": "13 de diciembre, 2025",
@@ -297,6 +297,14 @@
       "quote": "El Banco Central y el valor referencial de las transacciones en dólares; medida acertada pero incompleta",
       "date": "9 de diciembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeS1GYjdGTURfZGdqWGhYRHNkeE81d3dHcUFsUG0yNUt5ZkVfMEpWT2N0Mld1dWVmZW5scERaTlQ2anBnYnVsOGZwanZGZlJfTEVCT1ltX0Rkak93QzdsU1dBdVVfT0FTSGlUWWNndHpGbWlCb3BaYnQxNm1TN1RkSjdtYTdlTm1nZ2ctYVVzVnNuMFU1TnMzeTMyVFo?oc=5"
+    },
+    {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "Economistas: “El tipo de cambio debe ser único, real y flexible”",
+      "date": "3 de diciembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMmF0anVBV2dBb0M4bzBBcTh6WWhzdWQyQUZzU3lUZkRVWVhGUzZRS1RHeWhwdnRPVzVyTC00aG5JVkZYOElod0czSENXZVdJY1FnRzc3dXRRYTdsNGJCRERqNE03MENqVlpsOFRYMUxicmI3SmpOMkJOV2lkd19sTEhpd1VTdkxxRk1rVGNJR3lZaDVEZ3M2MUpEbE9Ec2hFTDdBOWF3OGRYWlZQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -555,14 +563,6 @@
       "href": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFdTNERoRXhGbUxORDU5cWtPcFZNNTE0T2RfOF9heEN0S2Y5UC12alphN2NIbDN3RzJ6aklJQ2xxQ2NHbGFtNHVFUlBTVHZTb1B4a1d6dGxRd3pzNkk2ME1DdlE5UlZDWkJsWnZuTWRKUGRWV0lpem1RYXNXa0Z5QmRnNXhHb2h2cWtaVTNZQWFBSUxOOVh0dTlGdVAtX0lWRGdEZlJadDFiRDRPcHRfTUNfYVhYc2lIMEcwNW9UVTNvTUU?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Bolivia entra en fase de estanflación: “El ajuste es inevitable y será duro”, advierte economista de Populi",
-      "date": "5 de julio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnBGR1NkNWN2M1AtWTRtTlBWNEM1Ynd4MTdpbG4tNnN5UTBmclEzLVJBVE9MOHlobjgwMnNOTE1IQllFNXduZHAzdEVxT3BfLXlrTGRPaFFiOU40WmlSMWNvMmtHaEtXZTlHTGlTNWlWbFpzUkNuVXVTUjhWbzhWaFdhMUNJbTZZZEtuZzhCbXZDVnluRm4yYUpRdUtKRzRpVUNFLTY0UmpkMTZ3UE1mTlVzSldGWVFoVHdtMEh6c1FZOFNYMEdWdHIyOEVNSHpiWG53OFhWWVJXZGs?oc=5"
-    },
-    {
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
@@ -627,6 +627,14 @@
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMG9jNktwM043cW5HYkRRdHJucWpJWThtZFRMLWtTQ2J2eC1TVkJzb1VRMmR5VVJBbnE1V3BnWlRYZS1yUEZwcVhNcHZtUFc1U1ZBVmtRU0pNSnQzWXhLcjRvMjktb3FxOHJRVFozQkg2Q1h0NVhGVk1SWGRhaTl4X3RkMHpkS01jNk5pSnRGT05kd08wbVd0aDUzVFlibXVlY1hKaE5mMHFyQlhESGFaNVJBdk5hXzdUUzktdlFvU1Z2OVFxcG9fZg?oc=5"
     },
     {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Estado o mercado: lo que proponen los candidatos para enfrentar la crisis",
+      "date": "2 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUZadS1yR05IdGtEZzNJQ2U0YWlVRG9GY0MxdEc0TjJ3OElzQTBJQ3pUMXZrbnExS0g0SVdlYVRNNXE0Z1hvQzRHeHpvNHFqRGcyTjRqbGh5TGlUamhuWVpfTldqdXZvYXJBYzJNb1dYemQzeXA2UEpkbmdWXzQtQmpkblBldUhPVHRjZDB6VmFUS0NTYVdoNXgyNWk3SXRHQTdzX2tCN2NtTkNwRWt6Qnh3VEVmUQ?oc=5"
+    },
+    {
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
@@ -649,14 +657,6 @@
       "quote": "Explota la deuda interna: el Estado le debe más de Bs 128.000 millones al BCB y crece el riesgo de crisis monetaria",
       "date": "18 de mayo, 2025",
       "href": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWkJuT241SEU3dUdRNkFHZVlDQVNmMWR3ZHFHa1p1R2ZQUUYxMnhUX1FuTzBTeURfTXRScDJVandES3hTVEdXUE9zU2NlNlQtMG5HNkNBeFUzMDNKNVpEaXZvbkQyNEJYc2VhYzFxc0diUmVOU3FzREJHVmY1Y0oyZ2lNdXNOdEZheVZsRkExY0x2RGxCbF90enBncV92RHkxVkxKRklTV01RS2hHU0VYWTJUV1lpRnlodWVPTV96aW1KNjRSTDNGc05iYm94QTlEY1Y4SEZmaDBnTnRYUThZbUkzZFRXUGJw?oc=5"
-    },
-    {
-      "outlet": "elperiodico.com.bo",
-      "logo": "E",
-      "favicon": "https://www.google.com/s2/favicons?domain=elperiodico.com.bo&sz=64",
-      "quote": "Tras varios días de alza, el dólar paralelo cotiza cerca de los 18 bolivianos",
-      "date": "16 de mayo, 2025",
-      "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHI4WjNaa0xBWVNfNUVsUG80MzRvd01zUXFmOHVLc1VMOERCQU1rOTFzMkJzM2FnRGZhNnMza0k0M3JZeThtU3BxOXRQZVl3NGZKbkd2RlNtWjJ1RVBVRW5KT3VJb1Jrc2k1TXFoV3FrTFpiNFVRcFZ0Q2hEVkUtMTkyN0pnYjI2TjhTSVNwc21wWUxQSTBuQkkxeThQdmFyZm9ra094NA?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -699,8 +699,8 @@
       "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDdUZV9YdXoyMXY0bUM2MlVKZW1fblpwSXRPRUVmeTZpNWl0Z2Vha29TTHFZdG5JTnl4T2VmbTV5MHpNQ1BiRjNtNmVnVWo2cXlyOXM1QUh1RTBuR29JQ3QwMnVWbUZ1QjhfTXNaaVhxRm41bFlnc0MzLTM3NFYyN1pqZjJBX2loNFpKUFBySHdBZ2hTcTY3eW5WcnVHal9JdEp1YjJNcmNjWGlIVmlnUWlJY1RCZGdRVEdwWnR4VmlCSzl6a0tCRnJtN05Ya0U?oc=5"
     },
     {
-      "outlet": "lapatria.bo",
-      "logo": "L",
+      "outlet": "La Patria 3.0",
+      "logo": "P30",
       "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
       "quote": "Aumento de precios esenciales en Bolivia: un estudio evidencia incrementos del 79%",
       "date": "9 de abril, 2025",

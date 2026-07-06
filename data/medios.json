@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-05T12:10:35.110104+00:00",
-  "total": 119,
+  "actualizado": "2026-07-06T14:21:50.448834+00:00",
+  "total": 118,
   "medios": [
     {
       "outlet": "facebook.com",
@@ -11,12 +11,12 @@
       "href": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT0c4T09RMkQ3Mi1TeTZTTUdEcDEwVDRpcW5KT0xwRFRSZXJpUDltZjg5b1BDWFJnMnZIVk5MdEdxU1IzTkZHYnBLbnczU0RjX3J0cGN4UXJOemVvSElSOUR6WnFtemRUTndrdlk1WW44YWhDTGJDelJaQmp3YTNoU29tQ0IwNGpReW9qMHpQclJ2WXgzY0xBV1czd3U5bS1PX2ZuQVA5R0F5Qmlab0V6cVhmeTZaTGZ5dnRaTENQYk9YRmZzN2dRRms5Q0hGY2pkTWNZd2Z4VkZ4MTZBTzAzMmNBMDUtcWdYTW00ZGxBNW5CdzBhRUtEZA?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "¿Fue el momento correcto? Economistas discrepan sobre el cambio flexible del dólar",
       "date": "27 de junio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0FwbGZTRE9HRlBOMmxLc1I4R3NCb0JZSDVOb242TDktcndmdVJhUEYzeFhVSjRJekRGZlFkM0tlb2tURkQ3M3g3aG0zWFUyR1dXak80M3NQU1FRX1BwVkJQeXI0dXo2SlFXZklRcmI1dUZoZUhrQ2UteXBmc2RZY1dvR1UxT3RDcHBkUDZlNWxFeWpLeUlvV05lYlZlaFJKU29ORWZCWQ?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0ZzS3QxcmhhU29qTEI5aVRRclduVTRnM2lxUHkzMVBzaWJjSmRtVmNKek9SLXpCaUdfcVk4cC1fdTBqbFV6VXZlb19KQk5ZTkFCS1pMWjRTbGkzdl9RLVJuSG5NbmktOENIYW9LbHNyM0hMVjBmRTN0QnNtQXhiTUFDZ0NfUnIzcnR5V1JhWG9teEpqZ0Q3eXJWM3d4dTBGNXh3?oc=5"
     },
     {
       "outlet": "unitel.bo",
@@ -739,20 +739,20 @@
       "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkFFbzZWcmJjUEtzb2tBdENQSUFpNkNOeEJTT3pVOWtLM2JpRTZzNms2dEdHR2dicC1mSEhsclc5em5mU0VyVDRxY3J1LUU4TXV1c3VrWVRkMmp1UFpkX2tya05YWjR4RGtZVjlCOWRnV1FWa18yVUVTSjlWa0UyUW1wSFNYM0ZWU2x4bXh6OXlBdWFTMkZsR0w1QWJfZTBobFFueVR5dklIeFVIQmVNb3ZHMWxMMXNCSVN5SF9lWQ?oc=5"
     },
     {
-      "outlet": "La Patria 3.0",
-      "logo": "P30",
-      "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
-      "quote": "Aumento de precios esenciales en Bolivia: un estudio evidencia incrementos del 79%",
-      "date": "9 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWRaRURsV19nQjRSQktKZ0dHcXJXMGtWQmdIbG1DWDE4M3BtdjNYRjZ2aWtDY3ZPUW96bE8tNHBPam13WENpM3UxMm5xVnZjQkRpWkJaUDVtWDdaUW5LWkdPVUk4T1NCRWdGZU81dm1EQ2RZd0JOUWxsUWpvNG4zTEdldkh6TFVqV0h5S0ZERW1VQVNIYUlWZmd3R1VGS2tNM2pSQk53WHFPblBSSmZUa1VFb0I1THE2?oc=5"
-    },
-    {
       "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
       "logo": "DNP",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
       "quote": "Conozca los 25 productos que más aumentaron de precio en un año, entre ellos el café",
       "date": "9 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG5nZjBaMDJidWdlNElJbHk1VXBxOFd1UjlJQmlqemJReVJpX3ZySFJXUUROeHdEckd4aVNLN2pjM0hXRmhsWGdCM2dqdWdjWFhWbU5DSWRRekpkdjJtMzFPa0lneHlIamJBR0VCYnc5bkthZlNUZEJZZVIzZUoxOFNBcm04MkplNkJxUTVyUnpsRURPaFIzT0pkbEp1V3BDQzlUMlBxdV8wSk4xU1JldVZVS1NqaXBCOUhpWjlXNF82ZXhJNHIyMw?oc=5"
+    },
+    {
+      "outlet": "La Patria 3.0",
+      "logo": "P30",
+      "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
+      "quote": "Aumento de precios esenciales en Bolivia: un estudio evidencia incrementos del 79%",
+      "date": "9 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWRaRURsV19nQjRSQktKZ0dHcXJXMGtWQmdIbG1DWDE4M3BtdjNYRjZ2aWtDY3ZPUW96bE8tNHBPam13WENpM3UxMm5xVnZjQkRpWkJaUDVtWDdaUW5LWkdPVUk4T1NCRWdGZU81dm1EQ2RZd0JOUWxsUWpvNG4zTEdldkh6TFVqV0h5S0ZERW1VQVNIYUlWZmd3R1VGS2tNM2pSQk53WHFPblBSSmZUa1VFb0I1THE2?oc=5"
     },
     {
       "outlet": "El País Tarija",
@@ -867,14 +867,6 @@
       "href": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMnBDUkVWbV9oaVlaWWRQS09wRjNNUWdmdXBzdGRTcVBETGRocXN4QVlvRVg0TDc1R0U3dENwWURLcjdCOGFZbHpWSEg0U2ZhZEJQR1VzWUdQaEdHaGhCMEZ2RnhhajZTQTBPOGhPYjZuYlU2a05ETTFELVA5QzREdmdwdXFYaE5FYmN3X1QtbEl6SFMzTTdXd1NwbTdJWm9vVkhSYzFqNExMN01pSXJkU04tbll0ZjVjdERiS2dLaDg0SFBxRWoxS21rRThCS2hxWW45WDY1eTdYSjR4VEJfaXZtN1M0WHM5dnFWU1RPUVVlTThyTVNGeWE3QXRQZFAwbTYzU0pR?oc=5"
     },
     {
-      "outlet": "unitel.bo",
-      "logo": "U",
-      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
-      "quote": "Bolivia registra una balanza comercial negativa de más $us 270 millones al primer semestre, según el INE",
-      "date": "5 de agosto, 2024",
-      "href": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRHB6X0RNNi10UzhqcXo3U2hQdHpWaVR2X3V1dmZ4X25uUnY5NmNFSUs1aHBmZkhVeVNKWm81aEVLTWRrdVF4Vk9qMUVrSzBiQ1d5UTQySGZMbTNsTlI3WXJLMnJ6UnRSSWlRSl9meVlzYzNMT2F0YnNDNmdaaHRFVWo2dkk5LWJJaEloT2hlNU9xYTJhRHR5emd0c05JUXR2QjZSTUhvTnFNLU0wMkNYNEdzNXZiUnVyclM4MG1pYWV4cm5qNkJtLWVXakN0MTV6UzVxc3Y5dWJWdlNMU201eTRVYw?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -897,14 +889,6 @@
       "quote": "Cuatro factores determinan que Bolivia sea uno de los países más difíciles para hacer negocios",
       "date": "4 de junio, 2024",
       "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFBzU0RtaHZXcFBINGlWTElucHJpZmxTd2h0SXpkRWU4NEtKZ1M0U19hc2hDLURMX3N4cnhRajlhMVp4RFc0Vmx0N3ZHdy1UX3Nma3JHbWlUcVpGcHhOYVphOXF6TjRqQTZKeGZpNDdYUWs4OHZvbVZyM0NudDlZN0NlOGtEYThtNEJ5LTFnTkRwdnM1bzR2UnVrajZ4YW4xN0hlRlFFZEdnclBYcndXeGtwWUFiU1M1aDlSUXc5NXVNb0NWeGUxUFNyLTJyTjg?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Santa Cruz:, El Piraí perdió un 62,65% de bosques ribereños y el río Grande un 34,65%",
-      "date": "1 de abril, 2024",
-      "href": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEVLSmFra3ZOQTg4V1haTVNZZEFFMlU0RzhtUUxtd0lDN3dJQUg1R29tdGFOUnlUWHlKTFFTbVJ3VEtKZWNyYVFvcnpQSVVDUDI4UTlnaGVDNWZwMmV1b1ZWLXg2OEdwQ21sSVlqRk16cFNXZ2V4dG5CTjFhelIxbEszcmFXaVQxWk5iQ2xWaVY4TWNhVjFZ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -950,9 +934,17 @@
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Constructores reeligieron a Carolina Gutiérrez como presidente de Cadecocruz",
-      "date": "15 de marzo, 2023",
-      "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWtROGl4cUpfVjZKVjRJM3BQQ0ZGQ3Y0WHBpaGxnRjZGb0ZEN3MwZHFGM2VMVnJ5QTMxeGNERDUwVTcyRm80VmZyOEV1aFlLMFNTZ2VOd1d2YjhLcUx5ZE1OUVhWUUlCeURDRXhLRWtZN2JPQkdSbVJjaGpDV1FDZXhZeVNYamVCSmxILTM0ZTQzQnU3NFcyNWhsbTBfTkFFemc?oc=5"
+      "quote": "Bolivia ocupa el puesto 123 entre 165 países en libertad económica, según estudio de Instituto Fraser de Canadá",
+      "date": "8 de septiembre, 2022",
+      "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDI2WXZab0szQjVxRjdtcmdtTURDaFRscDJsb0dyMFFJQ0JyTWRSaHVPcFFWdUFxTmd1M3Uzd3ZPNk5pUHd6VllTcU90N29OWXhveDhzSXV2UU1MTnYxNDBXVW1KVXRMUl8wT3pVQ2hrS21YdDlsWFM5Y3daaE1KMGNjcE9RcWMzT0Y1SEN0N04tS3MtdnFpbUVudmg0aG50cFlhMW5NQXk0d0pRRUFaZ2hGZnpKSTVpWDI2dlF4OWl6ck5uMGQyWDl6cUtnVWs?oc=5"
+    },
+    {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "“La agenda pendiente de la simplificación de trámites”",
+      "date": "23 de agosto, 2022",
+      "href": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXhPelBIbTQ3RVRHc0l5Nlk0OXhOSVViejFvZWp1ckdzNmxqT1c2VFJoUlI4Y3pTZG9wWDdGck84d0FWS3pvczN4WnE4VENjalYwLXQ2UDRlbDYwRUsxVkdaNDJsSXN2dnZQaUVxOXVES3dfNm01c0FqZDY4QWw4VlVn?oc=5"
     }
   ]
 }

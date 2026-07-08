@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-07-07T13:12:52.399260+00:00",
-  "total": 116,
+  "actualizado": "2026-07-08T12:14:52.231627+00:00",
+  "total": 117,
   "medios": [
+    {
+      "outlet": "economy.com.bo",
+      "logo": "E",
+      "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
+      "quote": "Analista: Bolivia ya no produce suficiente gas para recuperar su mercado exportador",
+      "date": "8 de julio, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0pieGxWOGNwSnpIT1Y0bUZLT3htYWpodEJocjVVSGJxdks3ajdGSEhjM3FNZTZOTTJLcWJsVzNiQ2pYMU04VTVxMWZhTExWakdMSnB5UnNNdUFSVC1RdEhqXy1lcG5PNWhzWWh6dTBsT0w2ZTRBQW1pUTVucjVCRmZEQklUSm8xZGRoSDlnc3dIRjlaNV9xNVpaSFRvWW13UEV1bkhSeDUwV093TXN0MmlkZDJ2T2UzVVhGYmNIR05QNWpCTXp4eGRLSEFVVWl3Y2Q0Zmx4cnY3SUHSAdsBQVVfeXFMUHNKYnhsVjhjcEp6SE9WNG1GS094bWFqaHRCaHI1VUhicXZLN2o3RkhIYzNxTWU2Tk0yS3FibFczYkNqWDFNOFU1cTFmYUxMVmpHTEpweVJzTXVBUlQtUXRIal8tZXBuTzVoc1loenUwbE9MNmU0QUFtaVE1bnI1QkZmREJJVEpvMWRkaEg5Z3N3SEY5WjVfcTVaWkhUb1ltd1BFdW5IUng1MFdPd01zdDJpZGQydk9lM1VYRmJjSEdOUDVqQk16eHhkS0hBVVVpd2NkNGZseHJ2N0lB?oc=5"
+    },
     {
       "outlet": "facebook.com",
       "logo": "F",
@@ -454,14 +462,6 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Centro de Estudios Populi",
-      "date": "7 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybDVjY19qbDk2TDhadFhzWDZuVXRNYXVPWDU4d1RObm9sSFNHLTBTMV8yRGwxSGY3VE1EYnpER1E2b2ZmSVZocGRYTHlMN093YnZPUmlBT19XZzNDR0x1T2dn?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Santa Cruz inaugura Observatorio Fiscal: una radiografía inédita de sus 56 municipios",
       "date": "3 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSXA4dm8yRlJrLXNfcXFZN2I1bGNGLWV5UEJ4SUN2cDhqUURjRzg3Q0tOZzhCUU11ZUpfdjZRd09kVUw1N0lPa2h5eUlRTWEtXzVXaGtEOXVxR2NyUU1XUXpZczdTMWtzaGs5dHdPU0c0VDJOekF2cWpDS0owbmlwT2EtV1RoY2JMcGhlakd6NnFQV3A5M0piYTBra0czanZyX2IzcDlISk5pV0RHRTlVM0NPZTNaQlVxWnFPMjVWY2hSZ19FMFFGcDRWLTNWeUQw?oc=5"
@@ -473,6 +473,14 @@
       "quote": "Bolivia y la libertad económica ¿Por qué importa y cómo poder aplicarla?",
       "date": "1 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTFQUEdDUjlvUDNaZUxXZE15emlZcG1FTXpNTTB3cnZmdEhmZHQ0MlRCU0pVNlhlbmRqbGQ5dlJiOGZLVHZaU09IcHBjbENOcVVBSHRKMHNULTM4WVl2alJDS1BURW9hMEhGdEVScXNiWkstSzB1MnNjNUJYdXVkbnJ6OWs4MXhmdTRkekxoS09vSW1nV0c0X0I3Tm5XQW05dEpTdXpjRHV6YVdR?oc=5"
+    },
+    {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "Bolivia cae diez puestos en Libertad Económica",
+      "date": "26 de septiembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnBBQVpNM2VBd0tJd05Hc3ZiaW53U2RCVngxUlVOMkZrMkg4VEFZZVhDOXFyWTZqVU9aZVZ5eEJlSDJBQUxmS2M3RG54UWYzR1pRNnV3clhRTUR5VjV3Nzg0ZGowd0RZTzlETl9tRHlWN09GYnBhZ3FOdjhENFNVUFk5MUVuN1U4UUZJRGdlS1BZTlBwa3BfRjhR?oc=5"
     },
     {
       "outlet": "unitel.bo",

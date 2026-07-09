@@ -37,6 +37,8 @@ QUERIES = [
     ('"Oscar Mario Tomianovic" Populi', True),
     ('"Oscar Tomianovic" Populi Bolivia', True),
     ('"Wilboor Brun" Populi', True),
+    ('"Paola Condori Fernández" Populi', True),
+    ('"Paola Condori" Populi Bolivia', True),
     # Voceros + temática económica: nombre + tema + país acotan lo suficiente
     # (homónimos del economista en Bolivia son raros; lo dudoso se purga vía bloqueados.json)
     ('"Carlos Aranda" economista Bolivia', True),
@@ -60,6 +62,17 @@ QUERIES = [
     ('Populi Bolivia análisis económico fiscal', False),
 ]
 
+# Portales bolivianos adicionales (site:). Confiables: `site:` acota al portal y el
+# término de marca/nombre evita homónimos; captura citas en el cuerpo, no solo el titular.
+PORTALES = [
+    'lostiempos.com', 'brujuladigital.net', 'opinion.com.bo',
+    'noticiasfides.com', 'la-razon.com', 'correodelsur.com', 'eju.tv',
+]
+for _d in PORTALES:
+    QUERIES.append((f'"Centro de Estudios Populi" site:{_d}', True))
+    QUERIES.append((f'"Carlos Aranda" Populi site:{_d}', True))
+    QUERIES.append((f'"Oscar Tomianovic" Populi site:{_d}', True))
+
 # Excavar archivos viejos: consultas acotadas por año (Google News honra after:/before:).
 # Términos inequívocos → confiables. Cubre años que el feed reciente no devuelve.
 ARCHIVO_TERMINOS = [
@@ -67,6 +80,7 @@ ARCHIVO_TERMINOS = [
     '"Fundación Populi"',
     '"Carlos Aranda" Populi',
     '"Oscar Tomianovic" Populi',
+    '"Paola Condori" Populi',
     '"Carlos Aranda" site:eldeber.com.bo',
     '"Oscar Tomianovic" site:eldeber.com.bo',
 ]
@@ -75,11 +89,22 @@ for _t in ARCHIVO_TERMINOS:
     for _y in ARCHIVO_ANIOS:
         QUERIES.append((f'{_t} after:{_y}-01-01 before:{_y + 1}-01-01', True))
 
-# Señales que confirman relevancia POPULI en un titular (para queries gated).
-SEÑALES = (
-    'populi', 'atlas fiscal', 'retrato censal',
+# Señal de marca en el TITULAR (para queries temáticas gated). "populi" como PALABRA
+# (con límites), lo que evita 'vozpopuli', 'populismo', 'popular', y descarta la
+# locución latina 'vox populi'. El chequeo va sobre el titular SIN el nombre del medio.
+POPULI_RE = re.compile(r'(?<!vox )\bpopuli\b', re.I)
+OTRAS_SEÑALES = (
+    'atlas fiscal', 'retrato censal',
     'simulador de coparticipación', 'observatorio de finanzas públicas',
 )
+
+
+def tiene_señal(headline):
+    return bool(POPULI_RE.search(headline)) or any(s in headline.lower() for s in OTRAS_SEÑALES)
+
+
+# Dominios cuyo nombre contiene "populi" (u homónimo) y NO son POPULI Bolivia.
+DOMINIOS_BLOQUEADOS = {'vozpopuli.com'}
 
 MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio',
          'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
@@ -141,7 +166,10 @@ def parse_feed(xml_bytes, confiable, cutoff):
             headline, outlet2 = headline.rsplit(' - ', 1)
             outlet = outlet or outlet2.strip()
 
-        if not confiable and not any(s in title.lower() for s in SEÑALES):
+        if dom in DOMINIOS_BLOQUEADOS:              # falso positivo estructural (vozpopuli.com)
+            continue
+        # señal de marca sobre el titular (sin el nombre del medio), como palabra
+        if not confiable and not tiene_señal(headline):
             continue
 
         try:

@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-16T12:15:13.343490+00:00",
-  "total": 124,
+  "actualizado": "2026-07-17T12:02:44.946604+00:00",
+  "total": 126,
   "medios": [
     {
       "outlet": "El Deber",
@@ -89,6 +89,14 @@
       "quote": "La institucionalidad y la academia presentaron la primera plataforma de análisis fiscal y socioeconómico completa del país",
       "date": "28 de mayo, 2026",
       "href": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQal9oRVVWTElwZ1JmNDJPdHd2YVFjQU5mT3REWjFCeEdzQ1R3Ynd5MkdFeGtBZHlYam4yZEp5ZG1WSnQtVVBpbk5UNkoweHF5V002SVVNUHZ4cHBnN1lETEZtakE5bEwtMnQ0Q3ZMUGt6Qm9aWG1kUEdOUXdleFVJUlhpMUJTT2ZnYnVfQUdHUXl6VEVidGpDZ3pwM2x5RFJCSkJia2hLOU5LSWVEUWtNTHZPZFJ4bTJxclBkNkZJWEVTR3Rla1JuUzRoVHY2ZGRuT0JYcGV0QV8wQWNUNHIw?oc=5"
+    },
+    {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "Nueva plataforma interactiva revoluciona el análisis fiscal y socioeconómico en Bolivia: Presentan el Observatorio de Finanzas Públicas",
+      "date": "28 de mayo, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdnFaam1lOWtybHVKbENxSkVvWUdEcnlMeFNUVnJxcTRlZURDdHR5TmUyUm1NS1o0SGY3YnIwQ193aFBRZGhFY3hqLTBqdnFJR2ZmWlh1Y3puRENUN1RqSHphMVYtaUdrMWFHT25LRHZua0NkMnNaV1htZmZXdHR4MUtUYVJQbEdqY09JT0trWlkwSF9la2tLVFNPeE1DNHZlaDVkb1FSMmlYTjdKeER4WHhrQ2JDaDNGRXlXZEZnWnVNRm5BVGRaVVRmdWpaSlNQMFBaS1hPV3g1X2twWXlCRUhWdkdqNnpaTXpuaDRJYkNnV3Va?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -225,14 +233,6 @@
       "quote": "Proyección electoral: Así queda el mapa de poder en los Concejos municipales de Santa Cruz, La Paz y Cochabamba",
       "date": "23 de marzo, 2026",
       "href": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdEJObGhGWG5WM0IxRnBaaHJ0b3p0dWJkRGJnQU9ZNUVFRVE1Z0R4ZWZXa0NvQzg1M3hUcTV3clUtYTlrTko3MTRUVUVlQkpfbDdfTlVncGRkdHdDZGt2MDZOVzVYd0Y4SzhMOUFTUGJfNldrZDlwdGowdVkwYXU2ZVo0MWxJa0wtM0s5cmpHRmZFdWxsNWZHa3AyTURHMk9hamYxZ2RBaHgxaml3eUJUYTNxbk5IRnBnV1lCdE1VcGtIeXJDT21abjNsZTB2Q3JpbzhlY0tNNzhQc1RvMHlpb3Bsdl8wYURSZXljUHlScnRrVkU?oc=5"
-    },
-    {
-      "outlet": "Nueva Presencia",
-      "logo": "NP",
-      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
-      "quote": "¿Gobernabilidad o bloqueo? Carlos Aranda lanza herramienta interactiva para entender los nuevos Concejos Municipales",
-      "date": "23 de marzo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNakZOS3M0MURFR1I0Nks2Mk5KYVJ5UzNReGRvd2VoV1lORGpOUmNSSjNsclJ2R0FSSzROWHdxUkRpb1QxU0RFNTNMOFJNczVmVVE2eno3eXNpblFGM2Q3aG41dFlQZW84QjBlVHFjWWJuamZJVDlpV292MVZRbDd6LW5aLUZNS0VSbHRmWFZuTmFYdlViOEdndDJXNHhfVkpWT0w5SFVqbHhwNXZsMVFGWkptNnQwcEhhdUZDUEtFVEFkaWNpa3VnS1ZkQ1VvNVpFQ1NIMTJOZTFXUQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -414,6 +414,14 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Herencia: El MAS deja un país sin oxígeno fiscal",
+      "date": "20 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkR1VmpXeERkejBwRzk1bExNU3BxTzlvcVBIWkQzQ1ZHd3FOMDFGTHc2WDZtRlRzSGlhcUFPOTBSOFVQVS1BUkRtOHFJaUluQWtEcklpOEtsUG1sQU50NjRsa1Z6ZjgxTGN5ZEZWRXppaW4wLWJqUWMyS2FRRWh5cm9YdFdTRHJ0c3lVRlhDeWhBeURsYUllemxURQ?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Precios altos y ventas en ‘picada’, el drama de una economía que no crece",
       "date": "16 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzV4RGdOWXl6SE9YOVZUcUJ0VXA4eWJETHVYbU5LVjhGX1RsUlNHU2JYQ1ZMREpGV3dFUWRUX2g4U2wxclNHZG9BeFcxNm1aZkpvaS10MFF0NlFBdGk4V3BzbVlTR3B6dEpxdERKbkphM2F0bkp5U0wxQkwzeWJQeWFrR3pwb1ZoQWhlRC00bkptUUlmUXIteFVB?oc=5"
@@ -425,6 +433,14 @@
       "quote": "Calculan 500 mil pobres más en los últimos años",
       "date": "16 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVdCT05tc3Y4N2tIdWNEQkcyZDIxZHo2UEZPSTRkX21UVEZ5eDI3M0NWbF9TTldnMllYSXh1ZlBMQ21nZkYxTDg1bXlXSUdKc1BCMmpQMmlPY1B4U2tuLU5sUUw4Z29ZT2dOQkExbjQwUTVjcEFmdjd1MVNWdXdHaGJ6SHBpMUlXWG9XXzgxWG1rc1Q5WmdFYzVxaw?oc=5"
+    },
+    {
+      "outlet": "Asuntos Centrales",
+      "logo": "AC",
+      "favicon": "https://www.google.com/s2/favicons?domain=asuntoscentrales.com&sz=64",
+      "quote": "Bolivia entra en estanflación: economista advierte mayor pobreza y presión sobre empresas",
+      "date": "15 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0pKQkRIS2tZN1Fvc25FaGlQLTlLLWJWRllteU1OQ2VzU1UxZVV2S2M2VzBQSDB2RldBRllCRUtlSVlYUXdrU24wM0UzX0d5QnRaRDBkb2R6VElGcHpvT0dVTGpTdC1kWG1wZmlNUnBscHRkSExfLS1JQTRqNlRYdWlvRDhadWpEUTNtdmkxcEU2NENTaUgtclA5YVBKWHdoYmhqaXRnVnRTRnVYNXM1N2hNVkxNMjk1Z3c?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -683,12 +699,20 @@
       "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXRqLUVTeXVmWTJVNHFQVzBYQ3hkcXU0WFAyYUtza09ZejhLZDFmeDI5ODVaRlpkcXlYUVVWcWdtejlRTHBtQXlmcmkwbEJqdzMyMm5DR2kwWktMMjB4a0tEOVhURDN5MXc1ZEJmT2U4Yk56UTlkeFFMTWRIM0djNENldWZHMURnSkozWUV6UmdzM3ZLeUo0REFIeFV6eEtnR3hQdjJxRlZvakxhZFFhOQ?oc=5"
     },
     {
-      "outlet": "elmundo.com.bo",
-      "logo": "E",
-      "favicon": "https://www.google.com/s2/favicons?domain=elmundo.com.bo&sz=64",
-      "quote": "La crisis económica se agrava por falta de medidas contundentes",
-      "date": "12 de junio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOby1kSnNRZFR2NnlGRF8wV090UkNTUjBuNnVsUEtFQVc0YS1OTFJJMjdDaldnelI0MGNGTmtya2ZoZmhycWZwakdTOVRoUnpuaVlEMGlNRGZDVE1ZUlE0VFphSUs1RGVQbmo0WlA5VUJIZ0x0a0txS3N6VWpxekdmdC1ZZkk4WEZoVW1oZVFfc3g?oc=5"
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "BCB registra 605 millones de operaciones bancarias utilizando medios electrónicos",
+      "date": "25 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRmFZMEJpS1VTOGxQUDFpclk3TnBRQnBjcE5FYnVUOVEyQlRtQUZ6aHExZnBIaS1Qc3VGTUpma2VBTWFMSU9CdWQyNDMtVzlmTndkYzRKOVlOUjRGUWc4QW4zblNoclZ0SjltZGtrU1N4XzRPVWN3amdpRWhDZXh6cFh1TWNGVWFqcFBmdVF0ZUFydTNONVFoQnhkeVVPdmRlUkZMdE9lRU9uNnFJcHF2NzR3eVpoeV9LbVRWQzd3?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "¿Diferir o debilitar? La banca en tensión ante esta posibilidad electoral",
+      "date": "24 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmRzRFZPZy13NDZwWm94QU9aTUUzc0hlSm9rb0d0REFuWHhJR1JDVmZCUXhnMHlBRjJwSUl6TGwzOVZHaUpEM041QTFsdDRHVTJpT1AxYkJ1RVpPcU9HUndYYXNVV3FJdDVVdldPbWdVcjVEMmRrX1pSV0V4QkdYRTFyaDFyZHpUak1BbENyQ2ZLN1J4ZVpTRi04VmlFajlQdFVYOVpSSkI4aUtkS2N3Qg?oc=5"
     },
     {
       "outlet": "eju.tv",
@@ -886,6 +910,14 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Afirman que monopolio de BoA afecta al servicio de miles de pasajeros",
+      "date": "1 de febrero, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVMtbmtxUWNZalJ6VFNMNEt1dnM0ZGlrT3dueFQwYVo5T01jMG9vQlVSWmpZUVZEc29UelR6ZHVKTGFDeWNGRHVta3VRclVOemZDZGpKbm9zMklVZWZ2R01OTEo1OUt1b3F0Q3g0eHdwbEYxNXluNEEyNmQtOXpKWGJ1VWt1ZWJKdEl2VWI1MnZnR3ZYVUF5dEVnVVQyMUlncnhnc3h6eTViUQ?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Boliviano se deprecia un 65% con respecto al dólar del mercado negro",
       "date": "22 de noviembre, 2024",
       "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkhmeWtJUUkxMEw2UEFxdEV6dXdHQ3FTTDVLdXZNVkZ0dWdCc20xNU1UTzdWcDU4a2JfX3dBb3JZOThaY2prNWdJRG9TQkdnamwtWEstWGNwNmk3UXo3YzIwYTVfZzdFTXFKRGM4MnpTVFVqMnFzeGdsUktRQ2NzTVNNWi1tMEtvMGpHSjVUOU5mZzBKUUVSSmpseVdxYmJMclE?oc=5"
@@ -899,28 +931,12 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGpNbWlJcTJucFFUWkxlVVNwWDhkcTVCZ2RjLXpXYXRkeTJmOVpQUlROTlBVMjN4TS1TVXdWUURaeDVYeUFhQmhFX1ZQUkwyejNQWVdxal85NXZteU5JQ2FrV0ZfUFRHZnJNOUljSEF5ZzlLdnAzQ2w2MkplWmRnQ19ObUVycTRiUWVfSFZVbV9VN3RUQUo3MHE3Ml81OXZwSzJsSzNaVQ?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Reporte 2024: Bolivia ocupa el puesto 106 de 165 países del mundo en Libertad Económica",
-      "date": "24 de octubre, 2024",
-      "href": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObnhiSW1IMTBDS1RyUVI3Q01JTWd0Q0trNDBBeXR0b19aSlVyaVlILXlaR0ZJdE5RTWtyWnZWZEp4ZFJDa1lhTXBYNGtGektHSzhTNHBoYTJuVVJDMHdaOUw5cmZ2YmJ3N05OZXZVU1FGeVgzMnF0QXRRS3JEc1k1RmxCeWQ5TnprSmk0SUs1X1ZGb0JMNGZiSFp2dzg0UHN0RHB3UzlrV29pcEhfbkV3dThVOXRlcm9scFBfalBVVDd1c2pR?oc=5"
-    },
-    {
       "outlet": "unitel.bo",
       "logo": "U",
       "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
       "quote": "Migración: Según datos poblacionales, se fue más gente de Santa Cruz de la que llegó, advierte Populi y pide al INE dar certidumbre",
       "date": "29 de agosto, 2024",
       "href": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMnBDUkVWbV9oaVlaWWRQS09wRjNNUWdmdXBzdGRTcVBETGRocXN4QVlvRVg0TDc1R0U3dENwWURLcjdCOGFZbHpWSEg0U2ZhZEJQR1VzWUdQaEdHaGhCMEZ2RnhhajZTQTBPOGhPYjZuYlU2a05ETTFELVA5QzREdmdwdXFYaE5FYmN3X1QtbEl6SFMzTTdXd1NwbTdJWm9vVkhSYzFqNExMN01pSXJkU04tbll0ZjVjdERiS2dLaDg0SFBxRWoxS21rRThCS2hxWW45WDY1eTdYSjR4VEJfaXZtN1M0WHM5dnFWU1RPUVVlTThyTVNGeWE3QXRQZFAwbTYzU0pR?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Bolivia, con gran potencial en agronegocios y turismo para aumentar los ingresos",
-      "date": "6 de agosto, 2024",
-      "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3dzb0ppZlJEa0V2MDNhay1pUEJvX3FFMW9aTmdZSnl2Rk9SWFJFbFlRQkZKZkNVMnlPZVlWMWlfRU0ySTJHb0lCRWN1MTFEY19NMV9wQ0pUSVRJVlROUEc3dmt4N3ZENmt0Ry1rV01CUkZjWHFGeFJZVVZFQVZZdmV1cmhDX1pTY09mRDlfNGd2Uk5SaENSdklaWnpsNzhoQmpWSmpERkdZdlQz?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -979,12 +995,12 @@
       "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZzg5QktNS1lyRDdtdUNrcHhIeTJhaERLS1JTclZrS1ZweE90WU0tVnE5SC1GUTB5M2dWYnZNVkE5UlFzSW4wWUlJU1V5dkM5QnNXaVV3MW9FankxQWZuOWg1VC05R0VKVTVNY0JKLUk3amJNVkh6eGlOQ1RiVTJCX0F6dmNXLUdZel9ITDZZMVBqMHhNVU1udmp1N21vUm9oZDln?oc=5"
     },
     {
-      "outlet": "Bolpress",
-      "logo": "B",
-      "favicon": "https://www.google.com/s2/favicons?domain=bolpress.com&sz=64",
-      "quote": "Libertad económica y opresión estadística",
-      "date": "25 de septiembre, 2023",
-      "href": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCemYzMDQyUFZIYUtOVjVPVVVYdzJnTjFGUnBiSHpWcXFtOWlCMVlsV0JXZVRpUmpkaXo3dFpfQ1VQSzVCMXlraEx5MFZuUXdSWFZYeFdOMFZJdjZmRVF5QnZmRldtTUhJdzRpb0ZRSFJGUTZtRnJnSzZhZnZBaDA?oc=5"
+      "outlet": "RFI",
+      "logo": "R",
+      "favicon": "https://www.google.com/s2/favicons?domain=rfi.fr&sz=64",
+      "quote": "¿Qué supone para Bolivia adherir al Mercosur?",
+      "date": "30 de noviembre, 2023",
+      "href": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3JETm43RmhNSnFNTmtBb2RmT19zdEllLXp5aXU2QkdWS2R4YnlBWWVLN2tpam8wc3hINmxGQUR3R1NmWm44ZFdfUmhjVGNOa1Q3SU8wU2lSeDBDMVNfLXRuQWN1RldsSnUxenRPczk2UjNfNnloVWZBNnlpcHhvRUFHZmFYaTJQS0U5VnZaRzI2QXZQRGxlSw?oc=5"
     },
     {
       "outlet": "eju.tv",

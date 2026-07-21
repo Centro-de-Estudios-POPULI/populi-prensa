@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-20T13:01:06.213737+00:00",
-  "total": 124,
+  "actualizado": "2026-07-21T12:20:12.082849+00:00",
+  "total": 126,
   "medios": [
     {
       "outlet": "El Deber",
@@ -57,6 +57,14 @@
       "quote": "¿Fue el momento correcto? Economistas discrepan sobre el cambio flexible del dólar",
       "date": "27 de junio, 2026",
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0FwbGZTRE9HRlBOMmxLc1I4R3NCb0JZSDVOb242TDktcndmdVJhUEYzeFhVSjRJekRGZlFkM0tlb2tURkQ3M3g3aG0zWFUyR1dXak80M3NQU1FRX1BwVkJQeXI0dXo2SlFXZklRcmI1dUZoZUhrQ2UteXBmc2RZY1dvR1UxT3RDcHBkUDZlNWxFeWpLeUlvV05lYlZlaFJKU29ORWZCWQ?oc=5"
+    },
+    {
+      "outlet": "Red Uno",
+      "logo": "RU",
+      "favicon": "https://www.google.com/s2/favicons?domain=reduno.com.bo&sz=64",
+      "quote": "¿Qué son los gastos hormiga y cómo afectan sus finanzas personales?",
+      "date": "8 de junio, 2026",
+      "href": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXlWNTh1cEZoclJrZXhvWlpYUEE2VTNyanp6VGE5RVVpbjZMNmV3WmpSS2dOM2RJUEdmNW9jNVlEMnk2R2NDRTlWT3VTcTU5OTR0b1kyQXhzdmJZU0N0NGNUclh4bFhXT2tYazZ2bGd0cERsWGd0SkVKSU9PN1NGUFVONUNFcVNHV0RnQTBCTmlyNWQ2VFNHR0NfUUZ2aGdlQ2xrRWVNTTRRQjJkQ01fVml3?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -275,20 +283,20 @@
       "href": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa00zdXVwcmxZYU1DZW0ySWNmeWYwdVFFM3NQd2FoeDA4d3dVZjBSYUtOS3NRUGs2alpscG5tSS01czhtRy1TRHBZM290SDhXNjdZZXZjMzFMTzdqajNzN2JiVE44U1BVbnF0TDFNbkE5ME9tUm9mMEhFZGJOLTR5M2FWb3J3dDhINlAtVGZzZWhtMHZNRHdCSktrMWgzdTFIT3ZoYXNn?oc=5"
     },
     {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "El monopolio y la contracción del mercado frenan liberación de vuelos",
+      "date": "15 de diciembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUxXa0QxNTZEZF9Rd05RZGphMmhzTGJ1SzNWUGx0dDlDREM2NjJsbzZHSFlLQmtkRTJFOEEtRkk0eTVmTWZuSlZIX0l1SFhJMU5BTkNzNjdsTEMwdnREam90d2pSSlUyZjZ2a0lHZVMxaEJJSGVUM05TT185cTlXNVhReWlPQlBtcXlaWUc2NkhQTnF6Q1FXSw?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Con cielos abiertos, BoA debe ser competitiva",
       "date": "15 de diciembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3kzZ2l2d3FiTmNjVVdTMnowTHZkeFd1TWFST252ek1kcDdzVDBRM21mQXBKdGFrUFhiQmNZa2lnYkJxWXM2aE84TjBwZ2ZzNlk2RkhwU2sydEpWQ3hJYkM4Q2ZRbGVlQnpsWjE3dldqOTNpM285SHUtMTZiX1owNzlVU1JTUjJ2YXVZ?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "El monopolio y la contracción del mercado frenan liberación de vuelos",
-      "date": "15 de diciembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2FTbnMxeVVBWURhdnBHVTVhYzhqWXdicG9MdkVuZ1hxREZPRnZaZVVTSW9ZaDB0cF9hTjFMV0ZnZXpad0pzQUZuRDRHbEg0UGR5UW9QS3ZseUJTME14X1hHWFJLNHpNc3ZBSGNKZHNVSjJCRkhpUE5GYjhTbkx5WXcwU3lhTTZTZF9GaWh6UDV4S0tJOExGTk1mMVBYZw?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -329,14 +337,6 @@
       "quote": "El Banco Central y el valor referencial de las transacciones en dólares; medida acertada pero incompleta",
       "date": "9 de diciembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeS1GYjdGTURfZGdqWGhYRHNkeE81d3dHcUFsUG0yNUt5ZkVfMEpWT2N0Mld1dWVmZW5scERaTlQ2anBnYnVsOGZwanZGZlJfTEVCT1ltX0Rkak93QzdsU1dBdVVfT0FTSGlUWWNndHpGbWlCb3BaYnQxNm1TN1RkSjdtYTdlTm1nZ2ctYVVzVnNuMFU1TnMzeTMyVFo?oc=5"
-    },
-    {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
-      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "Economistas: “El tipo de cambio debe ser único, real y flexible”",
-      "date": "3 de diciembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMmF0anVBV2dBb0M4bzBBcTh6WWhzdWQyQUZzU3lUZkRVWVhGUzZRS1RHeWhwdnRPVzVyTC00aG5JVkZYOElod0czSENXZVdJY1FnRzc3dXRRYTdsNGJCRERqNE03MENqVlpsOFRYMUxicmI3SmpOMkJOV2lkd19sTEhpd1VTdkxxRk1rVGNJR3lZaDVEZ3M2MUpEbE9Ec2hFTDdBOWF3OGRYWlZQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -401,6 +401,14 @@
       "quote": "Herencia: El MAS deja un país sin oxígeno fiscal",
       "date": "20 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbkR1VmpXeERkejBwRzk1bExNU3BxTzlvcVBIWkQzQ1ZHd3FOMDFGTHc2WDZtRlRzSGlhcUFPOTBSOFVQVS1BUkRtOHFJaUluQWtEcklpOEtsUG1sQU50NjRsa1Z6ZjgxTGN5ZEZWRXppaW4wLWJqUWMyS2FRRWh5cm9YdFdTRHJ0c3lVRlhDeWhBeURsYUllemxURQ?oc=5"
+    },
+    {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "Municipio de Santa Cruz acumula una deuda de más de 800 millones por mala gestión financiera, advierte economista",
+      "date": "17 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ0h2Nm95aFpDc29CWHd1cXBFNEtXUEN5VmVBM1BmR3ktdnJIbXpMRTRrQ29iUjJTbkJBOW9FRGRnRVBUZEppMEY1bEhjVVlCS01CemhJTnBsYldMZXB6QkgtZHNOdlZvZGUwb1AzRW9aZUdFZmJJaDZoWGhlWW5KRTBGVXo1ak90c3VUc1BiVUZSaFNVZHNCanM5aFBmMEZKODdpSnlWazcyVGlIZFdaMUdUR3A4Mkx2eUdGOWI3d2dfYkZIQmVZMTN1aTBjM3g5V3VHT1dhUQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -481,14 +489,6 @@
       "quote": "El Banco Mundial prevé una contracción del -0,5% en el PIB de Bolivia",
       "date": "8 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3E3VHhyX29NWEwtQ2hJbGFNRnlOVDAwczNJQ0lOQXJlZFJyMTIyN09TRGZvdHRIMDZnb2ZNRWs1UklFWXZ0VGl2TEhFejNhRTdINE14QzZ3R2NwbERWNkZJUEVvb1lWSUQ0ZGd2bXlDcWtqZEowMXNCV2lqN2JVWnMxNWYwT1ZkNjU1S1N2SFJ0TUJHOFhsX0ZVS01uRFNtVFRHQWdWbV9KOXc?oc=5"
-    },
-    {
-      "outlet": "Brújula",
-      "logo": "B",
-      "favicon": "https://www.google.com/s2/favicons?domain=brujuladigital.net&sz=64",
-      "quote": "Las joyas de la abuela de Bolivia están empeñadas y el futuro de su economía también",
-      "date": "8 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbWdKUWFJM0hPa3EzbEY0bDg3TkluWktpOEdhdDBqcDFfY2dfa2p0X1ptZ3JsMFllVlhZUGwyc3UyeEZQc1JnVVBGVDZjTmFOdGg0N3hscnJHdWt1bEJhWW4wSDYzaWNHOVZrdkRLOHBjbzZjSVAybTRQVFZqOFBTbmpxT2xqenVPdUVhLWJ4RkE2YWEzZngzM1RxblhKYlJqTG8xYnkxbFRuNEhpUXNnWUNOTUdOZGdWTldrY29KdzhzZEo3RVJuS0RXcmZMR3lMSm40?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -577,14 +577,6 @@
       "quote": "Segunda vuelta: Bolivia debe elegir entre la austeridad o crecimiento con rostro social",
       "date": "25 de agosto, 2025",
       "href": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSE5HTDd4ZVN0SnA3SkVnYkd3ejBWdGN5QTJpdXRYaDhCY0lOdHI2LXpsRVpWTjA0dDFNNWNQSzh6eDF0SHVoNmh1aFNuMTIwa1BCWnVLZGN1TFBrSGV2UDhkNDJGS19MN3ZhLV9nR1Rta1cwWWdkLWtCenI2UDRQeGZOdzFuMjUwN2xGWWF4clp6M09Ta0QyYndpRl9jLURxZl9NZnkzWUdlSXJ2VWVCYS1OSFJ0U29sTlQ2dGQzTkpqeENl?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "El nuevo presidente recibirá un país con inflación, déficit y pocos ingresos",
-      "date": "19 de agosto, 2025",
-      "href": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV1YtRDRRekhtdUpsajFuemVNZlBBd2stYnh3Y3Y4R0VGUlgyRGxReWlrTWRjOTB3Uzlrak1BT2FLMHJ2RFUxaUpuVm5JakQwdFdHV0xGbDlUM1U3OHQycEFKcXpfTmZhbFZvOW5xWlZqb2Q1ckhpNDRkczZTSnNSUFlRUE5aZklUcW1WdVVqY1V0ZWVmTGJfaHowbmszODRD?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -739,6 +731,14 @@
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMG9jNktwM043cW5HYkRRdHJucWpJWThtZFRMLWtTQ2J2eC1TVkJzb1VRMmR5VVJBbnE1V3BnWlRYZS1yUEZwcVhNcHZtUFc1U1ZBVmtRU0pNSnQzWXhLcjRvMjktb3FxOHJRVFozQkg2Q1h0NVhGVk1SWGRhaTl4X3RkMHpkS01jNk5pSnRGT05kd08wbVd0aDUzVFlibXVlY1hKaE5mMHFyQlhESGFaNVJBdk5hXzdUUzktdlFvU1Z2OVFxcG9fZg?oc=5"
     },
     {
+      "outlet": "Publico.bo",
+      "logo": "P",
+      "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
+      "quote": "Lo que el FMI ya dijo",
+      "date": "1 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DcW0tYTZUZ0FDeWRiOWZiTS1yWVY5R0haMGV0RXV6TEx2X2t2WTdCU3oycmhrNjJEWGxTRk9RZ0FBRGhISjZTZGRjd1FxaWhnaks3V2lRc0gxYnAyOGc?oc=5"
+    },
+    {
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
@@ -801,6 +801,22 @@
       "quote": "Economistas identifican más causas de la inflación",
       "date": "11 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDlBRnpiVEVKTGYtZnNaQU93RWREQnZmSWJqeWZoUEhWaXhGVi16ejVWb1RYTGRueS1BdG5GQlhwUTV5R1VGUFd2YzMxQUR1d2tZcEJXNWFGc25pWFBlYTNyZ2ZLZzd2aE5YWnZaLUI1TXVPN1AwcVd0NEdUZnRjSFlYTTkxVGJ0WnJVQnJRNTNxWEhUNGNPZ3ZRanNWWEU?oc=5"
+    },
+    {
+      "outlet": "unitel.bo",
+      "logo": "U",
+      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
+      "quote": "Economistas apuntan al financiamiento del déficit fiscal como detonante de la inflación",
+      "date": "10 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDdUZV9YdXoyMXY0bUM2MlVKZW1fblpwSXRPRUVmeTZpNWl0Z2Vha29TTHFZdG5JTnl4T2VmbTV5MHpNQ1BiRjNtNmVnVWo2cXlyOXM1QUh1RTBuR29JQ3QwMnVWbUZ1QjhfTXNaaVhxRm41bFlnc0MzLTM3NFYyN1pqZjJBX2loNFpKUFBySHdBZ2hTcTY3eW5WcnVHal9JdEp1YjJNcmNjWGlIVmlnUWlJY1RCZGdRVEdwWnR4VmlCSzl6a0tCRnJtN05Ya0U?oc=5"
+    },
+    {
+      "outlet": "La Razón Digital Bolivia",
+      "logo": "R",
+      "favicon": "https://www.google.com/s2/favicons?domain=larazon.bo&sz=64",
+      "quote": "Inflación dispara precios de alimentos y productos básicos, alerta Populi",
+      "date": "9 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkFFbzZWcmJjUEtzb2tBdENQSUFpNkNOeEJTT3pVOWtLM2JpRTZzNms2dEdHR2dicC1mSEhsclc5em5mU0VyVDRxY3J1LUU4TXV1c3VrWVRkMmp1UFpkX2tya05YWjR4RGtZVjlCOWRnV1FWa18yVUVTSjlWa0UyUW1wSFNYM0ZWU2x4bXh6OXlBdWFTMkZsR0w1QWJfZTBobFFueVR5dklIeFVIQmVNb3ZHMWxMMXNCSVN5SF9lWQ?oc=5"
     },
     {
       "outlet": "EL DÍA - Noticias de Bolivia para el mundo",

@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T11:56:24.567622+00:00",
-  "total": 123,
+  "actualizado": "2026-07-27T13:33:19.722957+00:00",
+  "total": 124,
   "medios": [
     {
       "outlet": "El Deber",
@@ -113,6 +113,14 @@
       "quote": "Advierten que el dólar paralelo está por debajo del referencial, que subió Bs 1 en menos de un mes",
       "date": "6 de mayo, 2026",
       "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDRRQkFESXpNTUtYaVdVWGVqdEhWUzhNemMtUXRnajdWb3FnZ2diVGp2N19oNk9JekVEZVhBMWRnTjJ0ZEg1dEk5cGtQdk9BdzZoV1ZRTENlNUlCV201c1JfdnlaVFFOdTBDSmVWSnZpcXNUVHFoWG5QMXVBUERnMDhXZnlQYUNxeld2XzBWYXAwQzhNR2RBcVkzMVh4ejQwNUhtdlYzUm1uRzgxM3hzM1NUckdkWU0zc2l4dlBn?oc=5"
+    },
+    {
+      "outlet": "Red PAT",
+      "logo": "RP",
+      "favicon": "https://www.google.com/s2/favicons?domain=redpat.tv&sz=64",
+      "quote": "Dólar referencial sube Bs 1 en un mes, pero el paralelo en Santa Cruz se cotiza por debajo",
+      "date": "6 de mayo, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckZhaXJEakg5REZzY0YtY1dVOGkwV3BXTzVsMEtOQkNzUDFlUVN1RUgxR3c0Q1lSQjhJczhrQ3hXYTZTYkh2NEpiejJROUdBU3E5d2V6end3RjV4cmFHNzZqYkdDTDNtSlVZU3dCYVVaV2g4QUR3LWg5M0d1cGRvandvbENFQlRCNm9JUlJNd0FobnJBbmdoTUtqb2I1aXlXMnhUZWxkajEyNUo4cUJKbGZsR05TZlphX3ln?oc=5"
     },
     {
       "outlet": "Correo del Sur",
@@ -323,6 +331,14 @@
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeS1GYjdGTURfZGdqWGhYRHNkeE81d3dHcUFsUG0yNUt5ZkVfMEpWT2N0Mld1dWVmZW5scERaTlQ2anBnYnVsOGZwanZGZlJfTEVCT1ltX0Rkak93QzdsU1dBdVVfT0FTSGlUWWNndHpGbWlCb3BaYnQxNm1TN1RkSjdtYTdlTm1nZ2ctYVVzVnNuMFU1TnMzeTMyVFo?oc=5"
     },
     {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "Economistas: “El tipo de cambio debe ser único, real y flexible”",
+      "date": "3 de diciembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMmF0anVBV2dBb0M4bzBBcTh6WWhzdWQyQUZzU3lUZkRVWVhGUzZRS1RHeWhwdnRPVzVyTC00aG5JVkZYOElod0czSENXZVdJY1FnRzc3dXRRYTdsNGJCRERqNE03MENqVlpsOFRYMUxicmI3SmpOMkJOV2lkd19sTEhpd1VTdkxxRk1rVGNJR3lZaDVEZ3M2MUpEbE9Ec2hFTDdBOWF3OGRYWlZQ?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -409,14 +425,6 @@
       "quote": "El dilema de cerrar o transformar las empresas públicas",
       "date": "15 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlBua2xHVEl2R1l4aXY0N3BLN2YtTXFlU1cwOUFsN2s2VnpGWTZCeGRxRHFZdGFuQUFuUHZKZzBDdnd4ZWFveWpUTUVaZDBkdDZUeXU1bFNxT2JuR0M4WW8yZTBXR0FXUnNORFYtck04cVdOZ3p6ZFJndHVxZlRXN1p2SnkxQktCS3V5RjFfQWNvWllzVExKbkowNlAtNC1QQ0F6Si1mUm0yZw?oc=5"
-    },
-    {
-      "outlet": "Asuntos Centrales",
-      "logo": "AC",
-      "favicon": "https://www.google.com/s2/favicons?domain=asuntoscentrales.com&sz=64",
-      "quote": "Bolivia entra en estanflación: economista advierte mayor pobreza y presión sobre empresas",
-      "date": "15 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0pKQkRIS2tZN1Fvc25FaGlQLTlLLWJWRllteU1OQ2VzU1UxZVV2S2M2VzBQSDB2RldBRllCRUtlSVlYUXdrU24wM0UzX0d5QnRaRDBkb2R6VElGcHpvT0dVTGpTdC1kWG1wZmlNUnBscHRkSExfLS1JQTRqNlRYdWlvRDhadWpEUTNtdmkxcEU2NENTaUgtclA5YVBKWHdoYmhqaXRnVnRTRnVYNXM1N2hNVkxNMjk1Z3c?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -571,12 +579,12 @@
       "href": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUtWcF8yeDZ1bVh3WWU2V1NIT25abFRjeWJwMkt6aDBnSGZ4aTFPRndKUGVkTUloUVFhZkZzcEd5b1RiWGhXRWtmMXBYcDZiNEJNNmU3clh4bGpZLTk3aHVVR3B3ZUpMUk1GUllhUWhxTVVuLVVpb3poQ3FDS1FHUnd2LWItTU54NlU2Sm1MemF3Uk01Yng1Qg?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Bolivia enfrenta la deuda externa más alta de los últimos 25 años",
       "date": "31 de julio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGJWSTRLR056bnAycTlZYi0wZ3hQcmZDVVJVZ01SUTM0SFplQUxzcU5zajVpQ1NWbXM1cHluWmlFd1Bfa0lVS1dfR0VoZXlOUWUtY3FaRkRBWnJGZzA3clViRXphNjZkRDh5aUI0bHNoVmJ1OUhQR1BwQm1HTVU5UkN2S3NPSHRYRVQzRkhnMGhNQUE?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTYzSndHLUt3dWtQaEM4RnlFVG9mc19GWmR4dW9IQU83MzJpeTVMdE9acE9TNFRubXcyZW1McU5nd3F5bGZfWjNSLXljc3B2b0tVek90U19YSlZ6UWV5bld0Qko1d3hFa0VvSTV2UzZIYXlZTWdjQlowRUVkQkVtQTFYcWZwZmZOWTZMcW5sQzdUU2Q0SC1sNHdPQVFGQjlBSzFwOUlFRVE?oc=5"
     },
     {
       "outlet": "Visión 360",
@@ -617,14 +625,6 @@
       "quote": "Nuevo Abasto: El Wall Street de las verduras y frutas, que define los precios en Santa Cruz",
       "date": "6 de julio, 2025",
       "href": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeFdTNERoRXhGbUxORDU5cWtPcFZNNTE0T2RfOF9heEN0S2Y5UC12alphN2NIbDN3RzJ6aklJQ2xxQ2NHbGFtNHVFUlBTVHZTb1B4a1d6dGxRd3pzNkk2ME1DdlE5UlZDWkJsWnZuTWRKUGRWV0lpem1RYXNXa0Z5QmRnNXhHb2h2cWtaVTNZQWFBSUxOOVh0dTlGdVAtX0lWRGdEZlJadDFiRDRPcHRfTUNfYVhYc2lIMEcwNW9UVTNvTUU?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Bolivia entra en fase de estanflación: “El ajuste es inevitable y será duro”, advierte economista de Populi",
-      "date": "5 de julio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnBGR1NkNWN2M1AtWTRtTlBWNEM1Ynd4MTdpbG4tNnN5UTBmclEzLVJBVE9MOHlobjgwMnNOTE1IQllFNXduZHAzdEVxT3BfLXlrTGRPaFFiOU40WmlSMWNvMmtHaEtXZTlHTGlTNWlWbFpzUkNuVXVTUjhWbzhWaFdhMUNJbTZZZEtuZzhCbXZDVnluRm4yYUpRdUtKRzRpVUNFLTY0UmpkMTZ3UE1mTlVzSldGWVFoVHdtMEh6c1FZOFNYMEdWdHIyOEVNSHpiWG53OFhWWVJXZGs?oc=5"
     },
     {
       "outlet": "Correo del Sur",
@@ -769,6 +769,14 @@
       "quote": "Economistas identifican más causas de la inflación",
       "date": "11 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDlBRnpiVEVKTGYtZnNaQU93RWREQnZmSWJqeWZoUEhWaXhGVi16ejVWb1RYTGRueS1BdG5GQlhwUTV5R1VGUFd2YzMxQUR1d2tZcEJXNWFGc25pWFBlYTNyZ2ZLZzd2aE5YWnZaLUI1TXVPN1AwcVd0NEdUZnRjSFlYTTkxVGJ0WnJVQnJRNTNxWEhUNGNPZ3ZRanNWWEU?oc=5"
+    },
+    {
+      "outlet": "elperiodico.com.bo",
+      "logo": "E",
+      "favicon": "https://www.google.com/s2/favicons?domain=elperiodico.com.bo&sz=64",
+      "quote": "Alertan que el alza salarial tiene un costo extra del 31% para empresarios",
+      "date": "10 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2xuOXNyeVpMSkQwdU1OLTMtTEZMSEtpQVQzZEpFSHdfemFDN0pLT05KZ05xbTlzVFJFSGpfZ3JKcVBRZXlBSzV6ZGM2bVlsXzhvek5ldHlFMmJYTEZ4NE8zYWdWb00wV05zYi1uREpDNFM5NXFBZ3JyY2VpTzZNNjRVRHczTHZsN3pGS1B2S0g5ZHhRRC1qNFhiZ3NWNW1JeF9R?oc=5"
     },
     {
       "outlet": "unitel.bo",

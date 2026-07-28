@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-27T13:33:19.722957+00:00",
+  "actualizado": "2026-07-28T12:48:54.158072+00:00",
   "total": 124,
   "medios": [
     {
@@ -163,12 +163,12 @@
       "href": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmEzellyRkl3bS1qOE5WZ2wtVkhuX2loZjVOSXRmOGVHQmtnOFlkOUVYUkxJa3hlUVU0Y0dPb3JRNmlVMHpkOXlScjF5Q1Nkb0JvU3hXMTFWSlliYjc0VV92Y2dzY1pyYnBxTjJjVm9UbGNINVlzb085amIwN2pYUWdnYVhUZGR5OFJzTHotZ2U2b1pJM3dRM25ZNE1nOHR5N1lGU0RDY3ZYUW1EZGlHbElHU1VUaXJCcXltTzE5cDl1bDEyYS1WRlhXX2k?oc=5"
     },
     {
-      "outlet": "Crónica",
-      "logo": "C",
-      "favicon": "https://www.google.com/s2/favicons?domain=cronicadigital.cl&sz=64",
-      "quote": "El partido del Presidente boliviano Rodrigo Paz fue derrotado en los comicios regionales",
-      "date": "21 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX19ReXRNenRENFJFOXJrSmx4QXpDX3ZCd0p3YVB3OWJ6U0tJWUx2ZkJqLUpXcTA4VmFvRU9TcENfWVpDampxUktxeEtXZlA2b2hlM2d5dTcxY25aSGN1MW96NFFINHdtNzdCM25CMDRhSVJlbWh5VVFDOVNCbDlCTV9oR0p2MUw3NFNwOGgwWEVmMVFZNnJUZGNQandZRTZvaGJnTnhVRVplSEwzUmYzMmFzUGYyUQ?oc=5"
+      "outlet": "americaeconomica.com",
+      "logo": "A",
+      "favicon": "https://www.google.com/s2/favicons?domain=americaeconomica.com&sz=64",
+      "quote": "El partido del presidente boliviano Rodrigo Paz fue derrotado en los comicios regionales",
+      "date": "20 de abril, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU1ZzMGhlWDdSV2QycmF6V3J2dUdXektUckJkYU5aLXVzR3FHYVlvcFR0Q2dmQ25aOXdZcnowREhvMldfeVpwUGtLemxfemVGZGFVTDhWdjVxOXNmTjYtc2M0SWhLTmFSZjU2STFwVXNpYVdkTGFZWjZOYXRMMHZkdVRfZjNlWHllbGxXYzZ0ZVRybGw1WWFURFh4M09Hb19tWGVFNE5FYUhZUVlDXy1KR1NxdVEwMEt4b2o0ZFBoWWxQbldEVzEyaDNURVZSNGFkbkZqTNIB2gFBVV95cUxOTi01eGtZZVNOdk0tS1VLVmgzY0hQckFEb0tsbHF5RGYyTFo3XzM0WUpFRUJVcTMwYTE5c3RtLXphTTFQbmk5eGwzWWk4LWUtUEViX1NGQ2xOT0cwQ1o4OFNxUFFzbjRGX1NsdjZfUDdMaU43MVZGVk01QjdFTlZVdXRROGkxREY4RlFiNHRyOUYxaG5XVF9zN2tiVTJ5X0VCd0VZRGk3UUpxQmFpak55QWpxWVUtdDRVN3lQOUFEM29aU3FTM0x0cWFKU2FCQkxaQUcxSzJ0Z0o2UQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -382,6 +382,14 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Óscar Tomianovic",
+      "date": "12 de noviembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LM3Z5UExkNWU2NWdOWGdHVDZDeEI5NzdGX2I0ck94OWZCdDRnUlJoSE10ekhkd21tWFN2REMyRXQxYngxSUR4MEdDWU5TeGwySTg1V0dVWWU?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Entre la motosierra y la licuadora",
       "date": "12 de noviembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oMzQ2cGxEanVxMTNJRFA1c0pnR003SFVhZnRqVDhLQ0QxUVdzN3Z3Z09sTEluWVpUeEpzZzJNcm9qVzBhV1NOdWFOV0ZSQkd1Y1dPemVzWGhMc3ZJR2hBaENFUEZTTzJKMDk1enh2VQ?oc=5"
@@ -481,14 +489,6 @@
       "quote": "Centro de Estudios Populi",
       "date": "7 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybDVjY19qbDk2TDhadFhzWDZuVXRNYXVPWDU4d1RObm9sSFNHLTBTMV8yRGwxSGY3VE1EYnpER1E2b2ZmSVZocGRYTHlMN093YnZPUmlBT19XZzNDR0x1T2dn?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Santa Cruz tiene un Observatorio de Presupuestos Fiscales de sus 56 municipios",
-      "date": "5 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONmlJV1hTUEc1MzF5cDE1YTAxRVZqRXVyWnBOLTA1NW8yUjh3Tl9CZW5wYjJLWWRrWWRuS2Nwc3dTQXh1aTRIT1NqcUdNNmkzeE82MU9tV3F6cjcza2tKVmp3aENJS285VU1yczhoc2FYUE1VRXNGc2o3d3E1ZVlHeVJRLUt0cWpZQW9PNWtjS0wwU0xHTzlkamRqZlVvQTFqMW93Ug?oc=5"
     },
     {
       "outlet": "El Deber",

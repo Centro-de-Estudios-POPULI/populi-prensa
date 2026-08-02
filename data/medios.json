@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-01T11:56:45.080571+00:00",
-  "total": 123,
+  "actualizado": "2026-08-02T11:55:23.593832+00:00",
+  "total": 124,
   "medios": [
     {
       "outlet": "economy.com.bo",
@@ -99,8 +99,8 @@
       "href": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnhEbV9QWlFHZmE5cHMySHRHV0NtR0tweWd0V2dkOGZRS3BHQXYzLTFhSElVQVVmWENJdUhGSTNid2o2Ni1FNWVyRzB3bU9jMDNOdWY4c1Y5UklmaHlkcjc1clJHSHdHdkVxazVXb2dJaFBBZVJKaWdabUNIdGtjTF8tekJxZnEwc1RDb1hOLXhwUQ?oc=5"
     },
     {
-      "outlet": "El Diario",
-      "logo": "D",
+      "outlet": "eldiario.net",
+      "logo": "EN",
       "favicon": "https://www.google.com/s2/favicons?domain=eldiario.net&sz=64",
       "quote": "Presentaron la primera plataforma de análisis fiscal y socioeconómico",
       "date": "29 de mayo, 2026",
@@ -323,8 +323,8 @@
       "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjk0UFBTTlBpOU1ncGtEeGZRZWc4YU9SYlg1ODNhaUdIZjFVcmQwaDRRc1c5M2ZIbGF4Wm8wY0dBVlh1NnI5VjZNVmR6UFMxMEJoX05rU2drdG5uZUNiU01rUFR6OF9XbEw4R2stN1ZfSXRrRVVIbzZfR3llV1RmX3k1eXM2U2Z5NG90Qy1XZlE0d0FmcHE3ZFZR?oc=5"
     },
     {
-      "outlet": "lapatria.bo",
-      "logo": "L",
+      "outlet": "La Patria 3.0",
+      "logo": "P30",
       "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
       "quote": "El dólar en Bolivia disminuye a Bs 9,10 en el mercado paralelo",
       "date": "13 de diciembre, 2025",
@@ -611,8 +611,8 @@
       "href": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGJWSTRLR056bnAycTlZYi0wZ3hQcmZDVVJVZ01SUTM0SFplQUxzcU5zajVpQ1NWbXM1cHluWmlFd1Bfa0lVS1dfR0VoZXlOUWUtY3FaRkRBWnJGZzA3clViRXphNjZkRDh5aUI0bHNoVmJ1OUhQR1BwQm1HTVU5UkN2S3NPSHRYRVQzRkhnMGhNQUE?oc=5"
     },
     {
-      "outlet": "vision360.bo",
-      "logo": "V",
+      "outlet": "Visión 360",
+      "logo": "V3",
       "favicon": "https://www.google.com/s2/favicons?domain=vision360.bo&sz=64",
       "quote": "¿Cuántos dólares necesita Bolivia? Se requieren más de $us 14 mil millones para 2025 y 2026, según el Centro Populi",
       "date": "30 de julio, 2025",
@@ -627,8 +627,8 @@
       "href": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejlnSG9nQ05FaENCY3JGcDJKai1PWi1jUlA0MGhoUFk3RWtNa3hCNC1HNTQ4S3lMbTNoNEdLbVRseFNQN2lBbkRfX2VDV2liQzNQSmdJRnJvbDhremRtSDNuNU5OR3RHNTlNcXkyd1U0Skl4NEFZaTR1YnNHbHFFNVhrZjUxdWttcDRFNVNBOGJiMTZfZ0R0TTQ2ZjZaU2Ezb0ZTcTR3?oc=5"
     },
     {
-      "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
-      "logo": "DNP",
+      "outlet": "eldia.com.bo",
+      "logo": "E",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
       "quote": "Revelan cifras alarmantes: Bolivia necesita $us 14 mil millones para 2025 y 2026",
       "date": "30 de julio, 2025",
@@ -694,7 +694,7 @@
       "outlet": "elmundo.com.bo",
       "logo": "E",
       "favicon": "https://www.google.com/s2/favicons?domain=elmundo.com.bo&sz=64",
-      "quote": "La crisis económica se agrava por falta de medidas contundentes | El Mundo",
+      "quote": "La crisis económica se agrava por falta de medidas contundentes",
       "date": "12 de junio, 2025",
       "href": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOby1kSnNRZFR2NnlGRF8wV090UkNTUjBuNnVsUEtFQVc0YS1OTFJJMjdDaldnelI0MGNGTmtya2ZoZmhycWZwakdTOVRoUnpuaVlEMGlNRGZDVE1ZUlE0VFphSUs1RGVQbmo0WlA5VUJIZ0x0a0txS3N6VWpxekdmdC1ZZkk4WEZoVW1oZVFfc3g?oc=5"
     },
@@ -721,6 +721,14 @@
       "quote": "Economista advierte que propuesta de Del Castillo “puede intensificar la salida de dólares”",
       "date": "4 de junio, 2025",
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMG9jNktwM043cW5HYkRRdHJucWpJWThtZFRMLWtTQ2J2eC1TVkJzb1VRMmR5VVJBbnE1V3BnWlRYZS1yUEZwcVhNcHZtUFc1U1ZBVmtRU0pNSnQzWXhLcjRvMjktb3FxOHJRVFozQkg2Q1h0NVhGVk1SWGRhaTl4X3RkMHpkS01jNk5pSnRGT05kd08wbVd0aDUzVFlibXVlY1hKaE5mMHFyQlhESGFaNVJBdk5hXzdUUzktdlFvU1Z2OVFxcG9fZg?oc=5"
+    },
+    {
+      "outlet": "Publico.bo",
+      "logo": "P",
+      "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
+      "quote": "Lo que el FMI ya dijo",
+      "date": "1 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DcW0tYTZUZ0FDeWRiOWZiTS1yWVY5R0haMGV0RXV6TEx2X2t2WTdCU3oycmhrNjJEWGxTRk9RZ0FBRGhISjZTZGRjd1FxaWhnaks3V2lRc0gxYnAyOGc?oc=5"
     },
     {
       "outlet": "eju.tv",
@@ -803,16 +811,16 @@
       "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkFFbzZWcmJjUEtzb2tBdENQSUFpNkNOeEJTT3pVOWtLM2JpRTZzNms2dEdHR2dicC1mSEhsclc5em5mU0VyVDRxY3J1LUU4TXV1c3VrWVRkMmp1UFpkX2tya05YWjR4RGtZVjlCOWRnV1FWa18yVUVTSjlWa0UyUW1wSFNYM0ZWU2x4bXh6OXlBdWFTMkZsR0w1QWJfZTBobFFueVR5dklIeFVIQmVNb3ZHMWxMMXNCSVN5SF9lWQ?oc=5"
     },
     {
-      "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
-      "logo": "DNP",
+      "outlet": "eldia.com.bo",
+      "logo": "E",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
       "quote": "Conozca los 25 productos que más aumentaron de precio en un año, entre ellos el café",
       "date": "9 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG5nZjBaMDJidWdlNElJbHk1VXBxOFd1UjlJQmlqemJReVJpX3ZySFJXUUROeHdEckd4aVNLN2pjM0hXRmhsWGdCM2dqdWdjWFhWbU5DSWRRekpkdjJtMzFPa0lneHlIamJBR0VCYnc5bkthZlNUZEJZZVIzZUoxOFNBcm04MkplNkJxUTVyUnpsRURPaFIzT0pkbEp1V3BDQzlUMlBxdV8wSk4xU1JldVZVS1NqaXBCOUhpWjlXNF82ZXhJNHIyMw?oc=5"
     },
     {
-      "outlet": "lapatria.bo",
-      "logo": "L",
+      "outlet": "La Patria 3.0",
+      "logo": "P30",
       "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
       "quote": "Aumento de precios esenciales en Bolivia: un estudio evidencia incrementos del 79%",
       "date": "9 de abril, 2025",

@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-05T12:48:13.363372+00:00",
-  "total": 131,
+  "actualizado": "2026-08-06T12:51:45.994626+00:00",
+  "total": 132,
   "medios": [
     {
       "outlet": "economy.com.bo",
@@ -75,8 +75,8 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0FwbGZTRE9HRlBOMmxLc1I4R3NCb0JZSDVOb242TDktcndmdVJhUEYzeFhVSjRJekRGZlFkM0tlb2tURkQ3M3g3aG0zWFUyR1dXak80M3NQU1FRX1BwVkJQeXI0dXo2SlFXZklRcmI1dUZoZUhrQ2UteXBmc2RZY1dvR1UxT3RDcHBkUDZlNWxFeWpLeUlvV05lYlZlaFJKU29ORWZCWQ?oc=5"
     },
     {
-      "outlet": "Red Uno",
-      "logo": "RU",
+      "outlet": "reduno.com.bo",
+      "logo": "R",
       "favicon": "https://www.google.com/s2/favicons?domain=reduno.com.bo&sz=64",
       "quote": "¿Qué son los gastos hormiga y cómo afectan sus finanzas personales?",
       "date": "8 de junio, 2026",
@@ -291,6 +291,14 @@
       "href": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2NjOVNEU3d6TXE4dnMyYnRCalBVTngydFJIM3d3UTJneGJBbWY4VEhfcFhQcThFTjZYV0s0aGhqM1hhVVVPRkU5Njl5WlZhemVLRWhpTmlFeGZXXzdKRXNURUFZR1R3TzZYbElmMFBZZW1vT2xhekkyRjV4NkN3LVNrSjFZTFFHbTJlQTRmZDg?oc=5"
     },
     {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "Fallece Tito Kuramoto, referente histórico de las artes plásticas cruceñas",
+      "date": "26 de enero, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSldsaFlZZC1IQjJQcUx0aWVQWkFWdTBJUF8tYkZydzY2UjNScHpKTnhfTFZmdWQ1TkFoeDRRbTRST2RrUVVwenB0YWxIM0E5WVhwcG5SOUpjQ2hwd0pGOXdUbTFTamRJZWp3R28tejlHRTNHYmFvMzlOVVE3ZXNPSVQxbE1ySjVFVDdfSUFnSlFYM3l2V0E0emI5Yl9ObzBxVE9z?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -451,14 +459,6 @@
       "href": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGdqWGtwemNhTWFsMFZJUjlHUXN2TGlJdDR2YkhybnhrY1NWQWJxd3J5RUtYZ0RTUWRwT0VJbjNZanFwd0JRdy1KQzJkYzVxelBJVkVTVHFuOXNMbnV1QXNjNVExMGp4Y2FlRXJOdzZfREVqTjRDQlBfLU0zMHlqenRYY1ZjNURVWUtsbA?oc=5"
     },
     {
-      "outlet": "Nueva Presencia",
-      "logo": "NP",
-      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
-      "quote": "Etiqueta: CAF",
-      "date": "13 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UDFjWUc1LUstUmZBMFJZX2hkcldVQkM3Z2ZjbTZZZ3ItcUp4WXZVQmlmOG13LXB4a1ZPazViU0pkd0EtUjFWMGNpVQ?oc=5"
-    },
-    {
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
@@ -467,8 +467,16 @@
       "href": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGszTWhFN2NFUkJhWjV6dHEybTRleWp2Q2NIZFJLNEZHQ2pQaG5rcjFycWFuVTdZaThIaHFlSGxWN3ZDT1VZb192NXNBMVFPMjJ5Q0FGX0FfOHJOTmJjdTZ1dF9QVjRMVlQ4YTB6QVdYQ1hwZGp4aXNfSzFMdXhrMG01eE5Ia0Q0X2dXaDBCRm81RkZfYlYycE1JX2RoQQ?oc=5"
     },
     {
-      "outlet": "Connectas",
-      "logo": "C",
+      "outlet": "Bolivia Verifica",
+      "logo": "V",
+      "favicon": "https://www.google.com/s2/favicons?domain=boliviaverifica.bo&sz=64",
+      "quote": "Las joyas de la abuela están empeñadas y el futuro de la economía también",
+      "date": "10 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmtYZFNvUnduYTRKenlKT2I2Q3c5SVh1bDJFSHpaVjQtSnp3ajkwWVgyQUtiVTJXN1d3TWJZQmVmWHcxT2NVZGVaVXRIRFdEZjlmbS1HaGlLS2UtSU9uS1lJV2NOOGlicm5aTjhuamVhc2NHVloxczJnZ3dxSnNZQkQwelpGWG9yaVpJdGVrTmlUb2o3Y200Qjl0emY4QXhJbVE4?oc=5"
+    },
+    {
+      "outlet": "connectas.org",
+      "logo": "CO",
       "favicon": "https://www.google.com/s2/favicons?domain=connectas.org&sz=64",
       "quote": "Bolivia empaña sus reservas de oro y su futuro económico",
       "date": "8 de octubre, 2025",
@@ -611,12 +619,12 @@
       "href": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUtWcF8yeDZ1bVh3WWU2V1NIT25abFRjeWJwMkt6aDBnSGZ4aTFPRndKUGVkTUloUVFhZkZzcEd5b1RiWGhXRWtmMXBYcDZiNEJNNmU3clh4bGpZLTk3aHVVR3B3ZUpMUk1GUllhUWhxTVVuLVVpb3poQ3FDS1FHUnd2LWItTU54NlU2Sm1MemF3Uk01Yng1Qg?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Bolivia enfrenta la deuda externa más alta de los últimos 25 años",
       "date": "31 de julio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGJWSTRLR056bnAycTlZYi0wZ3hQcmZDVVJVZ01SUTM0SFplQUxzcU5zajVpQ1NWbXM1cHluWmlFd1Bfa0lVS1dfR0VoZXlOUWUtY3FaRkRBWnJGZzA3clViRXphNjZkRDh5aUI0bHNoVmJ1OUhQR1BwQm1HTVU5UkN2S3NPSHRYRVQzRkhnMGhNQUE?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTYzSndHLUt3dWtQaEM4RnlFVG9mc19GWmR4dW9IQU83MzJpeTVMdE9acE9TNFRubXcyZW1McU5nd3F5bGZfWjNSLXljc3B2b0tVek90U19YSlZ6UWV5bld0Qko1d3hFa0VvSTV2UzZIYXlZTWdjQlowRUVkQkVtQTFYcWZwZmZOWTZMcW5sQzdUU2Q0SC1sNHdPQVFGQjlBSzFwOUlFRVE?oc=5"
     },
     {
       "outlet": "Visión 360",
@@ -635,8 +643,8 @@
       "href": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejlnSG9nQ05FaENCY3JGcDJKai1PWi1jUlA0MGhoUFk3RWtNa3hCNC1HNTQ4S3lMbTNoNEdLbVRseFNQN2lBbkRfX2VDV2liQzNQSmdJRnJvbDhremRtSDNuNU5OR3RHNTlNcXkyd1U0Skl4NEFZaTR1YnNHbHFFNVhrZjUxdWttcDRFNVNBOGJiMTZfZ0R0TTQ2ZjZaU2Ezb0ZTcTR3?oc=5"
     },
     {
-      "outlet": "eldia.com.bo",
-      "logo": "E",
+      "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
+      "logo": "DNP",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
       "quote": "Revelan cifras alarmantes: Bolivia necesita $us 14 mil millones para 2025 y 2026",
       "date": "30 de julio, 2025",
@@ -702,14 +710,6 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "BCB registra 605 millones de operaciones bancarias utilizando medios electrónicos",
-      "date": "25 de junio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRmFZMEJpS1VTOGxQUDFpclk3TnBRQnBjcE5FYnVUOVEyQlRtQUZ6aHExZnBIaS1Qc3VGTUpma2VBTWFMSU9CdWQyNDMtVzlmTndkYzRKOVlOUjRGUWc4QW4zblNoclZ0SjltZGtrU1N4XzRPVWN3amdpRWhDZXh6cFh1TWNGVWFqcFBmdVF0ZUFydTNONVFoQnhkeVVPdmRlUkZMdE9lRU9uNnFJcHF2NzR3eVpoeV9LbVRWQzd3?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "¿Diferir o debilitar? La banca en tensión ante esta posibilidad electoral",
       "date": "24 de junio, 2025",
       "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmRzRFZPZy13NDZwWm94QU9aTUUzc0hlSm9rb0d0REFuWHhJR1JDVmZCUXhnMHlBRjJwSUl6TGwzOVZHaUpEM041QTFsdDRHVTJpT1AxYkJ1RVpPcU9HUndYYXNVV3FJdDVVdldPbWdVcjVEMmRrX1pSV0V4QkdYRTFyaDFyZHpUak1BbENyQ2ZLN1J4ZVpTRi04VmlFajlQdFVYOVpSSkI4aUtkS2N3Qg?oc=5"
@@ -747,7 +747,7 @@
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMG9jNktwM043cW5HYkRRdHJucWpJWThtZFRMLWtTQ2J2eC1TVkJzb1VRMmR5VVJBbnE1V3BnWlRYZS1yUEZwcVhNcHZtUFc1U1ZBVmtRU0pNSnQzWXhLcjRvMjktb3FxOHJRVFozQkg2Q1h0NVhGVk1SWGRhaTl4X3RkMHpkS01jNk5pSnRGT05kd08wbVd0aDUzVFlibXVlY1hKaE5mMHFyQlhESGFaNVJBdk5hXzdUUzktdlFvU1Z2OVFxcG9fZg?oc=5"
     },
     {
-      "outlet": "Publico.bo",
+      "outlet": "publico.bo",
       "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
       "quote": "Lo que el FMI ya dijo",
@@ -843,8 +843,8 @@
       "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkFFbzZWcmJjUEtzb2tBdENQSUFpNkNOeEJTT3pVOWtLM2JpRTZzNms2dEdHR2dicC1mSEhsclc5em5mU0VyVDRxY3J1LUU4TXV1c3VrWVRkMmp1UFpkX2tya05YWjR4RGtZVjlCOWRnV1FWa18yVUVTSjlWa0UyUW1wSFNYM0ZWU2x4bXh6OXlBdWFTMkZsR0w1QWJfZTBobFFueVR5dklIeFVIQmVNb3ZHMWxMMXNCSVN5SF9lWQ?oc=5"
     },
     {
-      "outlet": "eldia.com.bo",
-      "logo": "E",
+      "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
+      "logo": "DNP",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
       "quote": "Conozca los 25 productos que más aumentaron de precio en un año, entre ellos el café",
       "date": "9 de abril, 2025",
@@ -1049,6 +1049,14 @@
       "quote": "Bolivia entre los tres países con menor libertad económica en Sudamérica",
       "date": "20 de septiembre, 2023",
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1Bac0JjZkpDbTlkZkgyS2NMT3ZYUkNEWEpQajExeXVRY3pEM21pSFJaWk9wWG5ZWGtiZm5jeTVUVE9GbGZ0NDk1VWQ5VUlOb2FDdzhqWnVNcFhmbnh5SHdwWWMyWVFOZjRhTXJtY0VWSFNhUVIzczNQUVJ3Z1ZXeFNKYlpaREJHN2lSd0pwMG1GamZZRTgxazdZZmM?oc=5"
+    },
+    {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "Constructores reeligieron a Carolina Gutiérrez como presidente de Cadecocruz",
+      "date": "15 de marzo, 2023",
+      "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWtROGl4cUpfVjZKVjRJM3BQQ0ZGQ3Y0WHBpaGxnRjZGb0ZEN3MwZHFGM2VMVnJ5QTMxeGNERDUwVTcyRm80VmZyOEV1aFlLMFNTZ2VOd1d2YjhLcUx5ZE1OUVhWUUlCeURDRXhLRWtZN2JPQkdSbVJjaGpDV1FDZXhZeVNYamVCSmxILTM0ZTQzQnU3NFcyNWhsbTBfTkFFemc?oc=5"
     }
   ]
 }

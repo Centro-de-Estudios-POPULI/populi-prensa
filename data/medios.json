@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T11:39:17.859432+00:00",
+  "actualizado": "2026-08-08T11:21:04.970912+00:00",
   "total": 134,
   "medios": [
     {
@@ -7,7 +7,7 @@
       "logo": "E",
       "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
       "quote": "Primer balance del tipo de cambio flexible: más presión sobre precios y divisas",
-      "date": "1 de agosto, 2026",
+      "date": "31 de julio, 2026",
       "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbHpYa3NGLVl2am05dXJReGlNRWRfc3B5MmdUa2FjWldabVE5UEFodGNmVjZzcUxHS05IaWFQblBoYVU4NzlMWXJ3SGVGanBNMVVmSDIyaGJPX0tNdUdtWW1vR0swazM0S3U4dlRvQWk0NGU5SkF4MkJhR0Y4eGswSGswUkV3ajRWbTNIQUpZVXZvLUZkbWVORmg0T29QX29oY3psNEMtbklSY254UXRJU0MxVXMyRk1KbkVDYmRVVkpFSnFqbVV1dldmVzRBUkXSAdQBQVVfeXFMUHJsQmJaSEU0ZXlheFBITnV4R0p2OTl2R0Z5S0VDSEthSG16cDhhUXBIRmxIcHBtTFgxYnZOdW9ER2NzanN3VkRwVGx0ZER5dHp1LXRpQnpjNEFFVjJRR0FVcXIxcXZSbWdGOWhSU0dmU3I1LTVpNzA2N0l4dVQwSDhvaGxyMF9wUlJ2V3lILThUOXFfTDJoYlNLY0g5UnVfZDRtcUI1N2VxSTI5NmtWMjJuV0ZXVEp6X0RZOHhhMXhHMmVzUnZUbzVpekk1YV8tREUzdWU?oc=5"
     },
     {
@@ -75,8 +75,8 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0FwbGZTRE9HRlBOMmxLc1I4R3NCb0JZSDVOb242TDktcndmdVJhUEYzeFhVSjRJekRGZlFkM0tlb2tURkQ3M3g3aG0zWFUyR1dXak80M3NQU1FRX1BwVkJQeXI0dXo2SlFXZklRcmI1dUZoZUhrQ2UteXBmc2RZY1dvR1UxT3RDcHBkUDZlNWxFeWpLeUlvV05lYlZlaFJKU29ORWZCWQ?oc=5"
     },
     {
-      "outlet": "reduno.com.bo",
-      "logo": "R",
+      "outlet": "Red Uno",
+      "logo": "RU",
       "favicon": "https://www.google.com/s2/favicons?domain=reduno.com.bo&sz=64",
       "quote": "¿Qué son los gastos hormiga y cómo afectan sus finanzas personales?",
       "date": "8 de junio, 2026",
@@ -414,6 +414,14 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Plazos críticos, austeridad y financiación marcan la reconstrucción del PGE 2026",
+      "date": "17 de noviembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUDF0SVVDdk14U2xqRVRhUTJ4X1ZsSnExRTJaaF9aV25odDM2aXVkTlBzT0piU3NnMHliTEt4VXA3YklINUk3cDNRekVERmFTWmt0U1lSclNhT2trLTNRX1pBYlY4SzVJaERTWlRCTHJ2QkRIVkMyNV96M3psUVpWY2wxWGVuSnBBNnc0Ymk3Z1laMFpBNEk2UVFHcFZFUTk1cFlyMnR3R3lJOE9rLTBpb1VJNA?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Óscar Tomianovic",
       "date": "12 de noviembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LM3Z5UExkNWU2NWdOWGdHVDZDeEI5NzdGX2I0ck94OWZCdDRnUlJoSE10ekhkd21tWFN2REMyRXQxYngxSUR4MEdDWU5TeGwySTg1V0dVWWU?oc=5"
@@ -451,6 +459,14 @@
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVdCT05tc3Y4N2tIdWNEQkcyZDIxZHo2UEZPSTRkX21UVEZ5eDI3M0NWbF9TTldnMllYSXh1ZlBMQ21nZkYxTDg1bXlXSUdKc1BCMmpQMmlPY1B4U2tuLU5sUUw4Z29ZT2dOQkExbjQwUTVjcEFmdjd1MVNWdXdHaGJ6SHBpMUlXWG9XXzgxWG1rc1Q5WmdFYzVxaw?oc=5"
     },
     {
+      "outlet": "Los Tiempos",
+      "logo": "T",
+      "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
+      "quote": "El dilema de cerrar o transformar las empresas públicas",
+      "date": "15 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlBua2xHVEl2R1l4aXY0N3BLN2YtTXFlU1cwOUFsN2s2VnpGWTZCeGRxRHFZdGFuQUFuUHZKZzBDdnd4ZWFveWpUTUVaZDBkdDZUeXU1bFNxT2JuR0M4WW8yZTBXR0FXUnNORFYtck04cVdOZ3p6ZFJndHVxZlRXN1p2SnkxQktCS3V5RjFfQWNvWllzVExKbkowNlAtNC1QQ0F6Si1mUm0yZw?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -459,16 +475,8 @@
       "href": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGdqWGtwemNhTWFsMFZJUjlHUXN2TGlJdDR2YkhybnhrY1NWQWJxd3J5RUtYZ0RTUWRwT0VJbjNZanFwd0JRdy1KQzJkYzVxelBJVkVTVHFuOXNMbnV1QXNjNVExMGp4Y2FlRXJOdzZfREVqTjRDQlBfLU0zMHlqenRYY1ZjNURVWUtsbA?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
-      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "El futuro de la economía de Bolivia está empeñada",
-      "date": "12 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGszTWhFN2NFUkJhWjV6dHEybTRleWp2Q2NIZFJLNEZHQ2pQaG5rcjFycWFuVTdZaThIaHFlSGxWN3ZDT1VZb192NXNBMVFPMjJ5Q0FGX0FfOHJOTmJjdTZ1dF9QVjRMVlQ4YTB6QVdYQ1hwZGp4aXNfSzFMdXhrMG01eE5Ia0Q0X2dXaDBCRm81RkZfYlYycE1JX2RoQQ?oc=5"
-    },
-    {
-      "outlet": "Bolivia Verifica",
-      "logo": "V",
+      "outlet": "boliviaverifica.bo",
+      "logo": "B",
       "favicon": "https://www.google.com/s2/favicons?domain=boliviaverifica.bo&sz=64",
       "quote": "Las joyas de la abuela están empeñadas y el futuro de la economía también",
       "date": "10 de octubre, 2025",
@@ -755,7 +763,7 @@
       "href": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUZadS1yR05IdGtEZzNJQ2U0YWlVRG9GY0MxdEc0TjJ3OElzQTBJQ3pUMXZrbnExS0g0SVdlYVRNNXE0Z1hvQzRHeHpvNHFqRGcyTjRqbGh5TGlUamhuWVpfTldqdXZvYXJBYzJNb1dYemQzeXA2UEpkbmdWXzQtQmpkblBldUhPVHRjZDB6VmFUS0NTYVdoNXgyNWk3SXRHQTdzX2tCN2NtTkNwRWt6Qnh3VEVmUQ?oc=5"
     },
     {
-      "outlet": "Publico.bo",
+      "outlet": "publico.bo",
       "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
       "quote": "Lo que el FMI ya dijo",
@@ -763,12 +771,12 @@
       "href": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DcW0tYTZUZ0FDeWRiOWZiTS1yWVY5R0haMGV0RXV6TEx2X2t2WTdCU3oycmhrNjJEWGxTRk9RZ0FBRGhISjZTZGRjd1FxaWhnaks3V2lRc0gxYnAyOGc?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Jarvardts",
-      "date": "31 de mayo, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnSUQ5OEpwQ1lJZnhGVExyZWNtd0R2QjlZU1k1a0NtV2dTQUZKSlJmUDY5RE9vMHVlajFXN3RCSjltQmdra1ZVdg?oc=5"
+      "outlet": "brujuladigital.net",
+      "logo": "BN",
+      "favicon": "https://www.google.com/s2/favicons?domain=brujuladigital.net&sz=64",
+      "quote": "\"Jarvardts\"",
+      "date": "1 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uTjkzajZhTi15cjdQZmwtbmgyc2t1dHEwXy1vUFU0a3MwZFV1V01hSzdOQV82U2UxdHlUUG5qVGxBVU5wTWxnX3VHOEVWSU1yZkxldEZaMTAwRGVla0Zz?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -841,14 +849,6 @@
       "quote": "Economistas apuntan al financiamiento del déficit fiscal como detonante de la inflación",
       "date": "10 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDdUZV9YdXoyMXY0bUM2MlVKZW1fblpwSXRPRUVmeTZpNWl0Z2Vha29TTHFZdG5JTnl4T2VmbTV5MHpNQ1BiRjNtNmVnVWo2cXlyOXM1QUh1RTBuR29JQ3QwMnVWbUZ1QjhfTXNaaVhxRm41bFlnc0MzLTM3NFYyN1pqZjJBX2loNFpKUFBySHdBZ2hTcTY3eW5WcnVHal9JdEp1YjJNcmNjWGlIVmlnUWlJY1RCZGdRVEdwWnR4VmlCSzl6a0tCRnJtN05Ya0U?oc=5"
-    },
-    {
-      "outlet": "La Razón Digital Bolivia",
-      "logo": "R",
-      "favicon": "https://www.google.com/s2/favicons?domain=larazon.bo&sz=64",
-      "quote": "Inflación dispara precios de alimentos y productos básicos, alerta Populi",
-      "date": "9 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkFFbzZWcmJjUEtzb2tBdENQSUFpNkNOeEJTT3pVOWtLM2JpRTZzNms2dEdHR2dicC1mSEhsclc5em5mU0VyVDRxY3J1LUU4TXV1c3VrWVRkMmp1UFpkX2tya05YWjR4RGtZVjlCOWRnV1FWa18yVUVTSjlWa0UyUW1wSFNYM0ZWU2x4bXh6OXlBdWFTMkZsR0w1QWJfZTBobFFueVR5dklIeFVIQmVNb3ZHMWxMMXNCSVN5SF9lWQ?oc=5"
     },
     {
       "outlet": "EL DÍA - Noticias de Bolivia para el mundo",

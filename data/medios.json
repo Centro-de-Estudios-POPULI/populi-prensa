@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-08-09T11:21:31.568398+00:00",
-  "total": 131,
+  "actualizado": "2026-08-10T11:42:05.228285+00:00",
+  "total": 135,
   "medios": [
+    {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "La inflación cayó en julio, pero el bolsillo aún no siente el alivio",
+      "date": "10 de agosto, 2026",
+      "href": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1dOYnJjQmdCMzNabGpyWnl0TGJWdkFEMU4wOHl4Q1k3b0VfellBd28xVzVNZlZUUi1VQ20waG9GcE9tNVRha0lLNWh6QkF1ZGpXVEZTbjU4amM0N0FUem1EbGw0WjY3LTBNVEtGaFZ4WW4xeW44aWZrbXllODgtR2NYaWllLVkyaUtqaUtJOGY0WHJ0Qnc?oc=5"
+    },
     {
       "outlet": "economy.com.bo",
       "logo": "E",
@@ -75,8 +83,8 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0FwbGZTRE9HRlBOMmxLc1I4R3NCb0JZSDVOb242TDktcndmdVJhUEYzeFhVSjRJekRGZlFkM0tlb2tURkQ3M3g3aG0zWFUyR1dXak80M3NQU1FRX1BwVkJQeXI0dXo2SlFXZklRcmI1dUZoZUhrQ2UteXBmc2RZY1dvR1UxT3RDcHBkUDZlNWxFeWpLeUlvV05lYlZlaFJKU29ORWZCWQ?oc=5"
     },
     {
-      "outlet": "Red Uno",
-      "logo": "RU",
+      "outlet": "reduno.com.bo",
+      "logo": "R",
       "favicon": "https://www.google.com/s2/favicons?domain=reduno.com.bo&sz=64",
       "quote": "¿Qué son los gastos hormiga y cómo afectan sus finanzas personales?",
       "date": "8 de junio, 2026",
@@ -467,6 +475,14 @@
       "href": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGdqWGtwemNhTWFsMFZJUjlHUXN2TGlJdDR2YkhybnhrY1NWQWJxd3J5RUtYZ0RTUWRwT0VJbjNZanFwd0JRdy1KQzJkYzVxelBJVkVTVHFuOXNMbnV1QXNjNVExMGp4Y2FlRXJOdzZfREVqTjRDQlBfLU0zMHlqenRYY1ZjNURVWUtsbA?oc=5"
     },
     {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "El futuro de la economía de Bolivia está empeñada",
+      "date": "12 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGszTWhFN2NFUkJhWjV6dHEybTRleWp2Q2NIZFJLNEZHQ2pQaG5rcjFycWFuVTdZaThIaHFlSGxWN3ZDT1VZb192NXNBMVFPMjJ5Q0FGX0FfOHJOTmJjdTZ1dF9QVjRMVlQ4YTB6QVdYQ1hwZGp4aXNfSzFMdXhrMG01eE5Ia0Q0X2dXaDBCRm81RkZfYlYycE1JX2RoQQ?oc=5"
+    },
+    {
       "outlet": "Connectas",
       "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=connectas.org&sz=64",
@@ -582,6 +598,14 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Bolivia en el Bicentenario: Un manifiesto por el crecimiento económico del país",
+      "date": "12 de agosto, 2025",
+      "href": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMm9fakJ4cDJ3cmt5Y3BnXzROcU5GV3EyTTl6ZzVtaFdxNFY4NUplNW50X09vaVJxZEhLNjV2NnRoNVhYck5tVXVDZVBDZk5HMTE0UTZ4QnFDZkdCM05uZ25aenpLT2lRWkIzVHhTdnQ4SEJxNWJSSzdQa2NuUjVMVHJmUl8yVE8tdjgydkxMOWhEWVpMSlBjWWlmWkVFMDBleGwtVTY1cS0taElsRXl6VGx4bEVDQQ?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "El próximo Gobierno debe pagar más de $us 8.000 millones por deuda externa",
       "date": "10 de agosto, 2025",
       "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1lZU3EwN19NNjRDaFhCOEF4YjZpMWI0UlhWcm1NME9MOEYwZTM3Rlo5Vk51RnVQTUQ1Z0YzbHEzNF9QVWI2VkpUclA4bF9xQ3lCSnk5cFBqWjA1NC0tT1Bobkd2TVZUUFQ0X0Fmamw0bDFpR3FEZFJYVTdIOW1uRHRzNnM2Q1RYdUxieGxvSFI0MmRnQUoxT2NSeVJrSUp2NXA0TzlTSkhLWmR4?oc=5"
@@ -611,8 +635,8 @@
       "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTYzSndHLUt3dWtQaEM4RnlFVG9mc19GWmR4dW9IQU83MzJpeTVMdE9acE9TNFRubXcyZW1McU5nd3F5bGZfWjNSLXljc3B2b0tVek90U19YSlZ6UWV5bld0Qko1d3hFa0VvSTV2UzZIYXlZTWdjQlowRUVkQkVtQTFYcWZwZmZOWTZMcW5sQzdUU2Q0SC1sNHdPQVFGQjlBSzFwOUlFRVE?oc=5"
     },
     {
-      "outlet": "vision360.bo",
-      "logo": "V",
+      "outlet": "Visión 360",
+      "logo": "V3",
       "favicon": "https://www.google.com/s2/favicons?domain=vision360.bo&sz=64",
       "quote": "¿Cuántos dólares necesita Bolivia? Se requieren más de $us 14 mil millones para 2025 y 2026, según el Centro Populi",
       "date": "30 de julio, 2025",
@@ -689,6 +713,14 @@
       "quote": "Dólar paralelo cae y reservas suben, pero el “respiro” no cambia la crisis",
       "date": "2 de julio, 2025",
       "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXRqLUVTeXVmWTJVNHFQVzBYQ3hkcXU0WFAyYUtza09ZejhLZDFmeDI5ODVaRlpkcXlYUVVWcWdtejlRTHBtQXlmcmkwbEJqdzMyMm5DR2kwWktMMjB4a0tEOVhURDN5MXc1ZEJmT2U4Yk56UTlkeFFMTWRIM0djNENldWZHMURnSkozWUV6UmdzM3ZLeUo0REFIeFV6eEtnR3hQdjJxRlZvakxhZFFhOQ?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Bolivia, con alto riesgo financiero, podría enfrentar la probabilidad de “default”",
+      "date": "1 de julio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYld5WjJ6b1FWUkNaZ1lwRXRjdXN6RkNEQ0M2RjhWUHlFVHRVRl81TVk3SUVNalBSYWYyQ3FOZG9rN0V4NGViX3NWa2lQeHdzc2t6dzZXTEoxMnptLWtlUXBZNDZJLTZZb3FETUpXdWNtOGpyNlpWYzg1bEVuTHVUWk5Cdl9TcGVXT25fb0x3QmRGR0x3VlVtLWUxMFBVTm4tTjhlWUZXRmxES1NpODZmdE9PSFppNkU?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -971,6 +1003,14 @@
       "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3dzb0ppZlJEa0V2MDNhay1pUEJvX3FFMW9aTmdZSnl2Rk9SWFJFbFlRQkZKZkNVMnlPZVlWMWlfRU0ySTJHb0lCRWN1MTFEY19NMV9wQ0pUSVRJVlROUEc3dmt4N3ZENmt0Ry1rV01CUkZjWHFGeFJZVVZFQVZZdmV1cmhDX1pTY09mRDlfNGd2Uk5SaENSdklaWnpsNzhoQmpWSmpERkdZdlQz?oc=5"
     },
     {
+      "outlet": "unitel.bo",
+      "logo": "U",
+      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
+      "quote": "Bolivia registra una balanza comercial negativa de más $us 270 millones al primer semestre, según el INE",
+      "date": "5 de agosto, 2024",
+      "href": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRHB6X0RNNi10UzhqcXo3U2hQdHpWaVR2X3V1dmZ4X25uUnY5NmNFSUs1aHBmZkhVeVNKWm81aEVLTWRrdVF4Vk9qMUVrSzBiQ1d5UTQySGZMbTNsTlI3WXJLMnJ6UnRSSWlRSl9meVlzYzNMT2F0YnNDNmdaaHRFVWo2dkk5LWJJaEloT2hlNU9xYTJhRHR5emd0c05JUXR2QjZSTUhvTnFNLU0wMkNYNEdzNXZiUnVyclM4MG1pYWV4cm5qNkJtLWVXakN0MTV6UzVxc3Y5dWJWdlNMU201eTRVYw?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -1017,14 +1057,6 @@
       "quote": "Deforestación: El Piraí perdió un 62,65% de bosques ribereños y el Río Grande un 34,65%",
       "date": "31 de marzo, 2024",
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSXNUV1djNWNlY2E1eFY1VVFKQ0tERzF4QUZVN3RqRUNtU2dtRm9MaVRldWd6YVBtVmFBMzFqQUNkU2d2bUlYbUFjWUQtaHZrV3VoaTYzRm9QTl9US3U5b2VCcjF2RnFpeGlaNXpKcmJ3YTNYcTM1Qlc1cTQxdFFfSzhXVEpYUXU4RmJHaXA4WnRySUpjb3JHSDFlVnVQaE90ZTFPRGIxOWd4c2huY3FsX0pUemR1NDVxV1dXUkxzLXJXb3J0UHpTTA?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Metropolización, el desafío en una época de menos ingresos para los municipios",
-      "date": "24 de marzo, 2024",
-      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZzg5QktNS1lyRDdtdUNrcHhIeTJhaERLS1JTclZrS1ZweE90WU0tVnE5SC1GUTB5M2dWYnZNVkE5UlFzSW4wWUlJU1V5dkM5QnNXaVV3MW9FankxQWZuOWg1VC05R0VKVTVNY0JKLUk3amJNVkh6eGlOQ1RiVTJCX0F6dmNXLUdZel9ITDZZMVBqMHhNVU1udmp1N21vUm9oZDln?oc=5"
     },
     {
       "outlet": "El Deber",

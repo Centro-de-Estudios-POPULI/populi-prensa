@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-11T11:38:15.508303+00:00",
-  "total": 133,
+  "actualizado": "2026-08-12T11:40:28.728130+00:00",
+  "total": 134,
   "medios": [
     {
       "outlet": "eju.tv",
@@ -9,14 +9,6 @@
       "quote": "La inflación cayó en julio, pero el bolsillo aún no siente el alivio",
       "date": "10 de agosto, 2026",
       "href": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1dOYnJjQmdCMzNabGpyWnl0TGJWdkFEMU4wOHl4Q1k3b0VfellBd28xVzVNZlZUUi1VQ20waG9GcE9tNVRha0lLNWh6QkF1ZGpXVEZTbjU4amM0N0FUem1EbGw0WjY3LTBNVEtGaFZ4WW4xeW44aWZrbXllODgtR2NYaWllLVkyaUtqaUtJOGY0WHJ0Qnc?oc=5"
-    },
-    {
-      "outlet": "economy.com.bo",
-      "logo": "E",
-      "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
-      "quote": "Primer balance del tipo de cambio flexible: más presión sobre precios y divisas",
-      "date": "31 de julio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbHpYa3NGLVl2am05dXJReGlNRWRfc3B5MmdUa2FjWldabVE5UEFodGNmVjZzcUxHS05IaWFQblBoYVU4NzlMWXJ3SGVGanBNMVVmSDIyaGJPX0tNdUdtWW1vR0swazM0S3U4dlRvQWk0NGU5SkF4MkJhR0Y4eGswSGswUkV3ajRWbTNIQUpZVXZvLUZkbWVORmg0T29QX29oY3psNEMtbklSY254UXRJU0MxVXMyRk1KbkVDYmRVVkpFSnFqbVV1dldmVzRBUkXSAdQBQVVfeXFMUHJsQmJaSEU0ZXlheFBITnV4R0p2OTl2R0Z5S0VDSEthSG16cDhhUXBIRmxIcHBtTFgxYnZOdW9ER2NzanN3VkRwVGx0ZER5dHp1LXRpQnpjNEFFVjJRR0FVcXIxcXZSbWdGOWhSU0dmU3I1LTVpNzA2N0l4dVQwSDhvaGxyMF9wUlJ2V3lILThUOXFfTDJoYlNLY0g5UnVfZDRtcUI1N2VxSTI5NmtWMjJuV0ZXVEp6X0RZOHhhMXhHMmVzUnZUbzVpekk1YV8tREUzdWU?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -451,6 +443,14 @@
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVdCT05tc3Y4N2tIdWNEQkcyZDIxZHo2UEZPSTRkX21UVEZ5eDI3M0NWbF9TTldnMllYSXh1ZlBMQ21nZkYxTDg1bXlXSUdKc1BCMmpQMmlPY1B4U2tuLU5sUUw4Z29ZT2dOQkExbjQwUTVjcEFmdjd1MVNWdXdHaGJ6SHBpMUlXWG9XXzgxWG1rc1Q5WmdFYzVxaw?oc=5"
     },
     {
+      "outlet": "El Diario",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldiario.net&sz=64",
+      "quote": "El dilema de cerrar o transformar las empresas públicas",
+      "date": "15 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkp2aTZEc1NPVHBGNmVWUXRlYkNzZ1ZHSEFJM0tZV3picE9POFNJV2c4WFhwaDloLUI5NmJROVN4cW92ODN0dVAxNnFzc3UxOTd5dzNxTUo4SFZvYm0wOVJyZFZyLVlxN3Z5UmFuNHpqeHpUZTlCYVlwU05KWHozekdSUkRSZ3JCSVppVm9EWWtZem9pa24zNlh6UkNCeHc2?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -465,14 +465,6 @@
       "quote": "El futuro de la economía de Bolivia está empeñada",
       "date": "12 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGszTWhFN2NFUkJhWjV6dHEybTRleWp2Q2NIZFJLNEZHQ2pQaG5rcjFycWFuVTdZaThIaHFlSGxWN3ZDT1VZb192NXNBMVFPMjJ5Q0FGX0FfOHJOTmJjdTZ1dF9QVjRMVlQ4YTB6QVdYQ1hwZGp4aXNfSzFMdXhrMG01eE5Ia0Q0X2dXaDBCRm81RkZfYlYycE1JX2RoQQ?oc=5"
-    },
-    {
-      "outlet": "Bolivia Verifica",
-      "logo": "V",
-      "favicon": "https://www.google.com/s2/favicons?domain=boliviaverifica.bo&sz=64",
-      "quote": "Las joyas de la abuela están empeñadas y el futuro de la economía también",
-      "date": "10 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmtYZFNvUnduYTRKenlKT2I2Q3c5SVh1bDJFSHpaVjQtSnp3ajkwWVgyQUtiVTJXN1d3TWJZQmVmWHcxT2NVZGVaVXRIRFdEZjlmbS1HaGlLS2UtSU9uS1lJV2NOOGlicm5aTjhuamVhc2NHVloxczJnZ3dxSnNZQkQwelpGWG9yaVpJdGVrTmlUb2o3Y200Qjl0emY4QXhJbVE4?oc=5"
     },
     {
       "outlet": "Connectas",
@@ -739,6 +731,14 @@
       "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmRzRFZPZy13NDZwWm94QU9aTUUzc0hlSm9rb0d0REFuWHhJR1JDVmZCUXhnMHlBRjJwSUl6TGwzOVZHaUpEM041QTFsdDRHVTJpT1AxYkJ1RVpPcU9HUndYYXNVV3FJdDVVdldPbWdVcjVEMmRrX1pSV0V4QkdYRTFyaDFyZHpUak1BbENyQ2ZLN1J4ZVpTRi04VmlFajlQdFVYOVpSSkI4aUtkS2N3Qg?oc=5"
     },
     {
+      "outlet": "elmundo.com.bo",
+      "logo": "E",
+      "favicon": "https://www.google.com/s2/favicons?domain=elmundo.com.bo&sz=64",
+      "quote": "La crisis económica se agrava por falta de medidas contundentes",
+      "date": "12 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOby1kSnNRZFR2NnlGRF8wV090UkNTUjBuNnVsUEtFQVc0YS1OTFJJMjdDaldnelI0MGNGTmtya2ZoZmhycWZwakdTOVRoUnpuaVlEMGlNRGZDVE1ZUlE0VFphSUs1RGVQbmo0WlA5VUJIZ0x0a0txS3N6VWpxekdmdC1ZZkk4WEZoVW1oZVFfc3g?oc=5"
+    },
+    {
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
@@ -766,9 +766,25 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Bolivia y el FMI: luces rojas, advertencias firmes y la crónica de un ajuste anunciado",
+      "date": "3 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTk9oVWpTNVdWcldXYmZ6WnFDbzZ3YmQtdV9jRm16aWJhYUdYejhuWktyYlp1aUgwb1NQUDBPRUdKMUo2cmpYOGI2ZUc3cWNRa1NHQUY1MHVyZDB3OHpxb09uUUVnWVBrS0txcUVsWEF4N3lMVi1QdXdGT1Njam0wY1dCSHVMNFhNMm1uTmZzdTdUN2xKcmNpaFdDblRubkcyRHhXTnZLUzQ2UTBSMkxVMFVwbk9rcmZ6OGhQdGJyOA?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Estado o mercado: lo que proponen los candidatos para enfrentar la crisis",
       "date": "2 de junio, 2025",
       "href": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUZadS1yR05IdGtEZzNJQ2U0YWlVRG9GY0MxdEc0TjJ3OElzQTBJQ3pUMXZrbnExS0g0SVdlYVRNNXE0Z1hvQzRHeHpvNHFqRGcyTjRqbGh5TGlUamhuWVpfTldqdXZvYXJBYzJNb1dYemQzeXA2UEpkbmdWXzQtQmpkblBldUhPVHRjZDB6VmFUS0NTYVdoNXgyNWk3SXRHQTdzX2tCN2NtTkNwRWt6Qnh3VEVmUQ?oc=5"
+    },
+    {
+      "outlet": "Publico.bo",
+      "logo": "P",
+      "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
+      "quote": "Lo que el FMI ya dijo",
+      "date": "1 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DcW0tYTZUZ0FDeWRiOWZiTS1yWVY5R0haMGV0RXV6TEx2X2t2WTdCU3oycmhrNjJEWGxTRk9RZ0FBRGhISjZTZGRjd1FxaWhnaks3V2lRc0gxYnAyOGc?oc=5"
     },
     {
       "outlet": "Brújula",
@@ -1049,14 +1065,6 @@
       "quote": "Bolivia entre los tres países con menor libertad económica en Sudamérica",
       "date": "20 de septiembre, 2023",
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1Bac0JjZkpDbTlkZkgyS2NMT3ZYUkNEWEpQajExeXVRY3pEM21pSFJaWk9wWG5ZWGtiZm5jeTVUVE9GbGZ0NDk1VWQ5VUlOb2FDdzhqWnVNcFhmbnh5SHdwWWMyWVFOZjRhTXJtY0VWSFNhUVIzczNQUVJ3Z1ZXeFNKYlpaREJHN2lSd0pwMG1GamZZRTgxazdZZmM?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Constructores reeligieron a Carolina Gutiérrez como presidente de Cadecocruz",
-      "date": "15 de marzo, 2023",
-      "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWtROGl4cUpfVjZKVjRJM3BQQ0ZGQ3Y0WHBpaGxnRjZGb0ZEN3MwZHFGM2VMVnJ5QTMxeGNERDUwVTcyRm80VmZyOEV1aFlLMFNTZ2VOd1d2YjhLcUx5ZE1OUVhWUUlCeURDRXhLRWtZN2JPQkdSbVJjaGpDV1FDZXhZeVNYamVCSmxILTM0ZTQzQnU3NFcyNWhsbTBfTkFFemc?oc=5"
     },
     {
       "outlet": "El Deber",

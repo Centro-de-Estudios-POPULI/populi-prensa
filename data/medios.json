@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-08-12T11:40:28.728130+00:00",
-  "total": 134,
+  "actualizado": "2026-08-13T11:40:30.407709+00:00",
+  "total": 135,
   "medios": [
+    {
+      "outlet": "economy.com.bo",
+      "logo": "E",
+      "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
+      "quote": "Créditos externos impulsan la baja del dólar, según Tomianovic",
+      "date": "12 de agosto, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcm5ETFdsQUZucnEwSnVneWctcFdVZ1Fqb0s0dXlMdmlwY0RlZHlMb29tblR1eHJwX0FXR0hWeGJxTG5mZGNaREtsc1pSZ01kY0VsaWpxc1NrOF94UmUyMk9oUzN5TmtiR1o0RlpodGRwTkFMNVBzQ2N3bmt5aVp6YVpQbEhTUjJxWWV4TXIyZE8xSjJwUnVLLU82NnRNOHdsRjNrUUQySEg2RmVaa0g1Nk01blFKMk1VWkVpNWp4T3TSAcABQVVfeXFMT3JuRExXbEFGbnJxMEp1Z3lnLXBXVWdRam9LNHV5THZpcGNEZWR5TG9vbW5UdXhycF9BV0dIVnhicUxuZmRjWkRLbHNaUmdNZGNFbGlqcXNTazhfeFJlMjJPaFMzeU5rYkdaNEZaaHRkcE5BTDVQc0Njd25reWlaemFaUGxIU1IycVlleE1yMmRPMUoycFJ1Sy1PNjZ0TTh3bEYza1FEMkhINkZlWmtINTZNNW5RSjJNVVpFaTVqeE90?oc=5"
+    },
     {
       "outlet": "eju.tv",
       "logo": "ET",
@@ -33,14 +41,6 @@
       "quote": "Comienza la segunda etapa para que la banca devuelva ahorros en dólares",
       "date": "15 de julio, 2026",
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNckd5YkktZXp0Q0VfNGF6WlRzMFduZUxxaFJ0ak9YSFo0Xzl5OVd0NENhZ0lsOGtNeGRlTWlfaXVnMjNUcmtUdGc1dVFpcW9FaHRsNGtXTTN6Wl9KaXdXS2NjT0JlRDFVNW9ZbEU4eE5WYVpsaWNuUUYtc0ZPOXRCaG4yWnR6WUEtTTAxcFZSWVdkRlVNMG9XdmwwNXI?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "El dólar oficial marca su tendencia al alza en el nuevo tipo de cambio",
-      "date": "14 de julio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXpheTgzZnBfSUVIRzVmSzN3TmtVMEVOcVB5Y05hTnk1NC1Cd1AzTm5xenptTlB3VlZ3MExPOERaaUp2QnZpdGprSWtzWVg4Y2hCTERmT0huMEFDcy1mS3l6enRlenZSN0tZeEZxa2xadXl0UHYtbHR5WjIxbnhOdVU3TlU5bTdKVFlwSU1HNnlxSGlCbG9PNlJzdw?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -198,17 +198,17 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Las perspectivas del FMI",
+      "quote": "FMI proyecta contracción de la economía en Bolivia en un escenario global “frágil”",
       "date": "15 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RbGJkVG85SFNWdWFKWjJhZWJKX2h3TDRLeWFxODluWWJrcWpMenQxY2hkalVmWGF0eW1zT1lfay04MlJTWEFYR2NsdmxvMHEtTldlb3R2Yk1HVzlzV2NTbGZFNzl4TkFoSXc?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUU5TVZldjlfYlRVLVYzdTJkZXBDZjZkU0Jfa2h2X1FOSlNjZ2MzdXR2Y1JKSnlhZV9DSENUWEM3bnhvdG45SldrM0tDamFFNndDRzhhcFRuQVNFV1JtQVlEVzNRakFnVFlVeVpHSUEySDhpVjA0aWdEb3VjTnNRYWFhZG5fTzFkVDRrX3RCYm9XdElhSXNRV1ExNlhPN3VaR0FlYno1Z3RYcm9B?oc=5"
     },
     {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "FMI proyecta contracción de la economía en Bolivia en un escenario global “frágil”",
+      "quote": "Las perspectivas del FMI",
       "date": "15 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUU5TVZldjlfYlRVLVYzdTJkZXBDZjZkU0Jfa2h2X1FOSlNjZ2MzdXR2Y1JKSnlhZV9DSENUWEM3bnhvdG45SldrM0tDamFFNndDRzhhcFRuQVNFV1JtQVlEVzNRakFnVFlVeVpHSUEySDhpVjA0aWdEb3VjTnNRYWFhZG5fTzFkVDRrX3RCYm9XdElhSXNRV1ExNlhPN3VaR0FlYno1Z3RYcm9B?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RbGJkVG85SFNWdWFKWjJhZWJKX2h3TDRLeWFxODluWWJrcWpMenQxY2hkalVmWGF0eW1zT1lfay04MlJTWEFYR2NsdmxvMHEtTldlb3R2Yk1HVzlzV2NTbGZFNzl4TkFoSXc?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -467,6 +467,14 @@
       "href": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGszTWhFN2NFUkJhWjV6dHEybTRleWp2Q2NIZFJLNEZHQ2pQaG5rcjFycWFuVTdZaThIaHFlSGxWN3ZDT1VZb192NXNBMVFPMjJ5Q0FGX0FfOHJOTmJjdTZ1dF9QVjRMVlQ4YTB6QVdYQ1hwZGp4aXNfSzFMdXhrMG01eE5Ia0Q0X2dXaDBCRm81RkZfYlYycE1JX2RoQQ?oc=5"
     },
     {
+      "outlet": "Bolivia Verifica",
+      "logo": "V",
+      "favicon": "https://www.google.com/s2/favicons?domain=boliviaverifica.bo&sz=64",
+      "quote": "Las joyas de la abuela están empeñadas y el futuro de la economía también",
+      "date": "10 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmtYZFNvUnduYTRKenlKT2I2Q3c5SVh1bDJFSHpaVjQtSnp3ajkwWVgyQUtiVTJXN1d3TWJZQmVmWHcxT2NVZGVaVXRIRFdEZjlmbS1HaGlLS2UtSU9uS1lJV2NOOGlicm5aTjhuamVhc2NHVloxczJnZ3dxSnNZQkQwelpGWG9yaVpJdGVrTmlUb2o3Y200Qjl0emY4QXhJbVE4?oc=5"
+    },
+    {
       "outlet": "Connectas",
       "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=connectas.org&sz=64",
@@ -497,14 +505,6 @@
       "quote": "Crisis fiscal en el país ¿y los municipios? un observatorio transparente",
       "date": "7 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkp1OEFmRmZuamlfaWxob3NEaEVBaHI2dHQ2NUN0TmUxYXR1RnhDMVZkeXpVYTRoZVVGcHpWTWVlYjNIY2t2bThsdzByS015UEY2VTlTQ095R2NJaVB5LXlSVnVfdlVsRWl5QWRTckhVUDZCWDFOVC1xNEhkeF9aNy1zblJaTHRlWXllNHA4QzZ2Sl9WR1hoRkdmMzU0T3FJY3llbGFvNU9YUVk2QTBHTnJSVlFVeGxUdFE?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Centro de Estudios Populi",
-      "date": "7 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybDVjY19qbDk2TDhadFhzWDZuVXRNYXVPWDU4d1RObm9sSFNHLTBTMV8yRGwxSGY3VE1EYnpER1E2b2ZmSVZocGRYTHlMN093YnZPUmlBT19XZzNDR0x1T2dn?oc=5"
     },
     {
       "outlet": "eju.tv",
@@ -851,6 +851,14 @@
       "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2xuOXNyeVpMSkQwdU1OLTMtTEZMSEtpQVQzZEpFSHdfemFDN0pLT05KZ05xbTlzVFJFSGpfZ3JKcVBRZXlBSzV6ZGM2bVlsXzhvek5ldHlFMmJYTEZ4NE8zYWdWb00wV05zYi1uREpDNFM5NXFBZ3JyY2VpTzZNNjRVRHczTHZsN3pGS1B2S0g5ZHhRRC1qNFhiZ3NWNW1JeF9R?oc=5"
     },
     {
+      "outlet": "unitel.bo",
+      "logo": "U",
+      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
+      "quote": "Economistas apuntan al financiamiento del déficit fiscal como detonante de la inflación",
+      "date": "10 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDdUZV9YdXoyMXY0bUM2MlVKZW1fblpwSXRPRUVmeTZpNWl0Z2Vha29TTHFZdG5JTnl4T2VmbTV5MHpNQ1BiRjNtNmVnVWo2cXlyOXM1QUh1RTBuR29JQ3QwMnVWbUZ1QjhfTXNaaVhxRm41bFlnc0MzLTM3NFYyN1pqZjJBX2loNFpKUFBySHdBZ2hTcTY3eW5WcnVHal9JdEp1YjJNcmNjWGlIVmlnUWlJY1RCZGdRVEdwWnR4VmlCSzl6a0tCRnJtN05Ya0U?oc=5"
+    },
+    {
       "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
       "logo": "DNP",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
@@ -1022,14 +1030,6 @@
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Mejora la ejecución presupuestaria, pero el gasto corriente gana terreno",
-      "date": "2 de abril, 2024",
-      "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkNrRHRIVmJ1RDJSLXVCMWxpUU5sOGltTHNzOF9KM0VqN1pyUS0wZm9ZaFpzUS1hajE4Vm05ZGNZTjVEbkF2N1pFbThNWnNyODl4N1JkeWpDOThOT1N3TW03bHNrMXNDaG16a1lHTHdEZzJKQ2xVc1NEekU0aDRncXp5YkRfQnNOeGZUcXBNVTc0YXA5bW5lVDIwMA?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "Santa Cruz:, El Piraí perdió un 62,65% de bosques ribereños y el río Grande un 34,65%",
       "date": "1 de abril, 2024",
       "href": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEVLSmFra3ZOQTg4V1haTVNZZEFFMlU0RzhtUUxtd0lDN3dJQUg1R29tdGFOUnlUWHlKTFFTbVJ3VEtKZWNyYVFvcnpQSVVDUDI4UTlnaGVDNWZwMmV1b1ZWLXg2OEdwQ21sSVlqRk16cFNXZ2V4dG5CTjFhelIxbEszcmFXaVQxWk5iQ2xWaVY4TWNhVjFZ?oc=5"
@@ -1065,6 +1065,14 @@
       "quote": "Bolivia entre los tres países con menor libertad económica en Sudamérica",
       "date": "20 de septiembre, 2023",
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1Bac0JjZkpDbTlkZkgyS2NMT3ZYUkNEWEpQajExeXVRY3pEM21pSFJaWk9wWG5ZWGtiZm5jeTVUVE9GbGZ0NDk1VWQ5VUlOb2FDdzhqWnVNcFhmbnh5SHdwWWMyWVFOZjRhTXJtY0VWSFNhUVIzczNQUVJ3Z1ZXeFNKYlpaREJHN2lSd0pwMG1GamZZRTgxazdZZmM?oc=5"
+    },
+    {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "Constructores reeligieron a Carolina Gutiérrez como presidente de Cadecocruz",
+      "date": "15 de marzo, 2023",
+      "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWtROGl4cUpfVjZKVjRJM3BQQ0ZGQ3Y0WHBpaGxnRjZGb0ZEN3MwZHFGM2VMVnJ5QTMxeGNERDUwVTcyRm80VmZyOEV1aFlLMFNTZ2VOd1d2YjhLcUx5ZE1OUVhWUUlCeURDRXhLRWtZN2JPQkdSbVJjaGpDV1FDZXhZeVNYamVCSmxILTM0ZTQzQnU3NFcyNWhsbTBfTkFFemc?oc=5"
     },
     {
       "outlet": "El Deber",

@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-08-22T11:13:19.712701+00:00",
-  "total": 134,
+  "actualizado": "2026-08-23T11:13:40.359871+00:00",
+  "total": 131,
   "medios": [
+    {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "Etiqueta: economía boliviana - Página 11",
+      "date": "22 de agosto, 2026",
+      "href": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xdXRfOWFiSHVwcVJCUzZrWElMNVpaWEdacmNsOHdoVU1iZnlVN2g3dnVRYmFhQ3hBWnkybHAza1RQby1jWXJTb1pHdGg2Tng5b3BpUWZsT3o5cG9LMlRycVl0RFdzcGVuSmJMQQ?oc=5"
+    },
     {
       "outlet": "economy.com.bo",
       "logo": "E",
@@ -107,28 +115,12 @@
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUJLd25hczlpZHVRVG8tX1BmelhRXzltWWozaEFPbGdzUUJINThmT1NMbHQ0YjVjS3dOZm02YXZwRjc1UXcteHJHOHBMMzFpYjFIQjJ5aElpSUVpVGRIT3lSTUJ2WXZqTFhfamdGVmoxYjFsNzlQRmtrRElnRE9qbUloY3FMS18zVjJnd3k3aUlRZkdtUnFwSXp3Z1JadVBZNm5jSm00WEdhc1E?oc=5"
     },
     {
-      "outlet": "elmundo.com.bo",
-      "logo": "E",
-      "favicon": "https://www.google.com/s2/favicons?domain=elmundo.com.bo&sz=64",
-      "quote": "Nace el Observatorio de Finanzas Públicas y Desarrollo Municipal",
-      "date": "31 de mayo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnhEbV9QWlFHZmE5cHMySHRHV0NtR0tweWd0V2dkOGZRS3BHQXYzLTFhSElVQVVmWENJdUhGSTNid2o2Ni1FNWVyRzB3bU9jMDNOdWY4c1Y5UklmaHlkcjc1clJHSHdHdkVxazVXb2dJaFBBZVJKaWdabUNIdGtjTF8tekJxZnEwc1RDb1hOLXhwUQ?oc=5"
-    },
-    {
       "outlet": "El Diario",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldiario.net&sz=64",
       "quote": "Presentaron la primera plataforma de análisis fiscal y socioeconómico",
       "date": "29 de mayo, 2026",
       "href": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFJVeGVtc2V4VDFIZGFKWDh4akpzNDhGOUtCVVdoZzQxSEZIelhSMGFycWRieUtDWllZalk5dnllQUlnYUROYTFVNG9Qc21uTmR3RC01b2JPUUlsUlFwZFNvX29INlZBWkR2LVlfUVVIbVVRZWpXaDZTalF6LUluNEdacXhVM3RzemV0eUFFQWNWTkpkQk1WQnRXYW1yVnJPeHFvdGZYWXhBZXRlX1dvQkpfcw?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "La institucionalidad y la academia presentaron la primera plataforma de análisis fiscal y socioeconómico completa del país",
-      "date": "28 de mayo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQal9oRVVWTElwZ1JmNDJPdHd2YVFjQU5mT3REWjFCeEdzQ1R3Ynd5MkdFeGtBZHlYam4yZEp5ZG1WSnQtVVBpbk5UNkoweHF5V002SVVNUHZ4cHBnN1lETEZtakE5bEwtMnQ0Q3ZMUGt6Qm9aWG1kUEdOUXdleFVJUlhpMUJTT2ZnYnVfQUdHUXl6VEVidGpDZ3pwM2x5RFJCSkJia2hLOU5LSWVEUWtNTHZPZFJ4bTJxclBkNkZJWEVTR3Rla1JuUzRoVHY2ZGRuT0JYcGV0QV8wQWNUNHIw?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -299,14 +291,6 @@
       "href": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2NjOVNEU3d6TXE4dnMyYnRCalBVTngydFJIM3d3UTJneGJBbWY4VEhfcFhQcThFTjZYV0s0aGhqM1hhVVVPRkU5Njl5WlZhemVLRWhpTmlFeGZXXzdKRXNURUFZR1R3TzZYbElmMFBZZW1vT2xhekkyRjV4NkN3LVNrSjFZTFFHbTJlQTRmZDg?oc=5"
     },
     {
-      "outlet": "Nueva Presencia",
-      "logo": "NP",
-      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
-      "quote": "Fallece Tito Kuramoto, referente histórico de las artes plásticas cruceñas",
-      "date": "26 de enero, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSldsaFlZZC1IQjJQcUx0aWVQWkFWdTBJUF8tYkZydzY2UjNScHpKTnhfTFZmdWQ1TkFoeDRRbTRST2RrUVVwenB0YWxIM0E5WVhwcG5SOUpjQ2hwd0pGOXdUbTFTamRJZWp3R28tejlHRTNHYmFvMzlOVVE3ZXNPSVQxbE1ySjVFVDdfSUFnSlFYM3l2V0E0emI5Yl9ObzBxVE9z?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -475,20 +459,20 @@
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVdCT05tc3Y4N2tIdWNEQkcyZDIxZHo2UEZPSTRkX21UVEZ5eDI3M0NWbF9TTldnMllYSXh1ZlBMQ21nZkYxTDg1bXlXSUdKc1BCMmpQMmlPY1B4U2tuLU5sUUw4Z29ZT2dOQkExbjQwUTVjcEFmdjd1MVNWdXdHaGJ6SHBpMUlXWG9XXzgxWG1rc1Q5WmdFYzVxaw?oc=5"
     },
     {
-      "outlet": "Los Tiempos",
-      "logo": "T",
-      "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
-      "quote": "El dilema de cerrar o transformar las empresas públicas",
-      "date": "15 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlBua2xHVEl2R1l4aXY0N3BLN2YtTXFlU1cwOUFsN2s2VnpGWTZCeGRxRHFZdGFuQUFuUHZKZzBDdnd4ZWFveWpUTUVaZDBkdDZUeXU1bFNxT2JuR0M4WW8yZTBXR0FXUnNORFYtck04cVdOZ3p6ZFJndHVxZlRXN1p2SnkxQktCS3V5RjFfQWNvWllzVExKbkowNlAtNC1QQ0F6Si1mUm0yZw?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "El PIB cae al -2,4% y Bolivia ya está en el terreno de la recesión",
       "date": "15 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGdqWGtwemNhTWFsMFZJUjlHUXN2TGlJdDR2YkhybnhrY1NWQWJxd3J5RUtYZ0RTUWRwT0VJbjNZanFwd0JRdy1KQzJkYzVxelBJVkVTVHFuOXNMbnV1QXNjNVExMGp4Y2FlRXJOdzZfREVqTjRDQlBfLU0zMHlqenRYY1ZjNURVWUtsbA?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "El dilema de cerrar o transformar las empresas públicas",
+      "date": "15 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaDdXTVhkX2hiZHFHdkZiZmtOM1RvSnZOQ0FSUGVRNmU1VC1raGduZmtJUFduc0Z0SDY5WkZQU2xIR0dWb01ySmt0OVBPQW5tV2lGR1pPeXdvalI1c1FjdW5GVUtwcXVVREFPd2xqTVp4d3ItbEkxVTdlZmdkXzE3RkIwTTVBTFhQdFVLeEZ2RHA3a3ppTFRQQV90Q2M1czVhLUhId004NXJ0QQ?oc=5"
     },
     {
       "outlet": "Correo del Sur",
@@ -705,14 +689,6 @@
       "quote": "La inflación llega a su nivel más alto en 38 años y supera meta del Gobierno y del FMI",
       "date": "3 de julio, 2025",
       "href": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjB0ZzY0M2NDNGoyN2lGX1lMNkowNzQxU180Z3dFdmh6OEI2Qkd2bmJRM21xc2NzU3NsaTVQc2FtZmxkdkVCM0xXUEN4c3gwVVZ5aHdoS0E4dGdOVVhGeXNOakxrSi16TG1rM0FmUjlSR3FJY0ZlUHBmQjNPTmZlTVBYZHZ6d296TTIzQkhmd3ZoY2JFZEtEUTlJRm15b0Q2VWlUV3RlazZpSG5yV2dGdXMyUFpYVlFGdEt0MVhoazdSUQ?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Dólar paralelo cae y reservas suben, pero el “respiro” no cambia la crisis",
-      "date": "2 de julio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXRqLUVTeXVmWTJVNHFQVzBYQ3hkcXU0WFAyYUtza09ZejhLZDFmeDI5ODVaRlpkcXlYUVVWcWdtejlRTHBtQXlmcmkwbEJqdzMyMm5DR2kwWktMMjB4a0tEOVhURDN5MXc1ZEJmT2U4Yk56UTlkeFFMTWRIM0djNENldWZHMURnSkozWUV6UmdzM3ZLeUo0REFIeFV6eEtnR3hQdjJxRlZvakxhZFFhOQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -995,12 +971,12 @@
       "href": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObnhiSW1IMTBDS1RyUVI3Q01JTWd0Q0trNDBBeXR0b19aSlVyaVlILXlaR0ZJdE5RTWtyWnZWZEp4ZFJDa1lhTXBYNGtGektHSzhTNHBoYTJuVVJDMHdaOUw5cmZ2YmJ3N05OZXZVU1FGeVgzMnF0QXRRS3JEc1k1RmxCeWQ5TnprSmk0SUs1X1ZGb0JMNGZiSFp2dzg0UHN0RHB3UzlrV29pcEhfbkV3dThVOXRlcm9scFBfalBVVDd1c2pR?oc=5"
     },
     {
-      "outlet": "unitel.bo",
-      "logo": "U",
-      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "Migración: Según datos poblacionales, se fue más gente de Santa Cruz de la que llegó, advierte Populi y pide al INE dar certidumbre",
       "date": "29 de agosto, 2024",
-      "href": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMnBDUkVWbV9oaVlaWWRQS09wRjNNUWdmdXBzdGRTcVBETGRocXN4QVlvRVg0TDc1R0U3dENwWURLcjdCOGFZbHpWSEg0U2ZhZEJQR1VzWUdQaEdHaGhCMEZ2RnhhajZTQTBPOGhPYjZuYlU2a05ETTFELVA5QzREdmdwdXFYaE5FYmN3X1QtbEl6SFMzTTdXd1NwbTdJWm9vVkhSYzFqNExMN01pSXJkU04tbll0ZjVjdERiS2dLaDg0SFBxRWoxS21rRThCS2hxWW45WDY1eTdYSjR4VEJfaXZtN1M0WHM5dnFWU1RPUVVlTThyTVNGeWE3QXRQZFAwbTYzU0pR?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ0l6TFN0a1hYMnlsQmRRdWFFMmw1UXNESVhIeFk3RE5yYnZlc2pRVE5vclMxLXZZc2J6eTlXN3g3UDJnRHZ1Nk5uemNTZFlfQ0JkWXpBMklNaUgzUHBkYW1YNVVsc0szTjE4MTJ6dVExb3hCekhxOUlQX09adlJRbXl5dWprd01taDBkanBUU0ppTFBjMGR6TlhaRHU2VmkzSGN3UHBsazhtZUxqbk9ZVnpWeGNId3N0cDF5cGFra0NPcVlwa2luMzFCQ3ZKaVRLTldWUG9GeDQ5MlRPQkdyUjQtV3VndGs?oc=5"
     },
     {
       "outlet": "El Deber",

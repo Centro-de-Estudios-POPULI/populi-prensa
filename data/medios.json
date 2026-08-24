@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-23T11:13:40.359871+00:00",
-  "total": 131,
+  "actualizado": "2026-08-24T11:19:18.679099+00:00",
+  "total": 134,
   "medios": [
     {
       "outlet": "Nueva Presencia",
@@ -115,12 +115,28 @@
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUJLd25hczlpZHVRVG8tX1BmelhRXzltWWozaEFPbGdzUUJINThmT1NMbHQ0YjVjS3dOZm02YXZwRjc1UXcteHJHOHBMMzFpYjFIQjJ5aElpSUVpVGRIT3lSTUJ2WXZqTFhfamdGVmoxYjFsNzlQRmtrRElnRE9qbUloY3FMS18zVjJnd3k3aUlRZkdtUnFwSXp3Z1JadVBZNm5jSm00WEdhc1E?oc=5"
     },
     {
+      "outlet": "elmundo.com.bo",
+      "logo": "E",
+      "favicon": "https://www.google.com/s2/favicons?domain=elmundo.com.bo&sz=64",
+      "quote": "Nace el Observatorio de Finanzas Públicas y Desarrollo Municipal",
+      "date": "31 de mayo, 2026",
+      "href": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNnhEbV9QWlFHZmE5cHMySHRHV0NtR0tweWd0V2dkOGZRS3BHQXYzLTFhSElVQVVmWENJdUhGSTNid2o2Ni1FNWVyRzB3bU9jMDNOdWY4c1Y5UklmaHlkcjc1clJHSHdHdkVxazVXb2dJaFBBZVJKaWdabUNIdGtjTF8tekJxZnEwc1RDb1hOLXhwUQ?oc=5"
+    },
+    {
       "outlet": "El Diario",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldiario.net&sz=64",
       "quote": "Presentaron la primera plataforma de análisis fiscal y socioeconómico",
       "date": "29 de mayo, 2026",
       "href": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFJVeGVtc2V4VDFIZGFKWDh4akpzNDhGOUtCVVdoZzQxSEZIelhSMGFycWRieUtDWllZalk5dnllQUlnYUROYTFVNG9Qc21uTmR3RC01b2JPUUlsUlFwZFNvX29INlZBWkR2LVlfUVVIbVVRZWpXaDZTalF6LUluNEdacXhVM3RzemV0eUFFQWNWTkpkQk1WQnRXYW1yVnJPeHFvdGZYWXhBZXRlX1dvQkpfcw?oc=5"
+    },
+    {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "La institucionalidad y la academia presentaron la primera plataforma de análisis fiscal y socioeconómico completa del país",
+      "date": "28 de mayo, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQal9oRVVWTElwZ1JmNDJPdHd2YVFjQU5mT3REWjFCeEdzQ1R3Ynd5MkdFeGtBZHlYam4yZEp5ZG1WSnQtVVBpbk5UNkoweHF5V002SVVNUHZ4cHBnN1lETEZtakE5bEwtMnQ0Q3ZMUGt6Qm9aWG1kUEdOUXdleFVJUlhpMUJTT2ZnYnVfQUdHUXl6VEVidGpDZ3pwM2x5RFJCSkJia2hLOU5LSWVEUWtNTHZPZFJ4bTJxclBkNkZJWEVTR3Rla1JuUzRoVHY2ZGRuT0JYcGV0QV8wQWNUNHIw?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -483,6 +499,14 @@
       "href": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGszTWhFN2NFUkJhWjV6dHEybTRleWp2Q2NIZFJLNEZHQ2pQaG5rcjFycWFuVTdZaThIaHFlSGxWN3ZDT1VZb192NXNBMVFPMjJ5Q0FGX0FfOHJOTmJjdTZ1dF9QVjRMVlQ4YTB6QVdYQ1hwZGp4aXNfSzFMdXhrMG01eE5Ia0Q0X2dXaDBCRm81RkZfYlYycE1JX2RoQQ?oc=5"
     },
     {
+      "outlet": "Bolivia Verifica",
+      "logo": "V",
+      "favicon": "https://www.google.com/s2/favicons?domain=boliviaverifica.bo&sz=64",
+      "quote": "Las joyas de la abuela están empeñadas y el futuro de la economía también",
+      "date": "10 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmtYZFNvUnduYTRKenlKT2I2Q3c5SVh1bDJFSHpaVjQtSnp3ajkwWVgyQUtiVTJXN1d3TWJZQmVmWHcxT2NVZGVaVXRIRFdEZjlmbS1HaGlLS2UtSU9uS1lJV2NOOGlicm5aTjhuamVhc2NHVloxczJnZ3dxSnNZQkQwelpGWG9yaVpJdGVrTmlUb2o3Y200Qjl0emY4QXhJbVE4?oc=5"
+    },
+    {
       "outlet": "Connectas",
       "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=connectas.org&sz=64",
@@ -771,6 +795,14 @@
       "href": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVdxY2FTc2hQSHFNRWRKV2NIWWJlTUJXeThab1BLS0pPWXdvNUJBakxjd1NhS2hlem5vTDRTeVo5RGpBcC03UzlLMDBWSHUwQW5vcGozdFRVbHlMX2ZMc2Z3d1lzZmpiNUN6TUFLQm9JcXdiaXIxOFR4a042NjNTVGFTQ0FsODRBb2FKTHN1NjRBb2RTN0FaNnpaU1h1bjlXWkY0RFUydmtxamhJVHc?oc=5"
     },
     {
+      "outlet": "elmundo.com.bo",
+      "logo": "E",
+      "favicon": "https://www.google.com/s2/favicons?domain=elmundo.com.bo&sz=64",
+      "quote": "Experto: el dólar no tiene techo y el boliviano no tiene piso",
+      "date": "20 de mayo, 2025",
+      "href": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0lqQmFzbWpoS3ZtZGNtdGU0UG0xZXgwLXk5T0JjcUE0ZkI3Q0pnODdiY0FmUjhwUmFHMURZeWs5VU9QT1dPY2t4bGlUeF81aWltMEdUeTliODBYZTVRWFpCb0c2OHFGMzd2LUFhNnRCX2dETW9idVhZd01rMkU3VVd1Yl91czlLNmxtNA?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -809,14 +841,6 @@
       "quote": "En Bolivia, precio de insumos de higiene personal se elevó casi el doble",
       "date": "29 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWJJZDBVemtKeWxid19MaE43d0ZwQmozR3IxNjk5TGF6ZzY2bU92ekJQaGYxdVhubTlTREVJaWR4WG9lLWJieTIzNTVTWVBzSzBpNlZ3SkRyOWtrV3hSbjV0WGJGV2lkbWZ2WGh6dXgzeUtEcU51RXgtbTFBdVRtTW9UMmlZUWFfQlItb3pSSld5TkFGTEhvQnJKZw?oc=5"
-    },
-    {
-      "outlet": "elperiodico.com.bo",
-      "logo": "E",
-      "favicon": "https://www.google.com/s2/favicons?domain=elperiodico.com.bo&sz=64",
-      "quote": "Alertan que el alza salarial tiene un costo extra del 31% para empresarios",
-      "date": "10 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM2xuOXNyeVpMSkQwdU1OLTMtTEZMSEtpQVQzZEpFSHdfemFDN0pLT05KZ05xbTlzVFJFSGpfZ3JKcVBRZXlBSzV6ZGM2bVlsXzhvek5ldHlFMmJYTEZ4NE8zYWdWb00wV05zYi1uREpDNFM5NXFBZ3JyY2VpTzZNNjRVRHczTHZsN3pGS1B2S0g5ZHhRRC1qNFhiZ3NWNW1JeF9R?oc=5"
     },
     {
       "outlet": "unitel.bo",
@@ -1038,17 +1062,17 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Bolivia dejará de facturar $us 700 millones al dejar de exportar gas natural a Argentina",
-      "date": "4 de marzo, 2024",
-      "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWUZTQ0lKa2hmN05ZanlheE1HVTBjTm9uMVJQa19tYzBTVGxwNlU0X0hINXk5NGY5eWZVVUVXVGdzWFkzNUtFb0g2M1ZvMlZtUHVhWE1mbVBmMGFVbWpqYTRXY1ZqUnUtUkR0aVFSeEY3Q05GT0JLa0pLWFRzMzlLVnZybzgyVnQyNk5YZE9KREtwWW1Eck85dXo0bTFHNktnNVhITDl2M3VROENzU0tZV0N3c2lySGl4eGlSNHRxX0JGa1Z1VEdhUkpIbGVpU28?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "El Gobierno establece arancel cero para importar petróleo y diésel",
       "date": "14 de diciembre, 2023",
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRV9ySC1Ld0xhUFJQM0pzamNYbUZYOWpMSV83a00zWE50NTNldUY0ODRTWktvZU5FTTFncDl0dTg4Y2Y3bzNwOUgzdWdtWFZxNU1scG5CY3NZd3RueWF3VzJadDRZVjQ5RW5HX2h6dTZlMTlDSDZ5LVBvVEROZ3R2ZXM4c3ltVUJPT2pwTG1nLXd6bmtpUWFxTHNobVNTaDBmN3BfLTA4TQ?oc=5"
+    },
+    {
+      "outlet": "RFI",
+      "logo": "R",
+      "favicon": "https://www.google.com/s2/favicons?domain=rfi.fr&sz=64",
+      "quote": "¿Qué supone para Bolivia adherir al Mercosur?",
+      "date": "30 de noviembre, 2023",
+      "href": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3JETm43RmhNSnFNTmtBb2RmT19zdEllLXp5aXU2QkdWS2R4YnlBWWVLN2tpam8wc3hINmxGQUR3R1NmWm44ZFdfUmhjVGNOa1Q3SU8wU2lSeDBDMVNfLXRuQWN1RldsSnUxenRPczk2UjNfNnloVWZBNnlpcHhvRUFHZmFYaTJQS0U5VnZaRzI2QXZQRGxlSw?oc=5"
     }
   ]
 }

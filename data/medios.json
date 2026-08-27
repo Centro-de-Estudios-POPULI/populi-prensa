@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-26T11:21:07.521042+00:00",
-  "total": 130,
+  "actualizado": "2026-08-27T18:04:42.143300+00:00",
+  "total": 132,
   "medios": [
     {
       "outlet": "Nueva Presencia",
@@ -33,6 +33,14 @@
       "quote": "Primer balance del tipo de cambio flexible: más presión sobre precios y divisas",
       "date": "31 de julio, 2026",
       "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbHpYa3NGLVl2am05dXJReGlNRWRfc3B5MmdUa2FjWldabVE5UEFodGNmVjZzcUxHS05IaWFQblBoYVU4NzlMWXJ3SGVGanBNMVVmSDIyaGJPX0tNdUdtWW1vR0swazM0S3U4dlRvQWk0NGU5SkF4MkJhR0Y4eGswSGswUkV3ajRWbTNIQUpZVXZvLUZkbWVORmg0T29QX29oY3psNEMtbklSY254UXRJU0MxVXMyRk1KbkVDYmRVVkpFSnFqbVV1dldmVzRBUkXSAdQBQVVfeXFMUHJsQmJaSEU0ZXlheFBITnV4R0p2OTl2R0Z5S0VDSEthSG16cDhhUXBIRmxIcHBtTFgxYnZOdW9ER2NzanN3VkRwVGx0ZER5dHp1LXRpQnpjNEFFVjJRR0FVcXIxcXZSbWdGOWhSU0dmU3I1LTVpNzA2N0l4dVQwSDhvaGxyMF9wUlJ2V3lILThUOXFfTDJoYlNLY0g5UnVfZDRtcUI1N2VxSTI5NmtWMjJuV0ZXVEp6X0RZOHhhMXhHMmVzUnZUbzVpekk1YV8tREUzdWU?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Ser joven en Bolivia, entre el empleo precario y el emprendimiento",
+      "date": "28 de julio, 2026",
+      "href": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZwQzFiLWxBdXRlNVlsWUliTU1uMUNPV19VdWN4RUFNWjJDZVc2T1FWX0EyMEJuQlpQaEV6MVkwMkVZeFpXdkFFWjVhSFdXS3I4LWVMMndZSzNVelMxaXgwWmdDM0pYWEI5dkdZdUNOWlZocWZOTW9XMVNsMXJnWVY5YTVnZDY2dHNxUUdfZGRkY3huZ0E?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -523,6 +531,14 @@
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3E3VHhyX29NWEwtQ2hJbGFNRnlOVDAwczNJQ0lOQXJlZFJyMTIyN09TRGZvdHRIMDZnb2ZNRWs1UklFWXZ0VGl2TEhFejNhRTdINE14QzZ3R2NwbERWNkZJUEVvb1lWSUQ0ZGd2bXlDcWtqZEowMXNCV2lqN2JVWnMxNWYwT1ZkNjU1S1N2SFJ0TUJHOFhsX0ZVS01uRFNtVFRHQWdWbV9KOXc?oc=5"
     },
     {
+      "outlet": "Brújula",
+      "logo": "B",
+      "favicon": "https://www.google.com/s2/favicons?domain=brujuladigital.net&sz=64",
+      "quote": "Las joyas de la abuela de Bolivia están empeñadas y el futuro de su economía también",
+      "date": "8 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbWdKUWFJM0hPa3EzbEY0bDg3TkluWktpOEdhdDBqcDFfY2dfa2p0X1ptZ3JsMFllVlhZUGwyc3UyeEZQc1JnVVBGVDZjTmFOdGg0N3hscnJHdWt1bEJhWW4wSDYzaWNHOVZrdkRLOHBjbzZjSVAybTRQVFZqOFBTbmpxT2xqenVPdUVhLWJ4RkE2YWEzZngzM1RxblhKYlJqTG8xYnkxbFRuNEhpUXNnWUNOTUdOZGdWTldrY29KdzhzZEo3RVJuS0RXcmZMR3lMSm40?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -585,14 +601,6 @@
       "quote": "Sistema financiero boliviano: sincerar las tasas de interés o arriesgar la liquidez",
       "date": "16 de septiembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbG9UZzlSLUY4b01BUXhkN19BaVljUDJMQU9CVEFZVXk5NUgwaDNhZ3VmZjdJTlpvRm11cjZ2Wi04a1c2Y0tUejFWbTVpR2p6eDIwY002bVBUSHNDY3VhMFlaVEVWaGlRSHZteW9jcmVocHdJUnk0UUhjNEJZdjdFWWU0VmFqRUFkYmROQ29hQU13Q3U0NnJZWTdJQkNWZHlrNGVfbnhTdjBidm9Ha09rMzlXVXpuOFZlekctNA?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Bolivia está entre la herencia del MAS y la urgencia de un nuevo rumbo económico",
-      "date": "2 de septiembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbE51ajdrX0JoRkxGNkdNT2NVU284Z2RpWl9aR21hYm5SVFgtV1VabHpYclBYbXhRa3V1UEV1RzVObE8yTnBWcjh1V1lsckt2QUZxVmJmdDdoejBGUmZxWEs0djVKaXVFdjk5Nm93b25NbmQ1TzF6eGdDbHhtRHY5WmVXT0ctY2RNNGZvcEI3UXdvZDBaSzVnREs4Z0h5RTBUYjQxSlRDVWVhd3dOLXZsMkltUFFWcW1xTGc?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -710,6 +718,14 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Tres candidatos pactan salvar la economía con el agro y levantar restricciones",
+      "date": "26 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakZOVV9xWVdCMFNZUXhqakdJYlh3eF95aFI3c0t4Q3BHQVJmRl92aThPRFFSWmRwYVBjMy04dXQ4TUdhNjE1Ujg2R2RDc2paeE1wbmVOQ1pZdF84MlR2Sk5teVlTOTJBUlgyRGJPZnMxMERiWXhLWjZXVlc3aGkyZEZJUzFqSFBzRU9lODVHRGJxTnBMWEFrclJEbllHYU5KajhLOV91czRxbm0wck5hQ3FDOXA?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "¿Diferir o debilitar? La banca en tensión ante esta posibilidad electoral",
       "date": "24 de junio, 2025",
       "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmRzRFZPZy13NDZwWm94QU9aTUUzc0hlSm9rb0d0REFuWHhJR1JDVmZCUXhnMHlBRjJwSUl6TGwzOVZHaUpEM041QTFsdDRHVTJpT1AxYkJ1RVpPcU9HUndYYXNVV3FJdDVVdldPbWdVcjVEMmRrX1pSV0V4QkdYRTFyaDFyZHpUak1BbENyQ2ZLN1J4ZVpTRi04VmlFajlQdFVYOVpSSkI4aUtkS2N3Qg?oc=5"
@@ -747,14 +763,6 @@
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMG9jNktwM043cW5HYkRRdHJucWpJWThtZFRMLWtTQ2J2eC1TVkJzb1VRMmR5VVJBbnE1V3BnWlRYZS1yUEZwcVhNcHZtUFc1U1ZBVmtRU0pNSnQzWXhLcjRvMjktb3FxOHJRVFozQkg2Q1h0NVhGVk1SWGRhaTl4X3RkMHpkS01jNk5pSnRGT05kd08wbVd0aDUzVFlibXVlY1hKaE5mMHFyQlhESGFaNVJBdk5hXzdUUzktdlFvU1Z2OVFxcG9fZg?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Bolivia y el FMI: luces rojas, advertencias firmes y la crónica de un ajuste anunciado",
-      "date": "3 de junio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTk9oVWpTNVdWcldXYmZ6WnFDbzZ3YmQtdV9jRm16aWJhYUdYejhuWktyYlp1aUgwb1NQUDBPRUdKMUo2cmpYOGI2ZUc3cWNRa1NHQUY1MHVyZDB3OHpxb09uUUVnWVBrS0txcUVsWEF4N3lMVi1QdXdGT1Njam0wY1dCSHVMNFhNMm1uTmZzdTdUN2xKcmNpaFdDblRubkcyRHhXTnZLUzQ2UTBSMkxVMFVwbk9rcmZ6OGhQdGJyOA?oc=5"
-    },
-    {
       "outlet": "Publico.bo",
       "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
@@ -763,12 +771,12 @@
       "href": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DcW0tYTZUZ0FDeWRiOWZiTS1yWVY5R0haMGV0RXV6TEx2X2t2WTdCU3oycmhrNjJEWGxTRk9RZ0FBRGhISjZTZGRjd1FxaWhnaks3V2lRc0gxYnAyOGc?oc=5"
     },
     {
-      "outlet": "Brújula",
-      "logo": "B",
-      "favicon": "https://www.google.com/s2/favicons?domain=brujuladigital.net&sz=64",
-      "quote": "\"Jarvardts\"",
-      "date": "1 de junio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uTjkzajZhTi15cjdQZmwtbmgyc2t1dHEwXy1vUFU0a3MwZFV1V01hSzdOQV82U2UxdHlUUG5qVGxBVU5wTWxnX3VHOEVWSU1yZkxldEZaMTAwRGVla0Zz?oc=5"
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "Jarvardts",
+      "date": "31 de mayo, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnSUQ5OEpwQ1lJZnhGVExyZWNtd0R2QjlZU1k1a0NtV2dTQUZKSlJmUDY5RE9vMHVlajFXN3RCSjltQmdra1ZVdg?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -1025,6 +1033,14 @@
       "quote": "Deforestación: El Piraí perdió un 62,65% de bosques ribereños y el Río Grande un 34,65%",
       "date": "31 de marzo, 2024",
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSXNUV1djNWNlY2E1eFY1VVFKQ0tERzF4QUZVN3RqRUNtU2dtRm9MaVRldWd6YVBtVmFBMzFqQUNkU2d2bUlYbUFjWUQtaHZrV3VoaTYzRm9QTl9US3U5b2VCcjF2RnFpeGlaNXpKcmJ3YTNYcTM1Qlc1cTQxdFFfSzhXVEpYUXU4RmJHaXA4WnRySUpjb3JHSDFlVnVQaE90ZTFPRGIxOWd4c2huY3FsX0pUemR1NDVxV1dXUkxzLXJXb3J0UHpTTA?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Metropolización, el desafío en una época de menos ingresos para los municipios",
+      "date": "23 de marzo, 2024",
+      "href": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTN4UFJSaWNWNmZ4d3ctdlRhYnFFRXNrRl9UcWRKeUNlSmJQdFAzZWhHX3UzdmMwS1h1ZjZ5Zy14eHhWSTMzSWpYeTdkM2VFTUZkcHlMcHI5dEY3SlZNSUFZYWZPVms2dGlCOTBBQUw1Z0IzOGJINTd6U0NFYTNSOFdCcm1ndFNmd295OHZKNER1aW45LTNoN2VOdDJGT0lyWW80S3UyUzh5UmEyQV9ybDRLVWxHQXEwb0RvTWpQWWFJUQ?oc=5"
     },
     {
       "outlet": "El Deber",

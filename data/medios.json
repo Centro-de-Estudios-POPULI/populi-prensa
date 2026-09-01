@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-31T17:45:56.808666+00:00",
-  "total": 131,
+  "actualizado": "2026-09-01T15:20:15.744625+00:00",
+  "total": 130,
   "medios": [
     {
       "outlet": "eju.tv",
@@ -171,8 +171,8 @@
       "href": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmEzellyRkl3bS1qOE5WZ2wtVkhuX2loZjVOSXRmOGVHQmtnOFlkOUVYUkxJa3hlUVU0Y0dPb3JRNmlVMHpkOXlScjF5Q1Nkb0JvU3hXMTFWSlliYjc0VV92Y2dzY1pyYnBxTjJjVm9UbGNINVlzb085amIwN2pYUWdnYVhUZGR5OFJzTHotZ2U2b1pJM3dRM25ZNE1nOHR5N1lGU0RDY3ZYUW1EZGlHbElHU1VUaXJCcXltTzE5cDl1bDEyYS1WRlhXX2k?oc=5"
     },
     {
-      "outlet": "Crónica",
-      "logo": "C",
+      "outlet": "cronicadigital.cl",
+      "logo": "CC",
       "favicon": "https://www.google.com/s2/favicons?domain=cronicadigital.cl&sz=64",
       "quote": "El partido del Presidente boliviano Rodrigo Paz fue derrotado en los comicios regionales",
       "date": "21 de abril, 2026",
@@ -270,14 +270,6 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Ministro Zamora solicita apoyo técnico a la OACI para implementar cielos abiertos",
-      "date": "1 de febrero, 2026",
-      "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYjV1c2RsNUN1QXlDLUJmdlQxWk4wWkpYbU42SVhtN29abVlUNFNYTVFwc0pTMUU5Sy1JZkp3bGZKZ3pCX28yMkRjUkljbjI2dWhIOHY2TkRERDNZUVBsekZXMkpVZ0sxX3lwTXREUWFuMzc2T2dXZ0l3cjBWYi11M0F4RzFQdExRTE10SnRRNnFaT1hRMTBVZ3M3WG9ETHRoS19LS2M0SUMzeUs2TTBiVEVYT0o?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Tren y energía nuclear están en agenda de los candidatos",
       "date": "29 de enero, 2026",
       "href": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2NjOVNEU3d6TXE4dnMyYnRCalBVTngydFJIM3d3UTJneGJBbWY4VEhfcFhQcThFTjZYV0s0aGhqM1hhVVVPRkU5Njl5WlZhemVLRWhpTmlFeGZXXzdKRXNURUFZR1R3TzZYbElmMFBZZW1vT2xhekkyRjV4NkN3LVNrSjFZTFFHbTJlQTRmZDg?oc=5"
@@ -323,8 +315,8 @@
       "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjk0UFBTTlBpOU1ncGtEeGZRZWc4YU9SYlg1ODNhaUdIZjFVcmQwaDRRc1c5M2ZIbGF4Wm8wY0dBVlh1NnI5VjZNVmR6UFMxMEJoX05rU2drdG5uZUNiU01rUFR6OF9XbEw4R2stN1ZfSXRrRVVIbzZfR3llV1RmX3k1eXM2U2Z5NG90Qy1XZlE0d0FmcHE3ZFZR?oc=5"
     },
     {
-      "outlet": "La Patria Bolivia",
-      "logo": "P",
+      "outlet": "lapatria.bo",
+      "logo": "L",
       "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
       "quote": "El dólar en Bolivia disminuye a Bs 9,10 en el mercado paralelo",
       "date": "13 de diciembre, 2025",
@@ -499,8 +491,8 @@
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3E3VHhyX29NWEwtQ2hJbGFNRnlOVDAwczNJQ0lOQXJlZFJyMTIyN09TRGZvdHRIMDZnb2ZNRWs1UklFWXZ0VGl2TEhFejNhRTdINE14QzZ3R2NwbERWNkZJUEVvb1lWSUQ0ZGd2bXlDcWtqZEowMXNCV2lqN2JVWnMxNWYwT1ZkNjU1S1N2SFJ0TUJHOFhsX0ZVS01uRFNtVFRHQWdWbV9KOXc?oc=5"
     },
     {
-      "outlet": "Brújula",
-      "logo": "B",
+      "outlet": "brujuladigital.net",
+      "logo": "BN",
       "favicon": "https://www.google.com/s2/favicons?domain=brujuladigital.net&sz=64",
       "quote": "Las joyas de la abuela de Bolivia están empeñadas y el futuro de su economía también",
       "date": "8 de octubre, 2025",
@@ -827,14 +819,6 @@
       "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDdUZV9YdXoyMXY0bUM2MlVKZW1fblpwSXRPRUVmeTZpNWl0Z2Vha29TTHFZdG5JTnl4T2VmbTV5MHpNQ1BiRjNtNmVnVWo2cXlyOXM1QUh1RTBuR29JQ3QwMnVWbUZ1QjhfTXNaaVhxRm41bFlnc0MzLTM3NFYyN1pqZjJBX2loNFpKUFBySHdBZ2hTcTY3eW5WcnVHal9JdEp1YjJNcmNjWGlIVmlnUWlJY1RCZGdRVEdwWnR4VmlCSzl6a0tCRnJtN05Ya0U?oc=5"
     },
     {
-      "outlet": "La Razón Digital Bolivia",
-      "logo": "R",
-      "favicon": "https://www.google.com/s2/favicons?domain=larazon.bo&sz=64",
-      "quote": "Inflación dispara precios de alimentos y productos básicos, alerta Populi",
-      "date": "9 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkFFbzZWcmJjUEtzb2tBdENQSUFpNkNOeEJTT3pVOWtLM2JpRTZzNms2dEdHR2dicC1mSEhsclc5em5mU0VyVDRxY3J1LUU4TXV1c3VrWVRkMmp1UFpkX2tya05YWjR4RGtZVjlCOWRnV1FWa18yVUVTSjlWa0UyUW1wSFNYM0ZWU2x4bXh6OXlBdWFTMkZsR0w1QWJfZTBobFFueVR5dklIeFVIQmVNb3ZHMWxMMXNCSVN5SF9lWQ?oc=5"
-    },
-    {
       "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
       "logo": "DNP",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
@@ -843,12 +827,20 @@
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG5nZjBaMDJidWdlNElJbHk1VXBxOFd1UjlJQmlqemJReVJpX3ZySFJXUUROeHdEckd4aVNLN2pjM0hXRmhsWGdCM2dqdWdjWFhWbU5DSWRRekpkdjJtMzFPa0lneHlIamJBR0VCYnc5bkthZlNUZEJZZVIzZUoxOFNBcm04MkplNkJxUTVyUnpsRURPaFIzT0pkbEp1V3BDQzlUMlBxdV8wSk4xU1JldVZVS1NqaXBCOUhpWjlXNF82ZXhJNHIyMw?oc=5"
     },
     {
-      "outlet": "La Patria Bolivia",
-      "logo": "P",
+      "outlet": "lapatria.bo",
+      "logo": "L",
       "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
       "quote": "Aumento de precios esenciales en Bolivia: un estudio evidencia incrementos del 79%",
       "date": "9 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWRaRURsV19nQjRSQktKZ0dHcXJXMGtWQmdIbG1DWDE4M3BtdjNYRjZ2aWtDY3ZPUW96bE8tNHBPam13WENpM3UxMm5xVnZjQkRpWkJaUDVtWDdaUW5LWkdPVUk4T1NCRWdGZU81dm1EQ2RZd0JOUWxsUWpvNG4zTEdldkh6TFVqV0h5S0ZERW1VQVNIYUlWZmd3R1VGS2tNM2pSQk53WHFPblBSSmZUa1VFb0I1THE2?oc=5"
+    },
+    {
+      "outlet": "El País Tarija",
+      "logo": "PT",
+      "favicon": "https://www.google.com/s2/favicons?domain=elpais.bo&sz=64",
+      "quote": "Los 25 productos que más subieron en el último año, según Populi",
+      "date": "9 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHhMeDhNWnpoWDk4anRSeFg0Mlp2bmk4Mk9lVzd4SjkyXzZocTlTVGdIU0lYSUtWazhHX0t5cW83bHRVZGs0eEt3bXlyT3lNNXhpbTZIZTEzTjZMQk9IWl8yR2tsOW1WNkxDTzBTOE80cnk4MWtZSUlQeUlQd2VlWnIwRE91ZEZSNkZ6emh1LWF2MHZhYk5peWlKWHZlaGRzeVhBZA?oc=5"
     },
     {
       "outlet": "unitel.bo",

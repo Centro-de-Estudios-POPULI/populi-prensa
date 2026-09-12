@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-11T14:44:31.207799+00:00",
-  "total": 129,
+  "actualizado": "2026-09-12T13:48:34.634584+00:00",
+  "total": 131,
   "medios": [
     {
       "outlet": "unitel.bo",
@@ -17,6 +17,14 @@
       "quote": "¿Qué pasa con sus ahorros por la nueva medida del BCB?",
       "date": "9 de septiembre, 2026",
       "href": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41X2Y1WmVMNDg5Ujl5b0hnS0J6dGpib2hlZXJCOG0zeEdZQjVXRm1TcFRMR1o1UFRJWXpWbWdocEJqQnZmTE5qX1h2RkZzMFhZN1dQdVFkellIelg2UjJLbV9YWVpUWmxhdmJSLWk4ZVlFV3oyUUwyeXlDN00?oc=5"
+    },
+    {
+      "outlet": "Los Tiempos",
+      "logo": "T",
+      "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
+      "quote": "BCB inmoviliza el 3% de depósitos bancarios en bolivianos por 180 días",
+      "date": "8 de septiembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHdNY2diMTFVTU12U1ZnZ0ItLUJ2TXphZ2xXZXBRd1RxVEh3S3B1Q3Q0dnpUYVBpdG9vak1mUlNmb0VRS0hRVjQtNUdYdzR3LWxMYmg1R3ZyNVRIZFpFNHRJYTBKeVVNUWZuUnBvaFpMd25tX3V4WjVuLTh5T1U4OXRXZURPeXZ0aW5oVW9nM0prOFdOVlpwWVo3LWN2T0RqU3pXMzRqVzZUNHZkRWF1cWp3?oc=5"
     },
     {
       "outlet": "eldeber.com.bo",
@@ -315,14 +323,6 @@
       "href": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNamNXcHFtdV9fdWg5dFBHaW1QNVVmX211OUlXUldQWVFMbUNLY3h4UnRxdldHdTM0dXZwd1JydVNMUl9Mb3dtcENyazVRa3Y0OWxhN1NPd09HUTNFN3JmbkNZZmNsYmg5WnRiVnkxTDNfYlV5YktCNjhYTlpuellubEcyXzM1SmhzaVhtdWlMZ0xBMHdSdFFxNlZ5dngzTF95bEZMT01ZY2UtR2VCelE?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
-      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "Economistas identifican causas de caída del dólar",
-      "date": "30 de enero, 2026",
-      "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0tmNTY1eXBMZ3FBNzFzNVViZkxXR293NS10SFhnNzV3cFU3UUFPNDZ0Y3RHLWFRWTU3TTNjeS1UYS1GUjR3cXNmc1lUWDA4WlE3UUFFSlFEdnRwdXYxbkJueENlRWl0X0QzUm1FVXlDR3ZSWUF2STA3UE40dUNkSy15TTU0bE1pa01RNndkYXNaMlRlSWhMMFNHcE5UdFU?oc=5"
-    },
-    {
       "outlet": "eldeber.com.bo",
       "logo": "E",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -371,20 +371,20 @@
       "href": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3kzZ2l2d3FiTmNjVVdTMnowTHZkeFd1TWFST252ek1kcDdzVDBRM21mQXBKdGFrUFhiQmNZa2lnYkJxWXM2aE84TjBwZ2ZzNlk2RkhwU2sydEpWQ3hJYkM4Q2ZRbGVlQnpsWjE3dldqOTNpM285SHUtMTZiX1owNzlVU1JTUjJ2YXVZ?oc=5"
     },
     {
-      "outlet": "La Patria Bolivia",
-      "logo": "P",
-      "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
-      "quote": "El dólar en Bolivia disminuye a Bs 9,10 en el mercado paralelo",
-      "date": "13 de diciembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNejIzM1h5V183VW9WZi15Q2JZdXpMTlp5YjVyTm1OdHZtUnU2UDJOU2lZV1FPbTM5alBLQW0yOWd6NW5wY09EdUh5QnpvREEzaFlvaFJuSjY5QTJLVEdtNGhsa1FqaTNFbldrdkhVZXpUaWQxTllmTlo3WW5FbG5RSmdqU1YwamZKV1RrWmpudDFWYWVJNl9KWENNMEtJOGs?oc=5"
-    },
-    {
       "outlet": "eldeber.com.bo",
       "logo": "E",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Cotización del dólar paralelo se ubica en Bs 9,10 y tiende a la baja",
       "date": "13 de diciembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjk0UFBTTlBpOU1ncGtEeGZRZWc4YU9SYlg1ODNhaUdIZjFVcmQwaDRRc1c5M2ZIbGF4Wm8wY0dBVlh1NnI5VjZNVmR6UFMxMEJoX05rU2drdG5uZUNiU01rUFR6OF9XbEw4R2stN1ZfSXRrRVVIbzZfR3llV1RmX3k1eXM2U2Z5NG90Qy1XZlE0d0FmcHE3ZFZR?oc=5"
+    },
+    {
+      "outlet": "La Patria Bolivia",
+      "logo": "P",
+      "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
+      "quote": "El dólar en Bolivia disminuye a Bs 9,10 en el mercado paralelo",
+      "date": "13 de diciembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNejIzM1h5V183VW9WZi15Q2JZdXpMTlp5YjVyTm1OdHZtUnU2UDJOU2lZV1FPbTM5alBLQW0yOWd6NW5wY09EdUh5QnpvREEzaFlvaFJuSjY5QTJLVEdtNGhsa1FqaTNFbldrdkhVZXpUaWQxTllmTlo3WW5FbG5RSmdqU1YwamZKV1RrWmpudDFWYWVJNl9KWENNMEtJOGs?oc=5"
     },
     {
       "outlet": "eldeber.com.bo",
@@ -491,8 +491,16 @@
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVdCT05tc3Y4N2tIdWNEQkcyZDIxZHo2UEZPSTRkX21UVEZ5eDI3M0NWbF9TTldnMllYSXh1ZlBMQ21nZkYxTDg1bXlXSUdKc1BCMmpQMmlPY1B4U2tuLU5sUUw4Z29ZT2dOQkExbjQwUTVjcEFmdjd1MVNWdXdHaGJ6SHBpMUlXWG9XXzgxWG1rc1Q5WmdFYzVxaw?oc=5"
     },
     {
-      "outlet": "lostiempos.com",
-      "logo": "L",
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "Sin apoyo privado no habrá alivio: el subsidio a los combustibles llegó a su límite, advierte analista",
+      "date": "16 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFZ3aUl0NnNkemp3U2FlX0lrc3pBMjhqVklfV01FTnBFVGZaenoxNTRyVTllWFdiYUlGTEZPbWo0ZWZzMnZSczgtM2F1cEpsNWx0cVVjRHBFdjcweC1GWXRJSzh4NzJ3YkVSU0FBRGpPNTlsVmlPSEVEVDg0SDJjLVNpMllnM0tsdjFfZGcyaVJYdW9QYXhaUi1KSk8yWkZGLVNJc3BnRklGMmxwQlNwR083dnZhazhOZTV5aHlsYTVNUQ?oc=5"
+    },
+    {
+      "outlet": "Los Tiempos",
+      "logo": "T",
       "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
       "quote": "El dilema de cerrar o transformar las empresas públicas",
       "date": "15 de octubre, 2025",
@@ -595,6 +603,14 @@
       "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTFQUEdDUjlvUDNaZUxXZE15emlZcG1FTXpNTTB3cnZmdEhmZHQ0MlRCU0pVNlhlbmRqbGQ5dlJiOGZLVHZaU09IcHBjbENOcVVBSHRKMHNULTM4WVl2alJDS1BURW9hMEhGdEVScXNiWkstSzB1MnNjNUJYdXVkbnJ6OWs4MXhmdTRkekxoS09vSW1nV0c0X0I3Tm5XQW05dEpTdXpjRHV6YVdR?oc=5"
     },
     {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "Bolivia cae diez puestos en Libertad Económica",
+      "date": "26 de septiembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdnBBQVpNM2VBd0tJd05Hc3ZiaW53U2RCVngxUlVOMkZrMkg4VEFZZVhDOXFyWTZqVU9aZVZ5eEJlSDJBQUxmS2M3RG54UWYzR1pRNnV3clhRTUR5VjV3Nzg0ZGowd0RZTzlETl9tRHlWN09GYnBhZ3FOdjhENFNVUFk5MUVuN1U4UUZJRGdlS1BZTlBwa3BfRjhR?oc=5"
+    },
+    {
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
@@ -659,8 +675,8 @@
       "href": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGJWSTRLR056bnAycTlZYi0wZ3hQcmZDVVJVZ01SUTM0SFplQUxzcU5zajVpQ1NWbXM1cHluWmlFd1Bfa0lVS1dfR0VoZXlOUWUtY3FaRkRBWnJGZzA3clViRXphNjZkRDh5aUI0bHNoVmJ1OUhQR1BwQm1HTVU5UkN2S3NPSHRYRVQzRkhnMGhNQUE?oc=5"
     },
     {
-      "outlet": "vision360.bo",
-      "logo": "V",
+      "outlet": "Visión 360",
+      "logo": "V3",
       "favicon": "https://www.google.com/s2/favicons?domain=vision360.bo&sz=64",
       "quote": "¿Cuántos dólares necesita Bolivia? Se requieren más de $us 14 mil millones para 2025 y 2026, según el Centro Populi",
       "date": "30 de julio, 2025",
@@ -763,20 +779,20 @@
       "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTk9oVWpTNVdWcldXYmZ6WnFDbzZ3YmQtdV9jRm16aWJhYUdYejhuWktyYlp1aUgwb1NQUDBPRUdKMUo2cmpYOGI2ZUc3cWNRa1NHQUY1MHVyZDB3OHpxb09uUUVnWVBrS0txcUVsWEF4N3lMVi1QdXdGT1Njam0wY1dCSHVMNFhNMm1uTmZzdTdUN2xKcmNpaFdDblRubkcyRHhXTnZLUzQ2UTBSMkxVMFVwbk9rcmZ6OGhQdGJyOA?oc=5"
     },
     {
+      "outlet": "Los Tiempos",
+      "logo": "T",
+      "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
+      "quote": "\"Jarvardts\"",
+      "date": "2 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNF9ZMXY1SUFISGtBT1VyT3FyckVZY2NuMVlsZVoxeXRYandDRWtCT21uNXdSR0NNZXdxSERxMVFyM0lGX3FtdU5OeFlpZDNVRzhTSTVZOEtVQ3o4S1BWeU5vWUtaMTJsaFBUZ0loYm95SkpZTllVcUVnSjJEVXpSWElsc2M5OVZSLW5fZWtfNEpkcHQ4MkdFNVc5Ql8yd3ExeEFhUUxraC1lMktXb1F0X3g1aDdMVl9HLVluTmhGUmpRTHF4d1lv?oc=5"
+    },
+    {
       "outlet": "Publico.bo",
       "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
       "quote": "Lo que el FMI ya dijo",
       "date": "1 de junio, 2025",
       "href": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DcW0tYTZUZ0FDeWRiOWZiTS1yWVY5R0haMGV0RXV6TEx2X2t2WTdCU3oycmhrNjJEWGxTRk9RZ0FBRGhISjZTZGRjd1FxaWhnaks3V2lRc0gxYnAyOGc?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Jarvardts",
-      "date": "31 de mayo, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnSUQ5OEpwQ1lJZnhGVExyZWNtd0R2QjlZU1k1a0NtV2dTQUZKSlJmUDY5RE9vMHVlajFXN3RCSjltQmdra1ZVdg?oc=5"
     },
     {
       "outlet": "eldeber.com.bo",

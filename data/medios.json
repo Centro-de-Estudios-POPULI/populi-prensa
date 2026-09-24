@@ -1,18 +1,18 @@
 {
-  "actualizado": "2026-09-23T15:14:03.123749+00:00",
+  "actualizado": "2026-09-24T15:37:28.982461+00:00",
   "total": 150,
   "medios": [
     {
-      "outlet": "prensamercosur.org",
-      "logo": "PO",
+      "outlet": "Prensa Mercosur",
+      "logo": "PM",
       "favicon": "https://www.google.com/s2/favicons?domain=prensamercosur.org&sz=64",
       "quote": "Bolivia — 4° CICLO 2025 DE LA CÁTEDRA LIBRE MANFREDO KEMPFF MERCADO DE LA UPSA PROMUEVE LA REFLEXIÓN Y EL DEBATE",
       "date": "22 de septiembre, 2026",
       "href": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWmdtQndVVmdGQTc0bnRZZ0l0V3lBeTZyeEtmZjBobWswVk1IUjJLbWpiWS13X2RzaXl3c3JPeUNRWVhXdU8wYktCN2FjWGdudHR0aC1MUTR1emVJY2sycjc1RUN0UzVVTzltZ2xmMWx1VkhaLXhpdXpTbFZGeW52bXBJLXVGaTVqMzhiSkw1cFBiUlJrWmFNX0JMc2VSUjdtaG1SRlh2dFI5SjJERFZkaDRxUUx3b3JPa09mQlR1eVp6V19nWm1zQkRZNnU1eXNFS3B3bHRqaURXUnZpYXlyOTJ3?oc=5"
     },
     {
-      "outlet": "prensamercosur.org",
-      "logo": "PO",
+      "outlet": "Prensa Mercosur",
+      "logo": "PM",
       "favicon": "https://www.google.com/s2/favicons?domain=prensamercosur.org&sz=64",
       "quote": "Bolivia — CAINCO renueva su liderazgo institucional y ratifica a Jean Pierre Antelo para una nueva gestión",
       "date": "22 de septiembre, 2026",
@@ -23,7 +23,7 @@
       "logo": "U",
       "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
       "quote": "Economista: Crédito del FMI es para hacer las reformas que el país viene aplazando hace 11 años",
-      "date": "11 de septiembre, 2026",
+      "date": "10 de septiembre, 2026",
       "href": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcnJEMC1IdnZDc3VSSl9QWW5mSWlmbngwSFZycWtzMmtsdlNjYWF4dzBlNlctb3E3VG5PeE5xZkJ1X0dOYmZ0d2Z1R1pRQmktRDh1SG5MVmFuQVR0bVU2WjNhdmU2bFVSVmQxZGVPeWdoSWlfbTZkbTRzQV8wR25UWmFEUmZxbVA5TUtTYzgtNG1LdVFtb0JidUNKaXlEVXBjZmtpLVhsaElydGZqODBFYUJiaHZQaUI4emd6T0xVZFRyLUNRWXlOeVFJUmEwZ0FwZi1JcEN2bUQ?oc=5"
     },
     {
@@ -187,8 +187,8 @@
       "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDRRQkFESXpNTUtYaVdVWGVqdEhWUzhNemMtUXRnajdWb3FnZ2diVGp2N19oNk9JekVEZVhBMWRnTjJ0ZEg1dEk5cGtQdk9BdzZoV1ZRTENlNUlCV201c1JfdnlaVFFOdTBDSmVWSnZpcXNUVHFoWG5QMXVBUERnMDhXZnlQYUNxeld2XzBWYXAwQzhNR2RBcVkzMVh4ejQwNUhtdlYzUm1uRzgxM3hzM1NUckdkWU0zc2l4dlBn?oc=5"
     },
     {
-      "outlet": "redpat.tv",
-      "logo": "RT",
+      "outlet": "Red PAT",
+      "logo": "RP",
       "favicon": "https://www.google.com/s2/favicons?domain=redpat.tv&sz=64",
       "quote": "Dólar referencial sube Bs 1 en un mes, pero el paralelo en Santa Cruz se cotiza por debajo",
       "date": "6 de mayo, 2026",
@@ -235,8 +235,8 @@
       "href": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmEzellyRkl3bS1qOE5WZ2wtVkhuX2loZjVOSXRmOGVHQmtnOFlkOUVYUkxJa3hlUVU0Y0dPb3JRNmlVMHpkOXlScjF5Q1Nkb0JvU3hXMTFWSlliYjc0VV92Y2dzY1pyYnBxTjJjVm9UbGNINVlzb085amIwN2pYUWdnYVhUZGR5OFJzTHotZ2U2b1pJM3dRM25ZNE1nOHR5N1lGU0RDY3ZYUW1EZGlHbElHU1VUaXJCcXltTzE5cDl1bDEyYS1WRlhXX2k?oc=5"
     },
     {
-      "outlet": "cronicadigital.cl",
-      "logo": "CC",
+      "outlet": "Crónica",
+      "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=cronicadigital.cl&sz=64",
       "quote": "El partido del Presidente boliviano Rodrigo Paz fue derrotado en los comicios regionales",
       "date": "21 de abril, 2026",
@@ -531,6 +531,14 @@
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVdCT05tc3Y4N2tIdWNEQkcyZDIxZHo2UEZPSTRkX21UVEZ5eDI3M0NWbF9TTldnMllYSXh1ZlBMQ21nZkYxTDg1bXlXSUdKc1BCMmpQMmlPY1B4U2tuLU5sUUw4Z29ZT2dOQkExbjQwUTVjcEFmdjd1MVNWdXdHaGJ6SHBpMUlXWG9XXzgxWG1rc1Q5WmdFYzVxaw?oc=5"
     },
     {
+      "outlet": "Asuntos Centrales",
+      "logo": "AC",
+      "favicon": "https://www.google.com/s2/favicons?domain=asuntoscentrales.com&sz=64",
+      "quote": "Bolivia entra en estanflación: economista advierte mayor pobreza y presión sobre empresas",
+      "date": "15 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0pKQkRIS2tZN1Fvc25FaGlQLTlLLWJWRllteU1OQ2VzU1UxZVV2S2M2VzBQSDB2RldBRllCRUtlSVlYUXdrU24wM0UzX0d5QnRaRDBkb2R6VElGcHpvT0dVTGpTdC1kWG1wZmlNUnBscHRkSExfLS1JQTRqNlRYdWlvRDhadWpEUTNtdmkxcEU2NENTaUgtclA5YVBKWHdoYmhqaXRnVnRTRnVYNXM1N2hNVkxNMjk1Z3c?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -747,8 +755,8 @@
       "href": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejlnSG9nQ05FaENCY3JGcDJKai1PWi1jUlA0MGhoUFk3RWtNa3hCNC1HNTQ4S3lMbTNoNEdLbVRseFNQN2lBbkRfX2VDV2liQzNQSmdJRnJvbDhremRtSDNuNU5OR3RHNTlNcXkyd1U0Skl4NEFZaTR1YnNHbHFFNVhrZjUxdWttcDRFNVNBOGJiMTZfZ0R0TTQ2ZjZaU2Ezb0ZTcTR3?oc=5"
     },
     {
-      "outlet": "eldia.com.bo",
-      "logo": "E",
+      "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
+      "logo": "DNP",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
       "quote": "Revelan cifras alarmantes: Bolivia necesita $us 14 mil millones para 2025 y 2026",
       "date": "30 de julio, 2025",
@@ -851,7 +859,7 @@
       "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTk9oVWpTNVdWcldXYmZ6WnFDbzZ3YmQtdV9jRm16aWJhYUdYejhuWktyYlp1aUgwb1NQUDBPRUdKMUo2cmpYOGI2ZUc3cWNRa1NHQUY1MHVyZDB3OHpxb09uUUVnWVBrS0txcUVsWEF4N3lMVi1QdXdGT1Njam0wY1dCSHVMNFhNMm1uTmZzdTdUN2xKcmNpaFdDblRubkcyRHhXTnZLUzQ2UTBSMkxVMFVwbk9rcmZ6OGhQdGJyOA?oc=5"
     },
     {
-      "outlet": "Publico.bo",
+      "outlet": "publico.bo",
       "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
       "quote": "Lo que el FMI ya dijo",
@@ -947,8 +955,8 @@
       "href": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNldMZkY4bDdXNW9SaHF2WHI1TEpsT1laRE5MLVl0S3M2MTd3azhVdmVmWm5qNWplVDBUTWhVd0hUZDZEM05felFrbm92eEdfTVpWMXJtR3JMdVRUcmNqc1h0bDBxcjVDY3pIUG0zeXAxQzY5Q3JDWGxrUHZDMnFneGlkQXdBcE4ybHgyTU5CYUppVDFzWFI0UFR4X2pMSXJGZ2VxeEZxS0J6YmlZYVptRzI2Zw?oc=5"
     },
     {
-      "outlet": "eldia.com.bo",
-      "logo": "E",
+      "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
+      "logo": "DNP",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
       "quote": "Conozca los 25 productos que más aumentaron de precio en un año, entre ellos el café",
       "date": "9 de abril, 2025",
@@ -1193,14 +1201,6 @@
       "quote": "Bolivia entre los tres países con menor libertad económica en Sudamérica",
       "date": "20 de septiembre, 2023",
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1Bac0JjZkpDbTlkZkgyS2NMT3ZYUkNEWEpQajExeXVRY3pEM21pSFJaWk9wWG5ZWGtiZm5jeTVUVE9GbGZ0NDk1VWQ5VUlOb2FDdzhqWnVNcFhmbnh5SHdwWWMyWVFOZjRhTXJtY0VWSFNhUVIzczNQUVJ3Z1ZXeFNKYlpaREJHN2lSd0pwMG1GamZZRTgxazdZZmM?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "El boliviano que triunfó (en el extranjero)",
-      "date": "16 de mayo, 2017",
-      "href": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55ZkJ2T2dqSXA4RWI1Rl9lZWVhZ1dTaFMxNkZLYWlJazgxS3kwaDVWckc3MURkT0xWd1M4SXR3a1R6UVp2YXNoa3ZRdlNlZWJqc1U1T2hlUmhIWUxfdkRBZ2RlWXUzd3FiUU9MQjd0VTlSdWM?oc=5"
     }
   ]
 }

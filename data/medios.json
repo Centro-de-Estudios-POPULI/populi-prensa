@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-26T14:48:44.061787+00:00",
+  "actualizado": "2026-09-27T15:28:16.883380+00:00",
   "total": 149,
   "medios": [
+    {
+      "outlet": "El Potosí",
+      "logo": "P",
+      "favicon": "https://www.google.com/s2/favicons?domain=elpotosi.net&sz=64",
+      "quote": "Población de Bolivia crecerá hasta el 2041 y empezará a caer, según un estudio",
+      "date": "27 de septiembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUjBBRlhzWmRTalhlalhTZmJHd0Y4UG5FTXJWZjFIV2NtWHZSTnFObXQ0QWFIYzFlYXNEcHRrVkxkc2JEbHo1bjNnVEhQU0V4MWF4c1h4bVFxdE5RSHRkRmItTUYxUjI3WFJYYXRZRGdiQTl1X01QcExEX25ZN1ZseDh1U04wUXRrSENfT01jNDNsaG1RcjlpTmlNTmJKamxqTi02SHY2Qlo5RDctd0xJR1d5akdNUUNVS0RZTFV3?oc=5"
+    },
     {
       "outlet": "Prensa Mercosur",
       "logo": "PM",
@@ -49,6 +57,22 @@
       "quote": "En un semestre, el poder de compra del salario mínimo cae hasta un 29%",
       "date": "30 de agosto, 2026",
       "href": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUZlWkZTU2RjNENWckc3N0NLaTFCUWFOOVRMbGRaOTNickZOdnNmdHdaS0JiOHNPSURMb1RpbTkyWUxqSXVxZC1VOXlXTjA0eTdoeUQtbk95aFhyNmgzMDJNa1MwVGtKbHRwekRYXy11VmJib2pqOFhSd2ozNmxzLWR3X2ZZMXNzQmtDcEpzQQ?oc=5"
+    },
+    {
+      "outlet": "Prensa Mercosur",
+      "logo": "PM",
+      "favicon": "https://www.google.com/s2/favicons?domain=prensamercosur.org&sz=64",
+      "quote": "BOLIVIA: El dólar retrocede seis veces y el nuevo régimen cambiario empieza a corregir parte del fuerte salto de julio",
+      "date": "12 de agosto, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdEh6a1NTY25oQTV0ZXllZVZFa0k1S0w3alI5Rml5OWY3TmtwZUlXclA1cXFFVFJUVDFPTE5oSFdqc2hMc1JpQ1dvTGZDZVY4bUJrR2pvcndWcDRYOHlYMUxmY0JvMjdTdW91cUNlSW5pZU44T211cGd1U0VSbHpiZjRMZ1lPOHZZZkhjdnk5T3NtVVV0NVZ4WWY1cGV5aGdXYm1OTDh2V2tjQ3ZkSENjb0JzbWNZYS1ScWo5Nm1EM25VVUpHSG1VemVKYmdpcDU1MG51THNFdlZLVmlrM1pycGVRX1ZMQS1tRXM2WA?oc=5"
+    },
+    {
+      "outlet": "economy.com.bo",
+      "logo": "E",
+      "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
+      "quote": "Créditos externos impulsan la baja del dólar, según Tomianovic",
+      "date": "12 de agosto, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXBESEJiMk0xUWlqWndJR0h3dXhJSmRQSTZfRklRVnFfRHFmX3lhcVRqSmlvY3c4ZnVRTFQ5Rlg3VG1ybzJ2ZWVrd0tsNWluMmlOTk93ZlRGSFJYakR0N0tLellIeXRTSmNXQjlzMkZQLWY5cFFRRDYzR3RjSGZwUm12ekx2a3VycXVPZ0NTSHVnemIwV294b1pKd1NVWXJOQUwyRFNyWUdMOFJ6M2Q1ZktscVRjZWkwU1dF0gHAAUFVX3lxTE9ybkRMV2xBRm5ycTBKdWd5Zy1wV1VnUWpvSzR1eUx2aXBjRGVkeUxvb21uVHV4cnBfQVdHSFZ4YnFMbmZkY1pES2xzWlJnTWRjRWxpanFzU2s4X3hSZTIyT2hTM3lOa2JHWjRGWmh0ZHBOQUw1UHNDY3dua3lpWnphWlBsSFNSMnFZZXhNcjJkTzFKMnBSdUstTzY2dE04d2xGM2tRRDJISDZGZVprSDU2TTVuUUoyTVVaRWk1anhPdA?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -227,12 +251,12 @@
       "href": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmEzellyRkl3bS1qOE5WZ2wtVkhuX2loZjVOSXRmOGVHQmtnOFlkOUVYUkxJa3hlUVU0Y0dPb3JRNmlVMHpkOXlScjF5Q1Nkb0JvU3hXMTFWSlliYjc0VV92Y2dzY1pyYnBxTjJjVm9UbGNINVlzb085amIwN2pYUWdnYVhUZGR5OFJzTHotZ2U2b1pJM3dRM25ZNE1nOHR5N1lGU0RDY3ZYUW1EZGlHbElHU1VUaXJCcXltTzE5cDl1bDEyYS1WRlhXX2k?oc=5"
     },
     {
-      "outlet": "americaeconomica.com",
-      "logo": "A",
-      "favicon": "https://www.google.com/s2/favicons?domain=americaeconomica.com&sz=64",
-      "quote": "El partido del presidente boliviano Rodrigo Paz fue derrotado en los comicios regionales",
-      "date": "20 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU1ZzMGhlWDdSV2QycmF6V3J2dUdXektUckJkYU5aLXVzR3FHYVlvcFR0Q2dmQ25aOXdZcnowREhvMldfeVpwUGtLemxfemVGZGFVTDhWdjVxOXNmTjYtc2M0SWhLTmFSZjU2STFwVXNpYVdkTGFZWjZOYXRMMHZkdVRfZjNlWHllbGxXYzZ0ZVRybGw1WWFURFh4M09Hb19tWGVFNE5FYUhZUVlDXy1KR1NxdVEwMEt4b2o0ZFBoWWxQbldEVzEyaDNURVZSNGFkbkZqTNIB2gFBVV95cUxOTi01eGtZZVNOdk0tS1VLVmgzY0hQckFEb0tsbHF5RGYyTFo3XzM0WUpFRUJVcTMwYTE5c3RtLXphTTFQbmk5eGwzWWk4LWUtUEViX1NGQ2xOT0cwQ1o4OFNxUFFzbjRGX1NsdjZfUDdMaU43MVZGVk01QjdFTlZVdXRROGkxREY4RlFiNHRyOUYxaG5XVF9zN2tiVTJ5X0VCd0VZRGk3UUpxQmFpak55QWpxWVUtdDRVN3lQOUFEM29aU3FTM0x0cWFKU2FCQkxaQUcxSzJ0Z0o2UQ?oc=5"
+      "outlet": "Crónica",
+      "logo": "C",
+      "favicon": "https://www.google.com/s2/favicons?domain=cronicadigital.cl&sz=64",
+      "quote": "El partido del Presidente boliviano Rodrigo Paz fue derrotado en los comicios regionales",
+      "date": "21 de abril, 2026",
+      "href": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX19ReXRNenRENFJFOXJrSmx4QXpDX3ZCd0p3YVB3OWJ6U0tJWUx2ZkJqLUpXcTA4VmFvRU9TcENfWVpDampxUktxeEtXZlA2b2hlM2d5dTcxY25aSGN1MW96NFFINHdtNzdCM25CMDRhSVJlbWh5VVFDOVNCbDlCTV9oR0p2MUw3NFNwOGgwWEVmMVFZNnJUZGNQandZRTZvaGJnTnhVRVplSEwzUmYzMmFzUGYyUQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -331,14 +355,6 @@
       "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYjV1c2RsNUN1QXlDLUJmdlQxWk4wWkpYbU42SVhtN29abVlUNFNYTVFwc0pTMUU5Sy1JZkp3bGZKZ3pCX28yMkRjUkljbjI2dWhIOHY2TkRERDNZUVBsekZXMkpVZ0sxX3lwTXREUWFuMzc2T2dXZ0l3cjBWYi11M0F4RzFQdExRTE10SnRRNnFaT1hRMTBVZ3M3WG9ETHRoS19LS2M0SUMzeUs2TTBiVEVYT0o?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
-      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "Economistas identifican causas de caída del dólar",
-      "date": "30 de enero, 2026",
-      "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0tmNTY1eXBMZ3FBNzFzNVViZkxXR293NS10SFhnNzV3cFU3UUFPNDZ0Y3RHLWFRWTU3TTNjeS1UYS1GUjR3cXNmc1lUWDA4WlE3UUFFSlFEdnRwdXYxbkJueENlRWl0X0QzUm1FVXlDR3ZSWUF2STA3UE40dUNkSy15TTU0bE1pa01RNndkYXNaMlRlSWhMMFNHcE5UdFU?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -395,8 +411,8 @@
       "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjk0UFBTTlBpOU1ncGtEeGZRZWc4YU9SYlg1ODNhaUdIZjFVcmQwaDRRc1c5M2ZIbGF4Wm8wY0dBVlh1NnI5VjZNVmR6UFMxMEJoX05rU2drdG5uZUNiU01rUFR6OF9XbEw4R2stN1ZfSXRrRVVIbzZfR3llV1RmX3k1eXM2U2Z5NG90Qy1XZlE0d0FmcHE3ZFZR?oc=5"
     },
     {
-      "outlet": "lapatria.bo",
-      "logo": "L",
+      "outlet": "La Patria Bolivia",
+      "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
       "quote": "El dólar en Bolivia disminuye a Bs 9,10 en el mercado paralelo",
       "date": "13 de diciembre, 2025",
@@ -531,8 +547,8 @@
       "href": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkp2aTZEc1NPVHBGNmVWUXRlYkNzZ1ZHSEFJM0tZV3picE9POFNJV2c4WFhwaDloLUI5NmJROVN4cW92ODN0dVAxNnFzc3UxOTd5dzNxTUo4SFZvYm0wOVJyZFZyLVlxN3Z5UmFuNHpqeHpUZTlCYVlwU05KWHozekdSUkRSZ3JCSVppVm9EWWtZem9pa24zNlh6UkNCeHc2?oc=5"
     },
     {
-      "outlet": "Asuntos Centrales",
-      "logo": "AC",
+      "outlet": "asuntoscentrales.com",
+      "logo": "A",
       "favicon": "https://www.google.com/s2/favicons?domain=asuntoscentrales.com&sz=64",
       "quote": "Bolivia entra en estanflación: economista advierte mayor pobreza y presión sobre empresas",
       "date": "15 de octubre, 2025",
@@ -694,14 +710,6 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Bolivia en el Bicentenario: Un manifiesto por el crecimiento económico del país",
-      "date": "12 de agosto, 2025",
-      "href": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMm9fakJ4cDJ3cmt5Y3BnXzROcU5GV3EyTTl6ZzVtaFdxNFY4NUplNW50X09vaVJxZEhLNjV2NnRoNVhYck5tVXVDZVBDZk5HMTE0UTZ4QnFDZkdCM05uZ25aenpLT2lRWkIzVHhTdnQ4SEJxNWJSSzdQa2NuUjVMVHJmUl8yVE8tdjgydkxMOWhEWVpMSlBjWWlmWkVFMDBleGwtVTY1cS0taElsRXl6VGx4bEVDQQ?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "El próximo Gobierno debe pagar más de $us 8.000 millones por deuda externa",
       "date": "10 de agosto, 2025",
       "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1lZU3EwN19NNjRDaFhCOEF4YjZpMWI0UlhWcm1NME9MOEYwZTM3Rlo5Vk51RnVQTUQ1Z0YzbHEzNF9QVWI2VkpUclA4bF9xQ3lCSnk5cFBqWjA1NC0tT1Bobkd2TVZUUFQ0X0Fmamw0bDFpR3FEZFJYVTdIOW1uRHRzNnM2Q1RYdUxieGxvSFI0MmRnQUoxT2NSeVJrSUp2NXA0TzlTSkhLWmR4?oc=5"
@@ -755,12 +763,12 @@
       "href": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejlnSG9nQ05FaENCY3JGcDJKai1PWi1jUlA0MGhoUFk3RWtNa3hCNC1HNTQ4S3lMbTNoNEdLbVRseFNQN2lBbkRfX2VDV2liQzNQSmdJRnJvbDhremRtSDNuNU5OR3RHNTlNcXkyd1U0Skl4NEFZaTR1YnNHbHFFNVhrZjUxdWttcDRFNVNBOGJiMTZfZ0R0TTQ2ZjZaU2Ezb0ZTcTR3?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "El fracaso de dos modelos: Bolivia no supera el umbral de ingresos medios bajos",
       "date": "13 de julio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNlRlSVJ0N3N5U0xEcUxhMUoyOWx3emR4cWRPUnQyd3lTLWZwYi1uRGlMdktWOVM0V1F5aVUwTXN5Vmg2NF9OR0R4M0xpUTZIMUtYdjB5cUZ4OW9FRTZmY09CS2FsVW42bGtYckxEU1l6RGpjMmFPUzZabFdpemljZ1NXdlJKZ2gxTXYwSXhJZHk0N1loc0lMMC1GVUpWNzBaMmZKZg?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmpLcGplTDVxbERUYU1YVExzMzExQkwtamNkTnkwbGRzdm5nVFFxZDJob0xhNmprZmVocHdVbnVfUUhYeUpGdkZVS3NaNEV3LUhkUlFRVGxGS0IyZGp2dWJPeHd5T2h6emdLXy1sT2JmWVF1cXRwSzFiS1l2TlU1S0I4dU9sQzVJWF9Edzk4VGxQcVdtTUdwdC13QlZaVWhoWV9wSEdTb2N1V0JkWGlGemFJeUtIb1hPVUE?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -827,6 +835,14 @@
       "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmRzRFZPZy13NDZwWm94QU9aTUUzc0hlSm9rb0d0REFuWHhJR1JDVmZCUXhnMHlBRjJwSUl6TGwzOVZHaUpEM041QTFsdDRHVTJpT1AxYkJ1RVpPcU9HUndYYXNVV3FJdDVVdldPbWdVcjVEMmRrX1pSV0V4QkdYRTFyaDFyZHpUak1BbENyQ2ZLN1J4ZVpTRi04VmlFajlQdFVYOVpSSkI4aUtkS2N3Qg?oc=5"
     },
     {
+      "outlet": "elmundo.com.bo",
+      "logo": "E",
+      "favicon": "https://www.google.com/s2/favicons?domain=elmundo.com.bo&sz=64",
+      "quote": "La crisis económica se agrava por falta de medidas contundentes",
+      "date": "12 de junio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOby1kSnNRZFR2NnlGRF8wV090UkNTUjBuNnVsUEtFQVc0YS1OTFJJMjdDaldnelI0MGNGTmtya2ZoZmhycWZwakdTOVRoUnpuaVlEMGlNRGZDVE1ZUlE0VFphSUs1RGVQbmo0WlA5VUJIZ0x0a0txS3N6VWpxekdmdC1ZZkk4WEZoVW1oZVFfc3g?oc=5"
+    },
+    {
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
@@ -851,7 +867,7 @@
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMG9jNktwM043cW5HYkRRdHJucWpJWThtZFRMLWtTQ2J2eC1TVkJzb1VRMmR5VVJBbnE1V3BnWlRYZS1yUEZwcVhNcHZtUFc1U1ZBVmtRU0pNSnQzWXhLcjRvMjktb3FxOHJRVFozQkg2Q1h0NVhGVk1SWGRhaTl4X3RkMHpkS01jNk5pSnRGT05kd08wbVd0aDUzVFlibXVlY1hKaE5mMHFyQlhESGFaNVJBdk5hXzdUUzktdlFvU1Z2OVFxcG9fZg?oc=5"
     },
     {
-      "outlet": "publico.bo",
+      "outlet": "Publico.bo",
       "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
       "quote": "Lo que el FMI ya dijo",
@@ -939,14 +955,6 @@
       "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDdUZV9YdXoyMXY0bUM2MlVKZW1fblpwSXRPRUVmeTZpNWl0Z2Vha29TTHFZdG5JTnl4T2VmbTV5MHpNQ1BiRjNtNmVnVWo2cXlyOXM1QUh1RTBuR29JQ3QwMnVWbUZ1QjhfTXNaaVhxRm41bFlnc0MzLTM3NFYyN1pqZjJBX2loNFpKUFBySHdBZ2hTcTY3eW5WcnVHal9JdEp1YjJNcmNjWGlIVmlnUWlJY1RCZGdRVEdwWnR4VmlCSzl6a0tCRnJtN05Ya0U?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Alertan que el alza salarial tiene un costo extra del 31% para empresarios",
-      "date": "10 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNldMZkY4bDdXNW9SaHF2WHI1TEpsT1laRE5MLVl0S3M2MTd3azhVdmVmWm5qNWplVDBUTWhVd0hUZDZEM05felFrbm92eEdfTVpWMXJtR3JMdVRUcmNqc1h0bDBxcjVDY3pIUG0zeXAxQzY5Q3JDWGxrUHZDMnFneGlkQXdBcE4ybHgyTU5CYUppVDFzWFI0UFR4X2pMSXJGZ2VxeEZxS0J6YmlZYVptRzI2Zw?oc=5"
-    },
-    {
       "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
       "logo": "DNP",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
@@ -955,8 +963,8 @@
       "href": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWG5nZjBaMDJidWdlNElJbHk1VXBxOFd1UjlJQmlqemJReVJpX3ZySFJXUUROeHdEckd4aVNLN2pjM0hXRmhsWGdCM2dqdWdjWFhWbU5DSWRRekpkdjJtMzFPa0lneHlIamJBR0VCYnc5bkthZlNUZEJZZVIzZUoxOFNBcm04MkplNkJxUTVyUnpsRURPaFIzT0pkbEp1V3BDQzlUMlBxdV8wSk4xU1JldVZVS1NqaXBCOUhpWjlXNF82ZXhJNHIyMw?oc=5"
     },
     {
-      "outlet": "lapatria.bo",
-      "logo": "L",
+      "outlet": "La Patria Bolivia",
+      "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=lapatria.bo&sz=64",
       "quote": "Aumento de precios esenciales en Bolivia: un estudio evidencia incrementos del 79%",
       "date": "9 de abril, 2025",
@@ -1185,14 +1193,6 @@
       "quote": "Libertad económica y opresión estadística",
       "date": "25 de septiembre, 2023",
       "href": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCemYzMDQyUFZIYUtOVjVPVVVYdzJnTjFGUnBiSHpWcXFtOWlCMVlsV0JXZVRpUmpkaXo3dFpfQ1VQSzVCMXlraEx5MFZuUXdSWFZYeFdOMFZJdjZmRVF5QnZmRldtTUhJdzRpb0ZRSFJGUTZtRnJnSzZhZnZBaDA?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Bolivia entre los tres países con menor libertad económica en Sudamérica",
-      "date": "20 de septiembre, 2023",
-      "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1Bac0JjZkpDbTlkZkgyS2NMT3ZYUkNEWEpQajExeXVRY3pEM21pSFJaWk9wWG5ZWGtiZm5jeTVUVE9GbGZ0NDk1VWQ5VUlOb2FDdzhqWnVNcFhmbnh5SHdwWWMyWVFOZjRhTXJtY0VWSFNhUVIzczNQUVJ3Z1ZXeFNKYlpaREJHN2lSd0pwMG1GamZZRTgxazdZZmM?oc=5"
     }
   ]
 }

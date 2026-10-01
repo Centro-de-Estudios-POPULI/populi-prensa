@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T16:34:02.742009+00:00",
-  "total": 147,
+  "actualizado": "2026-10-01T17:12:36.757833+00:00",
+  "total": 150,
   "medios": [
     {
       "outlet": "eju.tv",
@@ -155,8 +155,8 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0FwbGZTRE9HRlBOMmxLc1I4R3NCb0JZSDVOb242TDktcndmdVJhUEYzeFhVSjRJekRGZlFkM0tlb2tURkQ3M3g3aG0zWFUyR1dXak80M3NQU1FRX1BwVkJQeXI0dXo2SlFXZklRcmI1dUZoZUhrQ2UteXBmc2RZY1dvR1UxT3RDcHBkUDZlNWxFeWpLeUlvV05lYlZlaFJKU29ORWZCWQ?oc=5"
     },
     {
-      "outlet": "Red Uno",
-      "logo": "RU",
+      "outlet": "reduno.com.bo",
+      "logo": "R",
       "favicon": "https://www.google.com/s2/favicons?domain=reduno.com.bo&sz=64",
       "quote": "¿Qué son los gastos hormiga y cómo afectan sus finanzas personales?",
       "date": "8 de junio, 2026",
@@ -211,8 +211,8 @@
       "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDRRQkFESXpNTUtYaVdVWGVqdEhWUzhNemMtUXRnajdWb3FnZ2diVGp2N19oNk9JekVEZVhBMWRnTjJ0ZEg1dEk5cGtQdk9BdzZoV1ZRTENlNUlCV201c1JfdnlaVFFOdTBDSmVWSnZpcXNUVHFoWG5QMXVBUERnMDhXZnlQYUNxeld2XzBWYXAwQzhNR2RBcVkzMVh4ejQwNUhtdlYzUm1uRzgxM3hzM1NUckdkWU0zc2l4dlBn?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
+      "outlet": "correodelsur.com",
+      "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Bolivia vuelve a la democracia multipartidaria",
       "date": "30 de abril, 2026",
@@ -235,16 +235,16 @@
       "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0xOQkd5TmprbjZ3LTlzeEZhNWNtVmUtWVVsSjI0emtMZjNsU1RkZFJGT29weFh3X193VjdZd0VUencwbGR5Wm91eUk0SWRKMlhGZW9QSWdiZWFSU3pxUk9yck9mVGFycmN0VzRVYk11Y0dCYUJSa1ZlWVV0V0Y1N2U2SDN1ZlAyVktGNVpFbEJoT0ZhanlITGgwODdBQjRtSGNZZFhGVQ?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
+      "outlet": "correodelsur.com",
+      "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Chuquisaca: 97% de ingresos son transferencias del nivel central",
       "date": "26 de abril, 2026",
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWlA0Qk5DN0hTTEdBdi1xRW82cV9lQnM5WDVxeDRyelNRRFF4ZEtVNVhkTEdQbjUwWUZYZFk4eWw3dlAzRy1oWHB3eXZPZ1NyUE51alh3c2Y1S0tUQmdRWlE1Sk9XdnN1c0NTUWQ5RUZ2U19MSHh5MjY2enVvZDhpWUk0ZWg5Y193U1Y4d3dJNDlpUmN5eW92M3ZyWWNhVnhqTERsWE9BdDJHSms?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
+      "outlet": "correodelsur.com",
+      "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Bolivia transita del sistema del “partido hegemónico” a una democracia “multipartidaria”",
       "date": "22 de abril, 2026",
@@ -427,8 +427,16 @@
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeS1GYjdGTURfZGdqWGhYRHNkeE81d3dHcUFsUG0yNUt5ZkVfMEpWT2N0Mld1dWVmZW5scERaTlQ2anBnYnVsOGZwanZGZlJfTEVCT1ltX0Rkak93QzdsU1dBdVVfT0FTSGlUWWNndHpGbWlCb3BaYnQxNm1TN1RkSjdtYTdlTm1nZ2ctYVVzVnNuMFU1TnMzeTMyVFo?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Con apenas $us 75 millones en billetes el BCB pide frenar dependencia del oro",
+      "date": "5 de diciembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWVqSmpEMnQzQ2lHUTcyalEyd0FfMEpNR2RjZlM2aWc0MG9BTWw3bUs2MVdxeFdveHMzN1E4MG1HbVdVczQ0dXFfOHJ6Qkt5dFpDWlJkdGdrR1B5RUpaS25qS3pNY1hyQ0U4emloRGQ1R0NScnV0Wk9CMUhxeU0xUmJFdi1LOHJOMVRiLTRYMnpGNFpxaEwxZmt3SzZSODRfYndn?oc=5"
+    },
+    {
+      "outlet": "correodelsur.com",
+      "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Economistas: “El tipo de cambio debe ser único, real y flexible”",
       "date": "3 de diciembre, 2025",
@@ -523,8 +531,8 @@
       "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzV4RGdOWXl6SE9YOVZUcUJ0VXA4eWJETHVYbU5LVjhGX1RsUlNHU2JYQ1ZMREpGV3dFUWRUX2g4U2wxclNHZG9BeFcxNm1aZkpvaS10MFF0NlFBdGk4V3BzbVlTR3B6dEpxdERKbkphM2F0bkp5U0wxQkwzeWJQeWFrR3pwb1ZoQWhlRC00bkptUUlmUXIteFVB?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
+      "outlet": "correodelsur.com",
+      "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Calculan 500 mil pobres más en los últimos años",
       "date": "16 de octubre, 2025",
@@ -555,12 +563,20 @@
       "href": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGdqWGtwemNhTWFsMFZJUjlHUXN2TGlJdDR2YkhybnhrY1NWQWJxd3J5RUtYZ0RTUWRwT0VJbjNZanFwd0JRdy1KQzJkYzVxelBJVkVTVHFuOXNMbnV1QXNjNVExMGp4Y2FlRXJOdzZfREVqTjRDQlBfLU0zMHlqenRYY1ZjNURVWUtsbA?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
+      "outlet": "correodelsur.com",
+      "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "El futuro de la economía de Bolivia está empeñada",
       "date": "12 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGszTWhFN2NFUkJhWjV6dHEybTRleWp2Q2NIZFJLNEZHQ2pQaG5rcjFycWFuVTdZaThIaHFlSGxWN3ZDT1VZb192NXNBMVFPMjJ5Q0FGX0FfOHJOTmJjdTZ1dF9QVjRMVlQ4YTB6QVdYQ1hwZGp4aXNfSzFMdXhrMG01eE5Ia0Q0X2dXaDBCRm81RkZfYlYycE1JX2RoQQ?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Informe del FMI",
+      "date": "11 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oZXlJbjJFWDZTcG1ZSEhuU0hwa1dDSWlfak5xVnRPc3FpX1lyTl90Y05COXVSUldfTFd6YnFzbUxtc0VSR01MRUdqRm1NS2lqODRyQw?oc=5"
     },
     {
       "outlet": "ANF Agencia de Noticias Fides Bolivia",
@@ -643,8 +659,8 @@
       "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTFQUEdDUjlvUDNaZUxXZE15emlZcG1FTXpNTTB3cnZmdEhmZHQ0MlRCU0pVNlhlbmRqbGQ5dlJiOGZLVHZaU09IcHBjbENOcVVBSHRKMHNULTM4WVl2alJDS1BURW9hMEhGdEVScXNiWkstSzB1MnNjNUJYdXVkbnJ6OWs4MXhmdTRkekxoS09vSW1nV0c0X0I3Tm5XQW05dEpTdXpjRHV6YVdR?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
+      "outlet": "correodelsur.com",
+      "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Bolivia cae diez puestos en Libertad Económica",
       "date": "26 de septiembre, 2025",
@@ -779,8 +795,8 @@
       "href": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnBGR1NkNWN2M1AtWTRtTlBWNEM1Ynd4MTdpbG4tNnN5UTBmclEzLVJBVE9MOHlobjgwMnNOTE1IQllFNXduZHAzdEVxT3BfLXlrTGRPaFFiOU40WmlSMWNvMmtHaEtXZTlHTGlTNWlWbFpzUkNuVXVTUjhWbzhWaFdhMUNJbTZZZEtuZzhCbXZDVnluRm4yYUpRdUtKRzRpVUNFLTY0UmpkMTZ3UE1mTlVzSldGWVFoVHdtMEh6c1FZOFNYMEdWdHIyOEVNSHpiWG53OFhWWVJXZGs?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
+      "outlet": "correodelsur.com",
+      "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Vuelve a subir el dólar paralelo en Bolivia, luego de una breve caída",
       "date": "3 de julio, 2025",
@@ -923,6 +939,14 @@
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWJJZDBVemtKeWxid19MaE43d0ZwQmozR3IxNjk5TGF6ZzY2bU92ekJQaGYxdVhubTlTREVJaWR4WG9lLWJieTIzNTVTWVBzSzBpNlZ3SkRyOWtrV3hSbjV0WGJGV2lkbWZ2WGh6dXgzeUtEcU51RXgtbTFBdVRtTW9UMmlZUWFfQlItb3pSSld5TkFGTEhvQnJKZw?oc=5"
     },
     {
+      "outlet": "correodelsur.com",
+      "logo": "C",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "Economistas identifican más causas de la inflación",
+      "date": "11 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDlBRnpiVEVKTGYtZnNaQU93RWREQnZmSWJqeWZoUEhWaXhGVi16ejVWb1RYTGRueS1BdG5GQlhwUTV5R1VGUFd2YzMxQUR1d2tZcEJXNWFGc25pWFBlYTNyZ2ZLZzd2aE5YWnZaLUI1TXVPN1AwcVd0NEdUZnRjSFlYTTkxVGJ0WnJVQnJRNTNxWEhUNGNPZ3ZRanNWWEU?oc=5"
+    },
+    {
       "outlet": "unitel.bo",
       "logo": "U",
       "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
@@ -931,8 +955,8 @@
       "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDdUZV9YdXoyMXY0bUM2MlVKZW1fblpwSXRPRUVmeTZpNWl0Z2Vha29TTHFZdG5JTnl4T2VmbTV5MHpNQ1BiRjNtNmVnVWo2cXlyOXM1QUh1RTBuR29JQ3QwMnVWbUZ1QjhfTXNaaVhxRm41bFlnc0MzLTM3NFYyN1pqZjJBX2loNFpKUFBySHdBZ2hTcTY3eW5WcnVHal9JdEp1YjJNcmNjWGlIVmlnUWlJY1RCZGdRVEdwWnR4VmlCSzl6a0tCRnJtN05Ya0U?oc=5"
     },
     {
-      "outlet": "eldia.com.bo",
-      "logo": "E",
+      "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
+      "logo": "DNP",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
       "quote": "Conozca los 25 productos que más aumentaron de precio en un año, entre ellos el café",
       "date": "9 de abril, 2025",
@@ -987,8 +1011,8 @@
       "href": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdW1OV01TVFlUSFNXYkZSUTNjQ3NNakVzc0NZZnlnUmRBVkpuU0NIcXh6VUVVMEpSOUFQc3hqaTBoZTY1aElkMV9TVERiSzdLZnNMazNNSFVfSkxrcDQ4QzNaeGFXYUV4aEdPTThPUW5RUXhGVnNwZHFRM2dQQW0xVDdNZ0psRzNNTEt0NFVZZWZyNS1Ycl9aSFQxMzFLT29YTUw1d0FudEg0ZmFKalN6a1F1ZGc1VF85YktQV2N2Qmx5MXA5Uy1rT2hrWVdNRzRNQ0JWbW5oMzUyakxSTWc?oc=5"
     },
     {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
+      "outlet": "correodelsur.com",
+      "logo": "C",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Un 8% del parque automotor de Bolivia migró a GNV en 25 años",
       "date": "25 de marzo, 2025",

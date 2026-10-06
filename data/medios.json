@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-05T19:26:45.496980+00:00",
-  "total": 143,
+  "actualizado": "2026-10-06T17:00:02.438137+00:00",
+  "total": 147,
   "medios": [
+    {
+      "outlet": "El Potosí",
+      "logo": "P",
+      "favicon": "https://www.google.com/s2/favicons?domain=elpotosi.net&sz=64",
+      "quote": "Bolivia cae al puesto 144 de 165 en el Índice de Libertad Económica 2026",
+      "date": "6 de octubre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQndxbGY5aEtsd2pxd0lKbjVkNG9ITUlOcnhyVzlPNHhwUWRIRko0WWx3a3BsUmQtNV9QQ3JPRGdENmhxMGkxS3Ixbm9UYjZUU2JfYkEzQWh6THgwRXBrRWFKZlhqMndkVUxPaEtEY25hR3FuTWVGZmhldGJMbmx6cFdXV0dCWGVRejdZeWUtNVhrc2xKQU41eXZ6STVHcnRsc3ZuTWY5cXdxYzAxZnc0cEJXekFKQ3M?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Bolivia cae 37 puestos en índice mundial de libertad económica",
+      "date": "6 de octubre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEJTa0F0ajAzT3FkVHROblBEYWZENWx4eFBBc0N5Uksyd2JIc3RUZk5pQWc4TUNoczVzT0tkTFl6YWtDbUF0czAya29iajNobUE5aEc1aC1CeENRUHduRXpJay1kZFNWSXVCNndhS0ZDX0tQNXcxWGZVd0RVVG83c3IzaWdIQlhDX2pwQ3lyVVd3ODZPcWF4d25mQUdiZGt1?oc=5"
+    },
     {
       "outlet": "eju.tv",
       "logo": "ET",
@@ -51,7 +67,7 @@
       "href": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdEh6a1NTY25oQTV0ZXllZVZFa0k1S0w3alI5Rml5OWY3TmtwZUlXclA1cXFFVFJUVDFPTE5oSFdqc2hMc1JpQ1dvTGZDZVY4bUJrR2pvcndWcDRYOHlYMUxmY0JvMjdTdW91cUNlSW5pZU44T211cGd1U0VSbHpiZjRMZ1lPOHZZZkhjdnk5T3NtVVV0NVZ4WWY1cGV5aGdXYm1OTDh2V2tjQ3ZkSENjb0JzbWNZYS1ScWo5Nm1EM25VVUpHSG1VemVKYmdpcDU1MG51THNFdlZLVmlrM1pycGVRX1ZMQS1tRXM2WA?oc=5"
     },
     {
-      "outlet": "economy.com.bo",
+      "outlet": "Economy",
       "logo": "E",
       "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
       "quote": "Créditos externos impulsan la baja del dólar, según Tomianovic",
@@ -67,7 +83,7 @@
       "href": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSk5vbVpGMEkzZVhVbjNoUFJUOWMyaGZRQnRFVlhPZVJUM1ZjX2ZFazQzOXAzUWZFRjQyV3c1WEVTZmV6d2h5Nm9lWm9ZSk5iR1UwR2EzbDdBeFp5TjM4SnBqZmVGT1BRUDZoWU9DSnc3OUJZbDRBaHctLTI1NmkxZEZRS01HOUYwY2djZHdWeldRMU03YVVlXw?oc=5"
     },
     {
-      "outlet": "economy.com.bo",
+      "outlet": "Economy",
       "logo": "E",
       "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
       "quote": "Primer balance del tipo de cambio flexible: más presión sobre precios y divisas",
@@ -115,7 +131,7 @@
       "href": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yaGFIWE5OLWM4REZySUFvMDZiMDJfeUJPQzV4MHNZMTBwbWdtUU4yNWF3alFTMnRENnR3NFJqMWZMNGdVaEJ3YWhfeExEQm5Yd3prUC1KakNqeThhWlZUUl9HdzUyeE5PUHZGWlZrbjNSYXNBbThzeTVvLVU?oc=5"
     },
     {
-      "outlet": "economy.com.bo",
+      "outlet": "Economy",
       "logo": "E",
       "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
       "quote": "Analista: Bolivia ya no produce suficiente gas para recuperar su mercado exportador",
@@ -587,6 +603,14 @@
       "href": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBybDVjY19qbDk2TDhadFhzWDZuVXRNYXVPWDU4d1RObm9sSFNHLTBTMV8yRGwxSGY3VE1EYnpER1E2b2ZmSVZocGRYTHlMN093YnZPUmlBT19XZzNDR0x1T2dn?oc=5"
     },
     {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "Santa Cruz tiene un Observatorio de Presupuestos Fiscales de sus 56 municipios",
+      "date": "5 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONmlJV1hTUEc1MzF5cDE1YTAxRVZqRXVyWnBOLTA1NW8yUjh3Tl9CZW5wYjJLWWRrWWRuS2Nwc3dTQXh1aTRIT1NqcUdNNmkzeE82MU9tV3F6cjcza2tKVmp3aENJS285VU1yczhoc2FYUE1VRXNGc2o3d3E1ZVlHeVJRLUt0cWpZQW9PNWtjS0wwU0xHTzlkamRqZlVvQTFqMW93Ug?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -662,6 +686,14 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Bolivia en el Bicentenario: Un manifiesto por el crecimiento económico del país",
+      "date": "12 de agosto, 2025",
+      "href": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMm9fakJ4cDJ3cmt5Y3BnXzROcU5GV3EyTTl6ZzVtaFdxNFY4NUplNW50X09vaVJxZEhLNjV2NnRoNVhYck5tVXVDZVBDZk5HMTE0UTZ4QnFDZkdCM05uZ25aenpLT2lRWkIzVHhTdnQ4SEJxNWJSSzdQa2NuUjVMVHJmUl8yVE8tdjgydkxMOWhEWVpMSlBjWWlmWkVFMDBleGwtVTY1cS0taElsRXl6VGx4bEVDQQ?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "El próximo Gobierno debe pagar más de $us 8.000 millones por deuda externa",
       "date": "10 de agosto, 2025",
       "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1lZU3EwN19NNjRDaFhCOEF4YjZpMWI0UlhWcm1NME9MOEYwZTM3Rlo5Vk51RnVQTUQ1Z0YzbHEzNF9QVWI2VkpUclA4bF9xQ3lCSnk5cFBqWjA1NC0tT1Bobkd2TVZUUFQ0X0Fmamw0bDFpR3FEZFJYVTdIOW1uRHRzNnM2Q1RYdUxieGxvSFI0MmRnQUoxT2NSeVJrSUp2NXA0TzlTSkhLWmR4?oc=5"
@@ -683,12 +715,12 @@
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZzBvbkE1ZW9xNlZjYThqMVhRNWhWTjB0T2Zac0hoZXNnNGtyWXpEbktkOWhuYjhBVlg5dHd2cUx1MTMzS01NaXQ2dG1Fa0pqWkMwQng0X0VKWXNBNWwtNzdrNklkbTZYbkR0cDdNd0JiLW4xLXVvRF9WV0VEODY4YUs0Sk1ZdFZKMkphZmFyMkUxeldOamlJVTFSQkxYQVNycC1QbzAtSHVSYlk?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "Bolivia enfrenta la deuda externa más alta de los últimos 25 años",
       "date": "31 de julio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTYzSndHLUt3dWtQaEM4RnlFVG9mc19GWmR4dW9IQU83MzJpeTVMdE9acE9TNFRubXcyZW1McU5nd3F5bGZfWjNSLXljc3B2b0tVek90U19YSlZ6UWV5bld0Qko1d3hFa0VvSTV2UzZIYXlZTWdjQlowRUVkQkVtQTFYcWZwZmZOWTZMcW5sQzdUU2Q0SC1sNHdPQVFGQjlBSzFwOUlFRVE?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGJWSTRLR056bnAycTlZYi0wZ3hQcmZDVVJVZ01SUTM0SFplQUxzcU5zajVpQ1NWbXM1cHluWmlFd1Bfa0lVS1dfR0VoZXlOUWUtY3FaRkRBWnJGZzA3clViRXphNjZkRDh5aUI0bHNoVmJ1OUhQR1BwQm1HTVU5UkN2S3NPSHRYRVQzRkhnMGhNQUE?oc=5"
     },
     {
       "outlet": "Visión 360",
@@ -843,7 +875,7 @@
       "href": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tcDBHOXl1cGk3WUktUnBNV2NLeU9PQlIwVkFoQ051Q2hwWFBsVzM1UUVwUGV1Zjl1MFRESG1XUnZxaHRJRnJ3UGtabVJBcW0zTTVxWmlUcw?oc=5"
     },
     {
-      "outlet": "publico.bo",
+      "outlet": "Publico.bo",
       "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
       "quote": "Lo que el FMI ya dijo",
@@ -1027,12 +1059,12 @@
       "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdkhmeWtJUUkxMEw2UEFxdEV6dXdHQ3FTTDVLdXZNVkZ0dWdCc20xNU1UTzdWcDU4a2JfX3dBb3JZOThaY2prNWdJRG9TQkdnamwtWEstWGNwNmk3UXo3YzIwYTVfZzdFTXFKRGM4MnpTVFVqMnFzeGdsUktRQ2NzTVNNWi1tMEtvMGpHSjVUOU5mZzBKUUVSSmpseVdxYmJMclE?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "La libertad económica mantiene indicadores negativos en Bolivia, según un informe",
       "date": "11 de noviembre, 2024",
-      "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGpNbWlJcTJucFFUWkxlVVNwWDhkcTVCZ2RjLXpXYXRkeTJmOVpQUlROTlBVMjN4TS1TVXdWUURaeDVYeUFhQmhFX1ZQUkwyejNQWVdxal85NXZteU5JQ2FrV0ZfUFRHZnJNOUljSEF5ZzlLdnAzQ2w2MkplWmRnQ19ObUVycTRiUWVfSFZVbV9VN3RUQUo3MHE3Ml81OXZwSzJsSzNaVQ?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUtsQ01QcFRLYmRPNzB4SXE1SDQ2M1oxcjlEN19NUjRENnNrOUUzaVAtVHRKb2VKbk1HaE5JUHRGcmV1a2lrUjUyLURVQ2pjTHFhR0w1emJYZzBnM1hxRFlVUENZbUczY3NkZjA0dHFPTW92SVY3U0xYQUFiUEhvV0dWZDFXOXRvaEVCWlhhcG1IbVBubFpheHlSZnpEeHN2X1pOckhHMmJoS2EybGIwMHVhVGl5ckxHb0szeA?oc=5"
     },
     {
       "outlet": "unitel.bo",

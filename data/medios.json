@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T17:39:48.913767+00:00",
-  "total": 148,
+  "actualizado": "2026-10-09T17:15:15.453799+00:00",
+  "total": 147,
   "medios": [
     {
       "outlet": "Correo del Sur",
@@ -27,12 +27,12 @@
       "href": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEJTa0F0ajAzT3FkVHROblBEYWZENWx4eFBBc0N5Uksyd2JIc3RUZk5pQWc4TUNoczVzT0tkTFl6YWtDbUF0czAya29iajNobUE5aEc1aC1CeENRUHduRXpJay1kZFNWSXVCNndhS0ZDX0tQNXcxWGZVd0RVVG83c3IzaWdIQlhDX2pwQ3lyVVd3ODZPcWF4d25mQUdiZGt1?oc=5"
     },
     {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "outlet": "El Potosí",
+      "logo": "P",
+      "favicon": "https://www.google.com/s2/favicons?domain=elpotosi.net&sz=64",
       "quote": "Población de Bolivia crecerá hasta el 2041 y empezará a caer, según un estudio",
       "date": "27 de septiembre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkxoM0V0SXladThyNWxLTU5kbTdhTXZQNm9BYl8xT2RrVkFFOW0zd1EySlgtVTRpNjJMa0l4MlVQVGFRdUc1SS01dDRSUG1SUG9MakktTUNUTC0wYnNzLWZVT1VWM3ExSU5QT24xUzBpVmJXOExNZUp2U05RNEJDRk51X1QwZTRQSTJvVFliM2RDYVZJN3BQdjY2RDhfMWlCdFNr?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUjBBRlhzWmRTalhlalhTZmJHd0Y4UG5FTXJWZjFIV2NtWHZSTnFObXQ0QWFIYzFlYXNEcHRrVkxkc2JEbHo1bjNnVEhQU0V4MWF4c1h4bVFxdE5RSHRkRmItTUYxUjI3WFJYYXRZRGdiQTl1X01QcExEX25ZN1ZseDh1U04wUXRrSENfT01jNDNsaG1RcjlpTmlNTmJKamxqTi02SHY2Qlo5RDctd0xJR1d5akdNUUNVS0RZTFV3?oc=5"
     },
     {
       "outlet": "Prensa Mercosur",
@@ -510,14 +510,6 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Entre la motosierra y la licuadora",
-      "date": "12 de noviembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oMzQ2cGxEanVxMTNJRFA1c0pnR003SFVhZnRqVDhLQ0QxUVdzN3Z3Z09sTEluWVpUeEpzZzJNcm9qVzBhV1NOdWFOV0ZSQkd1Y1dPemVzWGhMc3ZJR2hBaENFUEZTTzJKMDk1enh2VQ?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Austeridad expansiva: Los desafíos económicos del próximo Gobierno",
       "date": "28 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzdKTmx6b0Y2MmhFVFlURDZyY3dlNHdLR1JxUjJkel9JUGVSd0d2b3J4YzZuODFCdUpiQ1dIaW9ZSTdCY0NmNlp6cGUzVUZyM2RiTW43bEExYXp1RnRERTVLOC1EdkhQUEM1SzFvdHdoVnZiQVBVbVI5ellVbXR4ZTBVSzctZU5Da29jTXhwX09RQi1CR1hscUV1R3V0UXpOR2c?oc=5"
@@ -601,6 +593,14 @@
       "quote": "El Banco Mundial prevé una contracción del -0,5% en el PIB de Bolivia",
       "date": "8 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3E3VHhyX29NWEwtQ2hJbGFNRnlOVDAwczNJQ0lOQXJlZFJyMTIyN09TRGZvdHRIMDZnb2ZNRWs1UklFWXZ0VGl2TEhFejNhRTdINE14QzZ3R2NwbERWNkZJUEVvb1lWSUQ0ZGd2bXlDcWtqZEowMXNCV2lqN2JVWnMxNWYwT1ZkNjU1S1N2SFJ0TUJHOFhsX0ZVS01uRFNtVFRHQWdWbV9KOXc?oc=5"
+    },
+    {
+      "outlet": "Brújula",
+      "logo": "B",
+      "favicon": "https://www.google.com/s2/favicons?domain=brujuladigital.net&sz=64",
+      "quote": "Las joyas de la abuela de Bolivia están empeñadas y el futuro de su economía también",
+      "date": "8 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbWdKUWFJM0hPa3EzbEY0bDg3TkluWktpOEdhdDBqcDFfY2dfa2p0X1ptZ3JsMFllVlhZUGwyc3UyeEZQc1JnVVBGVDZjTmFOdGg0N3hscnJHdWt1bEJhWW4wSDYzaWNHOVZrdkRLOHBjbzZjSVAybTRQVFZqOFBTbmpxT2xqenVPdUVhLWJ4RkE2YWEzZngzM1RxblhKYlJqTG8xYnkxbFRuNEhpUXNnWUNOTUdOZGdWTldrY29KdzhzZEo3RVJuS0RXcmZMR3lMSm40?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -947,14 +947,6 @@
       "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDlBRnpiVEVKTGYtZnNaQU93RWREQnZmSWJqeWZoUEhWaXhGVi16ejVWb1RYTGRueS1BdG5GQlhwUTV5R1VGUFd2YzMxQUR1d2tZcEJXNWFGc25pWFBlYTNyZ2ZLZzd2aE5YWnZaLUI1TXVPN1AwcVd0NEdUZnRjSFlYTTkxVGJ0WnJVQnJRNTNxWEhUNGNPZ3ZRanNWWEU?oc=5"
     },
     {
-      "outlet": "unitel.bo",
-      "logo": "U",
-      "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
-      "quote": "Economistas apuntan al financiamiento del déficit fiscal como detonante de la inflación",
-      "date": "10 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDdUZV9YdXoyMXY0bUM2MlVKZW1fblpwSXRPRUVmeTZpNWl0Z2Vha29TTHFZdG5JTnl4T2VmbTV5MHpNQ1BiRjNtNmVnVWo2cXlyOXM1QUh1RTBuR29JQ3QwMnVWbUZ1QjhfTXNaaVhxRm41bFlnc0MzLTM3NFYyN1pqZjJBX2loNFpKUFBySHdBZ2hTcTY3eW5WcnVHal9JdEp1YjJNcmNjWGlIVmlnUWlJY1RCZGdRVEdwWnR4VmlCSzl6a0tCRnJtN05Ya0U?oc=5"
-    },
-    {
       "outlet": "EL DÍA - Noticias de Bolivia para el mundo",
       "logo": "DNP",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
@@ -1126,6 +1118,14 @@
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "Mejora la ejecución presupuestaria, pero el gasto corriente gana terreno",
+      "date": "2 de abril, 2024",
+      "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkNrRHRIVmJ1RDJSLXVCMWxpUU5sOGltTHNzOF9KM0VqN1pyUS0wZm9ZaFpzUS1hajE4Vm05ZGNZTjVEbkF2N1pFbThNWnNyODl4N1JkeWpDOThOT1N3TW03bHNrMXNDaG16a1lHTHdEZzJKQ2xVc1NEekU0aDRncXp5YkRfQnNOeGZUcXBNVTc0YXA5bW5lVDIwMA?oc=5"
+    },
+    {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "Santa Cruz:, El Piraí perdió un 62,65% de bosques ribereños y el río Grande un 34,65%",
       "date": "1 de abril, 2024",
       "href": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEVLSmFra3ZOQTg4V1haTVNZZEFFMlU0RzhtUUxtd0lDN3dJQUg1R29tdGFOUnlUWHlKTFFTbVJ3VEtKZWNyYVFvcnpQSVVDUDI4UTlnaGVDNWZwMmV1b1ZWLXg2OEdwQ21sSVlqRk16cFNXZ2V4dG5CTjFhelIxbEszcmFXaVQxWk5iQ2xWaVY4TWNhVjFZ?oc=5"
@@ -1177,14 +1177,6 @@
       "quote": "Bolivia entre los tres países con menor libertad económica en Sudamérica",
       "date": "20 de septiembre, 2023",
       "href": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1Bac0JjZkpDbTlkZkgyS2NMT3ZYUkNEWEpQajExeXVRY3pEM21pSFJaWk9wWG5ZWGtiZm5jeTVUVE9GbGZ0NDk1VWQ5VUlOb2FDdzhqWnVNcFhmbnh5SHdwWWMyWVFOZjRhTXJtY0VWSFNhUVIzczNQUVJ3Z1ZXeFNKYlpaREJHN2lSd0pwMG1GamZZRTgxazdZZmM?oc=5"
-    },
-    {
-      "outlet": "El País Tarija",
-      "logo": "PT",
-      "favicon": "https://www.google.com/s2/favicons?domain=elpais.bo&sz=64",
-      "quote": "Piden a los candidatos plantear cómo enfrentar la informalidad e incentivar la exportación",
-      "date": "22 de septiembre, 2020",
-      "href": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeXV6cUdCT1B0Skt4aXVZdm1UWWJ1NlV5Nkt3QXB1VkJ4ZHZCWXIzbk5UU3BiYzh4blJCYWlBakVTR053NnJlczNhTWMyZWRRZ2EtVWlYZEt0WVY1bGRaQy04TUN1UUZRUzk5azZqUEFGNUJfZTA5eS1FSDJTLThqM3dFb0kzQ3RNS19TaUtubHhFSkEzYnhHT1ZfczFvMVFoNHhqRmZKeDVSRVJDcGJyOHpRc1BzajJtdGMwbDJISEpVa2p4aDB1RFNfWXp3dkQzbW9UQkFfTkd6TWs?oc=5"
     }
   ]
 }

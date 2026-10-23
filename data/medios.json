@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-22T15:44:49.970814+00:00",
-  "total": 150,
+  "actualizado": "2026-10-23T15:33:03.376807+00:00",
+  "total": 147,
   "medios": [
     {
       "outlet": "El Diario",
@@ -51,12 +51,12 @@
       "href": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTZwal9TMURtdkZSU3QtaG5nTmI5TVFfSlRaMnlmVmlnM25NR25KMk92UTlSY2N4eWQtREVrYUFKUGhRMmFNRTMyN29RRjNTSFVUMWtmemRnUlp6VXdvSjJHWHhKOHVpQkpuaXpMQkVWam5jcHZKX3J1STVOY2ptVUxzOTdiWm83djNGTzBJMFRQQnhTb1BEVkU5ZVBrVmR3OFJyS3lB?oc=5"
     },
     {
-      "outlet": "El Potosí",
-      "logo": "P",
-      "favicon": "https://www.google.com/s2/favicons?domain=elpotosi.net&sz=64",
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Bolivia cae al puesto 144 de 165 en el Índice de Libertad Económica 2026",
       "date": "6 de octubre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQndxbGY5aEtsd2pxd0lKbjVkNG9ITUlOcnhyVzlPNHhwUWRIRko0WWx3a3BsUmQtNV9QQ3JPRGdENmhxMGkxS3Ixbm9UYjZUU2JfYkEzQWh6THgwRXBrRWFKZlhqMndkVUxPaEtEY25hR3FuTWVGZmhldGJMbmx6cFdXV0dCWGVRejdZeWUtNVhrc2xKQU41eXZ6STVHcnRsc3ZuTWY5cXdxYzAxZnc0cEJXekFKQ3M?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzVMYXVSWDlkMjQ1SHRYWmFWSlFiZWRVQXY1bmpsd3JnYWxEZTFJNkNCRC1WRHRKdFIwUGZxbVljUVU3QTdUa05tRlBHQlRTekd0OUZRQWVvV2NEYW92QWttSlZjRlZoOEtqWWxaZ2JLMUVobnV1VmZoYTd1R2V0bGEwd0Zjald5bWk4NHA1MVpzRmdsRmNCU25Jb3d2ODd2dHhLeXd0YjlUYkZBVm1Ydy1HcDBxOUdHMDM1aQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -203,12 +203,12 @@
       "href": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZzhkalhiMkRZVFpCLVJNYTI5VUdLd3pISHBtcXdoQzliUWE2WEFjZlVsUEZxX2tZT19VQnhKRUtvX1pLMGEtWVF1UFJLYS1TbkxqLU5YLVFiTUJnc08wakdyS2ZIWFpOTEZ6MnJvc1BRZW1Sa3BITk04MWs0UFU0TURLXzM2SDhPSFM0Z0xTSFJCQnRobnBIUDNkYmlmWWZYZW51MEpWZXcxakMwNEtxRXlReWpmMHd5UWFvVE1tOVpPRFJNdjkzSTEwQlhDdDNNTnFJSk9iS2hHa0NYeDJuY1FWTXI?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "¿Fue el momento correcto? Economistas discrepan sobre el cambio flexible del dólar",
       "date": "27 de junio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0ZzS3QxcmhhU29qTEI5aVRRclduVTRnM2lxUHkzMVBzaWJjSmRtVmNKek9SLXpCaUdfcVk4cC1fdTBqbFV6VXZlb19KQk5ZTkFCS1pMWjRTbGkzdl9RLVJuSG5NbmktOENIYW9LbHNyM0hMVjBmRTN0QnNtQXhiTUFDZ0NfUnIzcnR5V1JhWG9teEpqZ0Q3eXJWM3d4dTBGNXh3?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0FwbGZTRE9HRlBOMmxLc1I4R3NCb0JZSDVOb242TDktcndmdVJhUEYzeFhVSjRJekRGZlFkM0tlb2tURkQ3M3g3aG0zWFUyR1dXak80M3NQU1FRX1BwVkJQeXI0dXo2SlFXZklRcmI1dUZoZUhrQ2UteXBmc2RZY1dvR1UxT3RDcHBkUDZlNWxFeWpLeUlvV05lYlZlaFJKU29ORWZCWQ?oc=5"
     },
     {
       "outlet": "Red Uno",
@@ -310,14 +310,6 @@
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Gobernaciones dejan baja ejecución, déficits y el reto de lograr solvencia",
-      "date": "20 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmtET1UtN3hYc01McG1wbkhyaUdkQkJTejBDeURRMWNhVmxVT3dfS3Rmem01Wm9KRFM1YmVQcnZDWEZLVlJRdEJCaGl5NEZ6X1h3Q2Q5ZXQ5T19IQjRGeXVRenM3RnFuZUlVMTRvbzVvaVJpUVdkSUc0NG1tTHVTMGUyWlBwSktxRFVnTllRbnpXbmZyQ0Q0ZGNCSlZ1V0lDQnJRZFlQYw?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "Gobernación de Santa Cruz depende del nivel central: solo el 5,4% de sus ingresos es propio, según Populi",
       "date": "18 de abril, 2026",
       "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnJ5eUN6M3VrNWgyWTdkdkFoME1hTkhQU2IxRlJoX0IwUGdEdHJCTUYyQ2FwNjBuMkV0UWF1TGJETDl6NG9RUndyTExlb0txSUN5QTdGanFKOWZnNmVneXZrenBHUzNWei1JTXNOVmd4X3AxZU40bFkyb3pVa1lLOXdOWlpVYkZoVXpjd2dHYjI0NmNBMVhhZ2pOWmNWVXZ6ZE43ZGJQTFZEazFXS1psNEMwYlVqZ2gwcENJ?oc=5"
@@ -337,22 +329,6 @@
       "quote": "FMI proyecta contracción de la economía en Bolivia en un escenario global “frágil”",
       "date": "15 de abril, 2026",
       "href": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUU5TVZldjlfYlRVLVYzdTJkZXBDZjZkU0Jfa2h2X1FOSlNjZ2MzdXR2Y1JKSnlhZV9DSENUWEM3bnhvdG45SldrM0tDamFFNndDRzhhcFRuQVNFV1JtQVlEVzNRakFnVFlVeVpHSUEySDhpVjA0aWdEb3VjTnNRYWFhZG5fTzFkVDRrX3RCYm9XdElhSXNRV1ExNlhPN3VaR0FlYno1Z3RYcm9B?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Contracción proyectada en -3,2% genera presión sobre empleo, crédito e inversión",
-      "date": "10 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnlBZE1rYnprZVJ0OERWWmVCd3o0aEhXUkxGNVhCX2dha2ZzT0JpcV91NlBHdlUwRmtQTXZIOUNYTzUxcWRna2Uwc1B0V1pwNEZOS3EyaldabGZWOFVkLWdQU0E4SmtxZ3hKamRmM281cHlWX2U4RTBRcmhCd2JfMFhPdWJfWHl3QS10OWNfWGxTYTRvZlBOaE10a3p6dmJpcHd3MS1xNTZKY2UwV2c?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Ingresos Fiscales",
-      "date": "25 de marzo, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JU3YtV29Pa2FUNS0xQzQ2MWY4cnRlN1E5SnBVeWZfeWpoYVJKbHI4MFBaWEI3aElMMXA3NXAwbFNzRGV6YWY3T0o4cWZzeko0THEwTEY0RQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -449,14 +425,6 @@
       "quote": "Los electrodomésticos van a la baja; mientras los alimentos siguen caros",
       "date": "10 de diciembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDBlQThGTlRUV3dFUnRpQko2VkQ1a2xGakNSWGRqVExsNGcyazNYb2Jla21OLU1VSEFxZzl0Nkp2QUdrYTU5eExzbHBWV3hqejVYWkkzVlFSel9ubHUwNzhKVkczamxqSjlmc2g3dlNtSjIyOUs0OVdpY1hINmdVQklna0NBZERoUVE3ZU9HVmgwRDZhM0w0ekNpbDYxVFBJN2ZDOU5IVGstazlvc1E?oc=5"
-    },
-    {
-      "outlet": "eju.tv",
-      "logo": "ET",
-      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
-      "quote": "Electrodomésticos a la baja; mientras los alimentos siguen caros, a pesar de un dólar bajo",
-      "date": "10 de diciembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOEdMWUZWUm5BSjhncTZDV3dMUUVfUE56ejE4dm0xaU9YN2JxbWtCRWtHRkIyZWpVX3hvWjQ0WUoydkg2enZsVjhQRmljd0Z4QU1TaVhiUTJWVWttSDJsVlFjcmRBM3A3ajVUWW15NjlCRlhYMFhQcEE3MmNNQWdHMXpDMFlOQ0J3MmJpM0xscjhWZklhUkZzcjlyZHhDOTNBeHYyV2NFRGY4UGZUdEhQbjdB?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -766,6 +734,14 @@
       "outlet": "eju.tv",
       "logo": "ET",
       "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "El feriado del Bicentenario será el 6 y el 7 de agosto; los industriales reclaman por la medida",
+      "date": "30 de julio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXBENVB3eWppaGtnOWFoQV9DQzFEQ3o3bFI1U2owU205RUJVODhPVEtSdWIxTmhFekRDdXAxcnBRbmMwX1RTS3F2Z0JLSU45M3JyOWN5MDkxd18xbTVsakxORV9EcmNWeUJPVktIdEd5MUVSU3RzaC1IaE1PZEZUdE5qZnh4LWVjclE3MDJodzJZTFJLYzRrQ05QOWIxTnFncndnNnZfS2pWLW1xV2t1UVZvUGs2YThteUE?oc=5"
+    },
+    {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "Gasto público imparable: calculan fin de gestión con déficit fiscal al 9% del PIB",
       "date": "30 de julio, 2025",
       "href": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejlnSG9nQ05FaENCY3JGcDJKai1PWi1jUlA0MGhoUFk3RWtNa3hCNC1HNTQ4S3lMbTNoNEdLbVRseFNQN2lBbkRfX2VDV2liQzNQSmdJRnJvbDhremRtSDNuNU5OR3RHNTlNcXkyd1U0Skl4NEFZaTR1YnNHbHFFNVhrZjUxdWttcDRFNVNBOGJiMTZfZ0R0TTQ2ZjZaU2Ezb0ZTcTR3?oc=5"
@@ -945,14 +921,6 @@
       "quote": "En Bolivia, precio de insumos de higiene personal se elevó casi el doble",
       "date": "29 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWJJZDBVemtKeWxid19MaE43d0ZwQmozR3IxNjk5TGF6ZzY2bU92ekJQaGYxdVhubTlTREVJaWR4WG9lLWJieTIzNTVTWVBzSzBpNlZ3SkRyOWtrV3hSbjV0WGJGV2lkbWZ2WGh6dXgzeUtEcU51RXgtbTFBdVRtTW9UMmlZUWFfQlItb3pSSld5TkFGTEhvQnJKZw?oc=5"
-    },
-    {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
-      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "Economistas identifican más causas de la inflación",
-      "date": "11 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDlBRnpiVEVKTGYtZnNaQU93RWREQnZmSWJqeWZoUEhWaXhGVi16ejVWb1RYTGRueS1BdG5GQlhwUTV5R1VGUFd2YzMxQUR1d2tZcEJXNWFGc25pWFBlYTNyZ2ZLZzd2aE5YWnZaLUI1TXVPN1AwcVd0NEdUZnRjSFlYTTkxVGJ0WnJVQnJRNTNxWEhUNGNPZ3ZRanNWWEU?oc=5"
     },
     {
       "outlet": "unitel.bo",
@@ -1201,6 +1169,14 @@
       "quote": "¿Qué supone para Bolivia adherir al Mercosur?",
       "date": "30 de noviembre, 2023",
       "href": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3JETm43RmhNSnFNTmtBb2RmT19zdEllLXp5aXU2QkdWS2R4YnlBWWVLN2tpam8wc3hINmxGQUR3R1NmWm44ZFdfUmhjVGNOa1Q3SU8wU2lSeDBDMVNfLXRuQWN1RldsSnUxenRPczk2UjNfNnloVWZBNnlpcHhvRUFHZmFYaTJQS0U5VnZaRzI2QXZQRGxlSw?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Presentan proyecto de ley para simplificar trámites de permisos de construcción y licencias de funcionamiento",
+      "date": "23 de septiembre, 2022",
+      "href": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMDVRZG5lcF92d2VtTXBkckVjRnVlZzQ2N25zT1pxQy1Vb1g4dkxyblRfckt1ZDF3ME01b3QzOHpvWXpuVndZRFNzdG05Z09tcmFybS1ZZnpkR2FNUW9obGJxX05QWGprNnkwWHBwT2cxRG81eEpOSmtXS2tWUzVqMDFOQVh6OTFKcHIxRDcySXhNZHB5ZzZOMXhZd0ZMMjZfbEhiTnJMcERSeTVyUTgtcmRyN3VGUXl0RzFyZ25yVjZHUk0welFGRWZCLUlQaWhrMHVKOVNTZw?oc=5"
     }
   ]
 }

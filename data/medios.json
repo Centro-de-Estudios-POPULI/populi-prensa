@@ -1,15 +1,7 @@
 {
-  "actualizado": "2026-11-02T20:35:14.794999+00:00",
-  "total": 141,
+  "actualizado": "2026-11-03T18:10:25.410277+00:00",
+  "total": 140,
   "medios": [
-    {
-      "outlet": "Nueva Presencia",
-      "logo": "NP",
-      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
-      "quote": "Etiqueta: salud Santa Cruz de la Sierra",
-      "date": "26 de octubre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yQ00ydjM1bHNWTXI2VlRsOUZ5NWoxd0hHU1JjM05NMU9ncVVXWlB3bDV0M25aZElOMy1uSTEyS1lFYlNOc3RMblZSYVJDakgzNzNQVHhXeDM2c25mMHBGZjVtclhES0hHWjhOLU1R?oc=5"
-    },
     {
       "outlet": "Nueva Presencia",
       "logo": "NP",
@@ -17,6 +9,14 @@
       "quote": "Etiqueta: Evangelio de San Mateo",
       "date": "25 de octubre, 2026",
       "href": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pb2d6VWd2eHFqQWFrS0pHaDVsWW1JUjFvQnduOUtEM0UtUEpWZUdaWm8zTmdCNzZ3dm5oZUJIU0g2bDJVaXdudWs4QkI5cHh5Z0xfVEZuaHQ1UGFXU3M2S1VVV1o?oc=5"
+    },
+    {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "Brasil: Lula busca remontar en la segunda vuelta frente a Bolsonaro",
+      "date": "22 de octubre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOckw2ZjVpMFZKYTNIc0pJZFRCTlhaaXVGY1dNSkUtMHkwT3I1eHJFeHpPYVRyOE5LaFFNWnZTX3RUa1REeTQwenlaYTZ2Z01CbmRSZFJLSll0YTgtaFJXNF8zMVNSUEQyWWtTZ1l2NzNGSmVvMDg0SzdxVnVQTkhra3M0U0lVb200Xy1ZQjdxWXZ0c3dpNjhIR01R?oc=5"
     },
     {
       "outlet": "El Diario",
@@ -46,17 +46,17 @@
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "Los subsidios frenaron la transición energética, explica economista",
+      "quote": "¿Qué necesita Bolivia para alcanzar el ritmo de crecimiento de la región?",
       "date": "12 de octubre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUpHVFV6TGJBczRmT2t0WHRWRzlobXJYVEM4ZkNyU0poSkt0OHZZQndSeU1DYmYyRjhpZklXeGJrNzgxODl4X2Z6X1k1ZXFBWmlaMXRHUThIcmZldWlha1ZSZFcxcmt1Y0FObU9GY1JuYV9RYV9NQkxMcG5oNUZieUh4bnlhMVRZN2FhemhmYUxtU01XQWp4d2NhR3RGTUxhS2xxTlY5R2U3dkJuV1RYT0piWDY?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdG95eFlaWWVIUzlqci1fTHNMTkRydTR6TnFqM29lQTF2WkdUMHlqLTVSeDByeHc5THlxWV9IeTR0NXhUM2VrU3B2dk1LUFEyQ25Mc19lZFJ0eVEzM0pGT2ktVmU2S2g1aE14NUZROXVnWng3cTI2b0JfVW51b0IxbEVDMFE5VUR5WWZEaVA0MF9uYk9XWGd6eGx5S3phdUpTNFZLcUpiNzBHSi1ycVc3cU1yR2ozTm5VTjNV?oc=5"
     },
     {
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "¿Qué necesita Bolivia para alcanzar el ritmo de crecimiento de la región?",
+      "quote": "Los subsidios frenaron la transición energética, explica economista",
       "date": "12 de octubre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdG95eFlaWWVIUzlqci1fTHNMTkRydTR6TnFqM29lQTF2WkdUMHlqLTVSeDByeHc5THlxWV9IeTR0NXhUM2VrU3B2dk1LUFEyQ25Mc19lZFJ0eVEzM0pGT2ktVmU2S2g1aE14NUZROXVnWng3cTI2b0JfVW51b0IxbEVDMFE5VUR5WWZEaVA0MF9uYk9XWGd6eGx5S3phdUpTNFZLcUpiNzBHSi1ycVc3cU1yR2ozTm5VTjNV?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUpHVFV6TGJBczRmT2t0WHRWRzlobXJYVEM4ZkNyU0poSkt0OHZZQndSeU1DYmYyRjhpZklXeGJrNzgxODl4X2Z6X1k1ZXFBWmlaMXRHUThIcmZldWlha1ZSZFcxcmt1Y0FObU9GY1JuYV9RYV9NQkxMcG5oNUZieUh4bnlhMVRZN2FhemhmYUxtU01XQWp4d2NhR3RGTUxhS2xxTlY5R2U3dkJuV1RYT0piWDY?oc=5"
     },
     {
       "outlet": "Nueva Presencia",
@@ -105,14 +105,6 @@
       "quote": "Economista: Crédito del FMI es para hacer las reformas que el país viene aplazando hace 11 años",
       "date": "10 de septiembre, 2026",
       "href": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcnJEMC1IdnZDc3VSSl9QWW5mSWlmbngwSFZycWtzMmtsdlNjYWF4dzBlNlctb3E3VG5PeE5xZkJ1X0dOYmZ0d2Z1R1pRQmktRDh1SG5MVmFuQVR0bVU2WjNhdmU2bFVSVmQxZGVPeWdoSWlfbTZkbTRzQV8wR25UWmFEUmZxbVA5TUtTYzgtNG1LdVFtb0JidUNKaXlEVXBjZmtpLVhsaElydGZqODBFYUJiaHZQaUI4emd6T0xVZFRyLUNRWXlOeVFJUmEwZ0FwZi1JcEN2bUQ?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Fin del ciclo del MAS deja a 1,9 millones de personas en pobreza extrema en el país",
-      "date": "6 de septiembre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3JRTnNRMl9KeVlHYkJTbjItRlU1UnJzVVQ0QUNYMi1uaWRUaDJJbzlDcFh1RklCalkxNVQ3Unl0TV9rc2xZQlhFcGVGVGNxc3dEVmd1SXhPNDFMUmZJVHpKU3NPVnN4cHdZdDNOQlEtRGZLOU1fUEtnNjBnWktkUnh2ZjdSTUxFRG1fa19GQ2YtUFZPLU5YSUR6N3FFR1pTWEE?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -315,6 +307,14 @@
       "href": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU1ZzMGhlWDdSV2QycmF6V3J2dUdXektUckJkYU5aLXVzR3FHYVlvcFR0Q2dmQ25aOXdZcnowREhvMldfeVpwUGtLemxfemVGZGFVTDhWdjVxOXNmTjYtc2M0SWhLTmFSZjU2STFwVXNpYVdkTGFZWjZOYXRMMHZkdVRfZjNlWHllbGxXYzZ0ZVRybGw1WWFURFh4M09Hb19tWGVFNE5FYUhZUVlDXy1KR1NxdVEwMEt4b2o0ZFBoWWxQbldEVzEyaDNURVZSNGFkbkZqTNIB2gFBVV95cUxOTi01eGtZZVNOdk0tS1VLVmgzY0hQckFEb0tsbHF5RGYyTFo3XzM0WUpFRUJVcTMwYTE5c3RtLXphTTFQbmk5eGwzWWk4LWUtUEViX1NGQ2xOT0cwQ1o4OFNxUFFzbjRGX1NsdjZfUDdMaU43MVZGVk01QjdFTlZVdXRROGkxREY4RlFiNHRyOUYxaG5XVF9zN2tiVTJ5X0VCd0VZRGk3UUpxQmFpak55QWpxWVUtdDRVN3lQOUFEM29aU3FTM0x0cWFKU2FCQkxaQUcxSzJ0Z0o2UQ?oc=5"
     },
     {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "Clima en Santa Cruz: Alerta por ráfagas de viento y cambios bruscos de temperatura esta semana",
+      "date": "20 de abril, 2026",
+      "href": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmNSdld6VVIxeFZoMnpxMjJxVzM0Nl9PY2dFZ2dyZ1dIOXdIcE4yRnlwMEZKTmdRbVFCZXk3VlhWRGRORm5ON2hYNkpRZHBydFlPRzJyLVJVV3NrUDFzSE8zMlYxMEowTXZYb0ZMZmVmbTQxdloya2ExUE00TS1yNTh1aXdqRlFFN1VNNERUXzBYdVVGWFpJVjVpVHpqUm53ZFdURXcyTXBiaUllcHo0R3NLQUtlRnN3VWVwakd3?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -403,14 +403,6 @@
       "href": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa00zdXVwcmxZYU1DZW0ySWNmeWYwdVFFM3NQd2FoeDA4d3dVZjBSYUtOS3NRUGs2alpscG5tSS01czhtRy1TRHBZM290SDhXNjdZZXZjMzFMTzdqajNzN2JiVE44U1BVbnF0TDFNbkE5ME9tUm9mMEhFZGJOLTR5M2FWb3J3dDhINlAtVGZzZWhtMHZNRHdCSktrMWgzdTFIT3ZoYXNn?oc=5"
     },
     {
-      "outlet": "Nueva Presencia",
-      "logo": "NP",
-      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
-      "quote": "Carretero del Palmar: El bolero boliviano de Horacio Rivero Égüez y Nuni Rivero estrenado por «Los Taitas del Beni",
-      "date": "30 de diciembre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1pFOVlnMFRlazAyakx4NlFoNUxHZ3F0ZlZjWVB1eWhJZ2Rsb05PZXp6c2xtN0Q5VGVLZG5zVTNYZVd0eWd6UWhaZTh0UWplaWZJMFZzX3RvTkEzSXlzT054dkFHZURId3ppWnp3WHMzYXZfaXlkR2UtdHNCa3JhbmkwdFA0V2REcFdlY3RHVGVxbkc5ZE1RWXBDcWVNb29oTXZGcWNmMjNaWkFGRXJ2S1hvWDYtUy1yc1gwMHFpdjduVkRoOWlsTEpoNHZPaTdvNlBHZlhSbw?oc=5"
-    },
-    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
@@ -481,6 +473,14 @@
       "quote": "Descentralización Fiscal: Algunas ideas para un cambio responsable",
       "date": "25 de noviembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeEJjbl91dWNNM0VCTzZmdi1XMWlYYlZjczc3dlhiLVd5TTV1djRkQm50QkpidGRaYjY1Y3NXVlRIR1VrVVBSdUV3OXpWUGNTRnhfZGJFTl90RS1TYUJtdjB0SV9WOE94OWlYR29VaEVzdVZOV0lHSjNIbWVXbngyMnFXOHVZUjdBa0lqci1zSnVDaVdxUFhlZnRxZ3gtdmM3THc?oc=5"
+    },
+    {
+      "outlet": "Nueva Presencia",
+      "logo": "NP",
+      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
+      "quote": "Nuevo derrumbe en Cal Orck’o amenaza valiosa zona de huellas de dinosaurios en Sucre",
+      "date": "21 de noviembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkVjWnVfX3FzclFqSEppX2tTVDJIblNxTXN2dVdVRDJJOXkzRlA3ek9Wd2w0WGdtWENOWE1RdWkwMnJ1dVozaE9aLVVmd0VMZVN2VlBwb05VaWdTTUk2MnM3NkkwNnFLNGo1RFRuYm11WUJkRWEwZmtVbndBTDlQVDdpLWZjRDVvcC1ROFdnYWt4M3B6aXB4ejJwR1NKVEZPZHU4a0FoUF9pUnpxbUk3cw?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -673,14 +673,6 @@
       "quote": "Balance monetario: ¿La emisión y la inflación afectaron al sistema financiero?",
       "date": "26 de agosto, 2025",
       "href": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUdzLXBKUll2WDZENDlvM0pON0RpODlKTVBJdi15bkNZSkRMS05FRFhIdnRsZ3VZMUcxU25rS2t0VzBEcVNoQXA2UkhNWTMxRDExWE5yY3BJa1ZMRzE1M1czNGhwcTAzaXA4ZXJMSGVZc3ZveEVRTnNqN1VqcXVzNzI5UV9qLS1zU0FmU29VTDVnRkFsX2tISVZyYW84ekJsb1pYMjVLWHBwZ3JsenhSQXlBWQ?oc=5"
-    },
-    {
-      "outlet": "Nueva Presencia",
-      "logo": "NP",
-      "favicon": "https://www.google.com/s2/favicons?domain=nuevapresencia.com&sz=64",
-      "quote": "Autor: Redaccion Central",
-      "date": "12 de agosto, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEcUZYUi1jMWdfOHdfR2hHdlI4cWV1SUd2Smh3RmtmRmVXa2QwTU5jUkNTRDdCUm1lUzJGXzRRa1NHQV9QeWpxWmRsZkttRS1ac1Fjbm9icFBUQ2FHQmdFejNYLWw?oc=5"
     },
     {
       "outlet": "El Deber",

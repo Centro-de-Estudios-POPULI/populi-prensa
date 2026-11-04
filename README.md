@@ -10,7 +10,10 @@ Consulta Google News y genera `data/medios.json`, que alimenta la sección
    (institución, voceros, proyectos).
 2. Filtra por relevancia (co-ocurrencia con "Populi" en consultas amplias),
    deduplica, limpia el nombre del medio y añade su favicon.
-3. Escribe `data/medios.json` (las 12 menciones más recientes).
+3. **Acumula**: suma lo nuevo a lo ya publicado en `data/medios.json` (Google
+   News devuelve un subconjunto distinto cada día) y re-aplica las reglas y
+   `bloqueados.json` a todo. Si falla más de la mitad de las consultas (Google
+   responde 503), no escribe nada y la Action termina en error.
 4. La **GitHub Action** (`.github/workflows/update_prensa.yml`) lo ejecuta a
    diario y commitea los cambios.
 
@@ -18,10 +21,13 @@ Solo usa la **librería estándar de Python** (sin dependencias).
 
 ## Curación (opcional)
 
-- `config/destacados.json` — lista de menciones manuales que se anteponen
-  (útil para TV/radio/prensa impresa que no indexa Google News).
+- `config/destacados.json` — menciones manuales (TV/radio/prensa que no indexa
+  Google News). Basta `href`, `quote`, `outlet` y `date` (`"2026-10-23"` o
+  `"23 de octubre, 2026"`); el logo y el favicon salen del dominio. Se ordenan
+  por fecha con el resto y ganan sobre la copia de Google del mismo titular.
 - `config/bloqueados.json` — lista de subcadenas; cualquier mención cuyo
-  titular, medio o URL las contenga se excluye.
+  titular o medio las contenga se excluye (la URL guardada es la de Google
+  News, así que bloquear por la URL del medio no funciona).
 
 ## Uso local
 

@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "outlet": "Visión 360",
+    "logo": "V3",
+    "favicon": "https://www.google.com/s2/favicons?domain=vision360.bo&sz=64",
+    "quote": "El Concejo de La Paz se reconfigura sin representantes de los choferes",
+    "date": "31 de marzo, 2026",
+    "href": "https://www.vision360.bo/noticias/2026/03/31/42461-el-concejo-de-la-paz-se-reconfigura-sin-representantes-de-los-choferes"
+  },
+  {
+    "outlet": "Visión 360",
+    "logo": "V3",
+    "favicon": "https://www.google.com/s2/favicons?domain=vision360.bo&sz=64",
+    "quote": "Proyección: siete fuerzas se reparten los escaños en el Concejo de La Paz y Dockweiler deberá hacer alianzas para tener gobernabilidad",
+    "date": "27 de marzo, 2026",
+    "href": "https://www.vision360.bo/noticias/2026/03/27/42259-proyeccion-siete-fuerzas-se-reparten-los-escanos-en-el-concejo-de-la-paz-y-dockweiler-debera-hacer-alianzas-para-tener-gobernabilidad"
+  },
+  {
+    "outlet": "Unitel",
+    "logo": "U",
+    "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
+    "quote": "Subida del dólar tras el tipo de cambio flexible no se aleja de la tendencia de los últimos meses, dice economista",
+    "date": "9 de julio, 2026",
+    "href": "https://unitel.bo/noticias/economia/subida-del-dolar-tras-el-tipo-de-cambio-flexible-no-se-aleja-de-la-tendencia-de-los-ultimos-meses-dice-economista-AC22020132"
+  },
+  {
+    "outlet": "eju.tv",
+    "logo": "ET",
+    "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+    "quote": "Bolivia deja atrás el tipo de cambio fijo de Bs 6,96 y entra al régimen cambiario flexible",
+    "date": "27 de junio, 2026",
+    "href": "https://eju.tv/2026/06/bolivia-deja-atras-el-tipo-de-cambio-fijo-de-bs-696-y-entra-al-regimen-cambiario-flexible/"
+  },
+  {
+    "outlet": "Asuntos Centrales",
+    "logo": "AC",
+    "favicon": "https://www.google.com/s2/favicons?domain=asuntoscentrales.com&sz=64",
+    "quote": "Aranda: contener el dólar con reservas “no es sostenible”",
+    "date": "12 de agosto, 2026",
+    "href": "https://asuntoscentrales.com/aranda-contener-el-dolar-con-reservas-no-es-sostenible/"
+  },
+  {
+    "outlet": "El Deber",
+    "logo": "D",
+    "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+    "quote": "Cara a cara",
+    "date": "9 de abril, 2025",
+    "href": "https://eldeber.com.bo/opinion/cara-cara_509819/"
+  },
+  {
+    "outlet": "El Deber",
+    "logo": "D",
+    "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+    "quote": "Santa Cruz, la región más poblada que alberga al 27% de los bolivianos",
+    "date": "30 de agosto, 2024",
+    "href": "https://eldeber.com.bo/santa-cruz/santa-cruz-la-region-mas-poblada-que-alberga-al-27-de-los-bolivianos/"
+  },
+  {
+    "outlet": "El Deber",
+    "logo": "D",
+    "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+    "quote": "PGE 2024 prevé cubrir el déficit fiscal del país con un aumento de la deuda interna",
+    "date": "20 de diciembre, 2023",
+    "href": "https://eldeber.com.bo/edicion-impresa/pge-2024-preve-cubrir-el-deficit-fiscal-del-pais-con-un-aumento-de-la-deuda-interna_351102/"
+  },
+  {
+    "outlet": "El Deber",
+    "logo": "D",
+    "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+    "quote": "Bolivia ocupa el puesto 117 entre 165 países en libertad económica",
+    "date": "19 de septiembre, 2023",
+    "href": "https://eldeber.com.bo/economia/bolivia-ocupa-el-puesto-117-entre-165-paises-en-libertad-economica_340486/"
+  },
+  {
+    "outlet": "El Deber",
+    "logo": "D",
+    "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+    "quote": "Nueva ley para abrir empresas y permisos para construir simplifica trámites y aumenta la recaudación",
+    "date": "10 de diciembre, 2022",
+    "href": "https://eldeber.com.bo/edicion-impresa/nueva-ley-para-abrir-empresas-y-permisos-para-construir-simplifica-tramites-y-aumenta-la-recaudacion_307167/"
+  }
+]

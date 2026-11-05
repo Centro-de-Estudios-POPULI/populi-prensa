@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-04T18:20:16.444604+00:00",
-  "total": 272,
+  "actualizado": "2026-11-05T18:23:46.850636+00:00",
+  "total": 274,
   "medios": [
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=play.eldeber.com.bo&sz=64",
+      "quote": "Coparticipación tributaria: ¿Cómo se reparte el dinero de los impuestos que pagan los bolivianos?",
+      "date": "4 de noviembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHhyYm9OUi1TYVlLWlhLVTMyZlJSY0xWVk4yOTZsRk5JNHM4S182bVhvbUV3S1pqQm1UWDJtSXJtRTNMUl9nN1hoc0t3NEJHNWs2THBiQ2EyTzYydVEyM2tSbmNBN3VUWUtFcC1IdkRLSzk3YXhfSHNZYWZ2RFNwYTY0elF2T1l2TWt1OVdLY0oweGdoX2tZZFlZcFZjZEw4SmJkZG9HY0lvUTg0R3A2M2t6a1M1a2tGNUkxZHdvZFZvdmtoc2xHSmRxLS1HX0piQ2FOMFdvRi1CenBRcVZaUG8xM3lVLUdDSG8ySnZxM2piTWlTalJlQlZrQm1Ba1dv?oc=5"
+    },
     {
       "outlet": "Economy",
       "logo": "E",
@@ -70,14 +78,6 @@
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "¿Qué necesita Bolivia para alcanzar el ritmo de crecimiento de la región?",
-      "date": "12 de octubre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdG95eFlaWWVIUzlqci1fTHNMTkRydTR6TnFqM29lQTF2WkdUMHlqLTVSeDByeHc5THlxWV9IeTR0NXhUM2VrU3B2dk1LUFEyQ25Mc19lZFJ0eVEzM0pGT2ktVmU2S2g1aE14NUZROXVnWng3cTI2b0JfVW51b0IxbEVDMFE5VUR5WWZEaVA0MF9uYk9XWGd6eGx5S3phdUpTNFZLcUpiNzBHSi1ycVc3cU1yR2ozTm5VTjNV?oc=5"
-    },
-    {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
-      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Los subsidios frenaron la transición energética, explica economista",
       "date": "12 de octubre, 2026",
       "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUpHVFV6TGJBczRmT2t0WHRWRzlobXJYVEM4ZkNyU0poSkt0OHZZQndSeU1DYmYyRjhpZklXeGJrNzgxODl4X2Z6X1k1ZXFBWmlaMXRHUThIcmZldWlha1ZSZFcxcmt1Y0FObU9GY1JuYV9RYV9NQkxMcG5oNUZieUh4bnlhMVRZN2FhemhmYUxtU01XQWp4d2NhR3RGTUxhS2xxTlY5R2U3dkJuV1RYT0piWDY?oc=5"
@@ -89,6 +89,14 @@
       "quote": "La prioridad para los fondos del FMI será reforzar reservas y pagar la deuda externa, sostiene economista",
       "date": "12 de octubre, 2026",
       "href": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLV9kYjdlQVJ0enJ0bDAyYWpqQmlZZS1zdjM1SmVMNVdRWVdWRldITUpmM2pnLVA0bGNudU9MMG5jdG42Z0gybWNCTGlZVUJfeU8zMUV4WE9tb1BITnVYZkpWQ1BBOVJvTHRTQXhORDRTTktXa1JIWHp3dHM2WTRvQlVCMlFHOVo5WnFHTlA5a2FXVTJMNGdjck5GNGcydTlWNG1ZQ3FkVXFlejdDQUY4NXJTcnMwd3AxQW9rMU54TDVocDd0S285T2FJNXMtZU5RSUNHbGU5QXRnd2pxSmphT3RjS0RQbG8?oc=5"
+    },
+    {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "¿Qué necesita Bolivia para alcanzar el ritmo de crecimiento de la región?",
+      "date": "12 de octubre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdG95eFlaWWVIUzlqci1fTHNMTkRydTR6TnFqM29lQTF2WkdUMHlqLTVSeDByeHc5THlxWV9IeTR0NXhUM2VrU3B2dk1LUFEyQ25Mc19lZFJ0eVEzM0pGT2ktVmU2S2g1aE14NUZROXVnWng3cTI2b0JfVW51b0IxbEVDMFE5VUR5WWZEaVA0MF9uYk9XWGd6eGx5S3phdUpTNFZLcUpiNzBHSi1ycVc3cU1yR2ozTm5VTjNV?oc=5"
     },
     {
       "outlet": "Correo del Sur",
@@ -1411,20 +1419,20 @@
       "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXBENVB3eWppaGtnOWFoQV9DQzFEQ3o3bFI1U2owU205RUJVODhPVEtSdWIxTmhFekRDdXAxcnBRbmMwX1RTS3F2Z0JLSU45M3JyOWN5MDkxd18xbTVsakxORV9EcmNWeUJPVktIdEd5MUVSU3RzaC1IaE1PZEZUdE5qZnh4LWVjclE3MDJodzJZTFJLYzRrQ05QOWIxTnFncndnNnZfS2pWLW1xV2t1UVZvUGs2YThteUE?oc=5"
     },
     {
-      "outlet": "El Día",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
-      "quote": "Revelan cifras alarmantes: Bolivia necesita $us 14 mil millones para 2025 y 2026",
-      "date": "30 de julio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQUtmVkhRN1lYeDFaemcyRVk1LU9sUWVkMzVnMGlhb3NaMGd4bk1UdXZVaTQzOFBzbEdPdFhzZ2hpWFJyaXNPT2RCaHRLQWFFVTVUS0VETHBHc1h2bk9wRXVtaEpjZ3Uwbm1ycUhfTWlwSFlZYkktX2FwUlVzUlVsbVFuNjBwOHc4ck03OGFvUzhTS181czJOX0lENGpYd3hucldHZmtGLUxxdC1tUjFMbnF2QlpJdHZ2NmF4WVF4aGRlRXM?oc=5"
-    },
-    {
       "outlet": "Noticias Fides",
       "logo": "NF",
       "favicon": "https://www.google.com/s2/favicons?domain=noticiasfides.com&sz=64",
       "quote": "¿Socialismo? ¿Comunismo? ¿Dónde? - Sección de Opinión - Agencias de Noticias Fides",
       "date": "30 de julio, 2025",
       "href": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPekJKVG1TSEdKSjdyaTZkMzRSVER5ZTFoSkZwUmk2Z1ZYQW51akNVN2thRkdrb1p0QTdjOUxybDZUZ28zSlZseGFJaFhQc1VYaUFVdC1nRmVsdFF4M1Y0aWxqM3dWcUhhZ1M5QzFDV0xQQ2Z2SW4zUGY2NWNLMXQ5bHBB?oc=5"
+    },
+    {
+      "outlet": "El Día",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
+      "quote": "Revelan cifras alarmantes: Bolivia necesita $us 14 mil millones para 2025 y 2026",
+      "date": "30 de julio, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQUtmVkhRN1lYeDFaemcyRVk1LU9sUWVkMzVnMGlhb3NaMGd4bk1UdXZVaTQzOFBzbEdPdFhzZ2hpWFJyaXNPT2RCaHRLQWFFVTVUS0VETHBHc1h2bk9wRXVtaEpjZ3Uwbm1ycUhfTWlwSFlZYkktX2FwUlVzUlVsbVFuNjBwOHc4ck03OGFvUzhTS181czJOX0lENGpYd3hucldHZmtGLUxxdC1tUjFMbnF2QlpJdHZ2NmF4WVF4aGRlRXM?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -1881,6 +1889,14 @@
       "quote": "Afirman que monopolio de BoA afecta al servicio de miles de pasajeros",
       "date": "1 de febrero, 2025",
       "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVMtbmtxUWNZalJ6VFNMNEt1dnM0ZGlrT3dueFQwYVo5T01jMG9vQlVSWmpZUVZEc29UelR6ZHVKTGFDeWNGRHVta3VRclVOemZDZGpKbm9zMklVZWZ2R01OTEo1OUt1b3F0Q3g0eHdwbEYxNXluNEEyNmQtOXpKWGJ1VWt1ZWJKdEl2VWI1MnZnR3ZYVUF5dEVnVVQyMUlncnhnc3h6eTViUQ?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "¿Por qué la libertad?",
+      "date": "19 de enero, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GSGtRLTR3VnY3UDlsTjBsUmk0NW5vaDJmaUdNN2xiQlFXQlNzeHVRSDFySGZFWUhrZVMtTzltckJSZGVmaWt4UkN0YXJWNW5GTU52bUJLVTM3MEptQU0yZGtSSmM5MmVERmc?oc=5"
     },
     {
       "outlet": "El Deber",

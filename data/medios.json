@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-05T18:23:46.850636+00:00",
-  "total": 274,
+  "actualizado": "2026-11-06T17:45:43.315493+00:00",
+  "total": 275,
   "medios": [
     {
       "outlet": "El Deber",
@@ -1739,6 +1739,14 @@
       "href": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbkFFbzZWcmJjUEtzb2tBdENQSUFpNkNOeEJTT3pVOWtLM2JpRTZzNms2dEdHR2dicC1mSEhsclc5em5mU0VyVDRxY3J1LUU4TXV1c3VrWVRkMmp1UFpkX2tya05YWjR4RGtZVjlCOWRnV1FWa18yVUVTSjlWa0UyUW1wSFNYM0ZWU2x4bXh6OXlBdWFTMkZsR0w1QWJfZTBobFFueVR5dklIeFVIQmVNb3ZHMWxMMXNCSVN5SF9lWQ?oc=5"
     },
     {
+      "outlet": "El País Tarija",
+      "logo": "PT",
+      "favicon": "https://www.google.com/s2/favicons?domain=elpais.bo&sz=64",
+      "quote": "Los 25 productos que más subieron en el último año, según Populi",
+      "date": "9 de abril, 2025",
+      "href": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHhMeDhNWnpoWDk4anRSeFg0Mlp2bmk4Mk9lVzd4SjkyXzZocTlTVGdIU0lYSUtWazhHX0t5cW83bHRVZGs0eEt3bXlyT3lNNXhpbTZIZTEzTjZMQk9IWl8yR2tsOW1WNkxDTzBTOE80cnk4MWtZSUlQeUlQd2VlWnIwRE91ZEZSNkZ6emh1LWF2MHZhYk5peWlKWHZlaGRzeVhBZA?oc=5"
+    },
+    {
       "outlet": "El Día",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
@@ -1761,14 +1769,6 @@
       "quote": "Aumento de precios esenciales en Bolivia: un estudio evidencia incrementos del 79%",
       "date": "9 de abril, 2025",
       "href": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWRaRURsV19nQjRSQktKZ0dHcXJXMGtWQmdIbG1DWDE4M3BtdjNYRjZ2aWtDY3ZPUW96bE8tNHBPam13WENpM3UxMm5xVnZjQkRpWkJaUDVtWDdaUW5LWkdPVUk4T1NCRWdGZU81dm1EQ2RZd0JOUWxsUWpvNG4zTEdldkh6TFVqV0h5S0ZERW1VQVNIYUlWZmd3R1VGS2tNM2pSQk53WHFPblBSSmZUa1VFb0I1THE2?oc=5"
-    },
-    {
-      "outlet": "El País Tarija",
-      "logo": "PT",
-      "favicon": "https://www.google.com/s2/favicons?domain=elpais.bo&sz=64",
-      "quote": "Los 25 productos que más subieron en el último año, según Populi",
-      "date": "9 de abril, 2025",
-      "href": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHhMeDhNWnpoWDk4anRSeFg0Mlp2bmk4Mk9lVzd4SjkyXzZocTlTVGdIU0lYSUtWazhHX0t5cW83bHRVZGs0eEt3bXlyT3lNNXhpbTZIZTEzTjZMQk9IWl8yR2tsOW1WNkxDTzBTOE80cnk4MWtZSUlQeUlQd2VlWnIwRE91ZEZSNkZ6emh1LWF2MHZhYk5peWlKWHZlaGRzeVhBZA?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -2097,6 +2097,14 @@
       "quote": "¿Qué supone para Bolivia adherir al Mercosur?",
       "date": "30 de noviembre, 2023",
       "href": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3JETm43RmhNSnFNTmtBb2RmT19zdEllLXp5aXU2QkdWS2R4YnlBWWVLN2tpam8wc3hINmxGQUR3R1NmWm44ZFdfUmhjVGNOa1Q3SU8wU2lSeDBDMVNfLXRuQWN1RldsSnUxenRPczk2UjNfNnloVWZBNnlpcHhvRUFHZmFYaTJQS0U5VnZaRzI2QXZQRGxlSw?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Tras el triunfo de Milei; relación con Argentina dejará lo ideológico y primarán los negocios, según analistas",
+      "date": "21 de noviembre, 2023",
+      "href": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkJkdEhjUHJ2RW5JUWJ5YkItQ25ILXlSVmdFNWZlV19nUmt6MElBSHVkMkpTSzRESUlVZDU2dzlicHFndk5YT2tZWWFpRVlsc2lGNmpmbVd2cmN6d1JjYTVYMkVlR2RwekI4bWRBdXhMTWM4VjNQOHlVVGFNUGM3R09NbHkyLVBBanNtWWpEbUtNakItdlQzbjQ4d1ZGYWFucDlncnQtdXhnang2amx4VTgzNU1XYlc1Rlg5cTJCYm5aYm9mYzg1ekhxb3hLM0h6OVVtSkwzc1F0dmp4elRkRg?oc=5"
     },
     {
       "outlet": "Bolpress",

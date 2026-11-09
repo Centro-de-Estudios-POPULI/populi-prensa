@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-08T16:52:23.187408+00:00",
-  "total": 280,
+  "actualizado": "2026-11-09T21:13:05.715265+00:00",
+  "total": 282,
   "medios": [
+    {
+      "outlet": "El Potosí",
+      "logo": "P",
+      "favicon": "https://www.google.com/s2/favicons?domain=elpotosi.net&sz=64",
+      "quote": "¿Cómo crecerá Bolivia si la población no aumenta?",
+      "date": "9 de noviembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTU5PX2tDaWVqeXJlTVl1U2Uya2FrVHQ4SWtMN0ZNc1ZmSnYtU3pWbU05R2U2QThINzFjNHo2US16U1Q2ZlB4eVdNeVJndjhmM0RZX1djNEllRXA2eUd4MVlYRlJFZVVjOVNmX2FRcElpTmxIOEN0RDRtU3FEWHZmYlptUjVYUWlXbS1IM3IzM0gyWlQ4dlE?oc=5"
+    },
     {
       "outlet": "El Deber",
       "logo": "D",
@@ -115,6 +123,14 @@
       "href": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTZwal9TMURtdkZSU3QtaG5nTmI5TVFfSlRaMnlmVmlnM25NR25KMk92UTlSY2N4eWQtREVrYUFKUGhRMmFNRTMyN29RRjNTSFVUMWtmemRnUlp6VXdvSjJHWHhKOHVpQkpuaXpMQkVWam5jcHZKX3J1STVOY2ptVUxzOTdiWm83djNGTzBJMFRQQnhTb1BEVkU5ZVBrVmR3OFJyS3lB?oc=5"
     },
     {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Opinión",
+      "date": "6 de octubre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Gd3RZYXN6Yk42bnFzRDhIdktTaXMwWDhTb2pyeDZvUDQ4aFBodGNTVlh4Ym5fMmhtVnBLMTZVT3NwS0QyVVVLUHpUbklUQQ?oc=5"
+    },
+    {
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
@@ -129,14 +145,6 @@
       "quote": "Bolivia cae 37 puestos en índice mundial de libertad económica",
       "date": "6 de octubre, 2026",
       "href": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEJTa0F0ajAzT3FkVHROblBEYWZENWx4eFBBc0N5Uksyd2JIc3RUZk5pQWc4TUNoczVzT0tkTFl6YWtDbUF0czAya29iajNobUE5aEc1aC1CeENRUHduRXpJay1kZFNWSXVCNndhS0ZDX0tQNXcxWGZVd0RVVG83c3IzaWdIQlhDX2pwQ3lyVVd3ODZPcWF4d25mQUdiZGt1?oc=5"
-    },
-    {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "Opinión",
-      "date": "6 de octubre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Gd3RZYXN6Yk42bnFzRDhIdktTaXMwWDhTb2pyeDZvUDQ4aFBodGNTVlh4Ym5fMmhtVnBLMTZVT3NwS0QyVVVLUHpUbklUQQ?oc=5"
     },
     {
       "outlet": "Público.bo",
@@ -344,7 +352,7 @@
       "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
       "quote": "Primer balance del tipo de cambio flexible: más presión sobre precios y divisas",
       "date": "31 de julio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbHpYa3NGLVl2am05dXJReGlNRWRfc3B5MmdUa2FjWldabVE5UEFodGNmVjZzcUxHS05IaWFQblBoYVU4NzlMWXJ3SGVGanBNMVVmSDIyaGJPX0tNdUdtWW1vR0swazM0S3U4dlRvQWk0NGU5SkF4MkJhR0Y4eGswSGswUkV3ajRWbTNIQUpZVXZvLUZkbWVORmg0T29QX29oY3psNEMtbklSY254UXRJU0MxVXMyRk1KbkVDYmRVVkpFSnFqbVV1dldmVzRBUkXSAdQBQVVfeXFMUHJsQmJaSEU0ZXlheFBITnV4R0p2OTl2R0Z5S0VDSEthSG16cDhhUXBIRmxIcHBtTFgxYnZOdW9ER2NzanN3VkRwVGx0ZER5dHp1LXRpQnpjNEFFVjJRR0FVcXIxcXZSbWdGOWhSU0dmU3I1LTVpNzA2N0l4dVQwSDhvaGxyMF9wUlJ2V3lILThUOXFfTDJoYlNLY0g5UnVfZDRtcUI1N2VxSTI5NmtWMjJuV0ZXVEp6X0RZOHhhMXhHMmVzUnZUbzVpekk1YV8tREUzdWU?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3JnWUdQQU9XbUY2d0FEV3lDZ3prM2RIQjJmd1VoNFZva3Z6aklVWEwzNDVLNmdIOFQwbE9HVnRBSHdIaGtKQ0ltT2Zoc1lRT0FsUDFaZVpZTV9HRjFRMXp3ZXdFV091TkVlc0p6WXU5ZmNUTlNYVlhxWGE0QWNPc2dBMDNpTWxiUGJFNmE2Wk5jNXNlWHN3eFF3UWhYaV8tbkVz?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -371,20 +379,20 @@
       "href": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3MyXzdRazEzQk0yWGZ0Yjlnb2xoV0lseE14WEF6NU9Ib1NfaHA2VkxCcHcycXp2ZkpyLXN3Wlc4QjVvVlpyWjd5eUxST0NfNHR5WC1mVHZrR0xCMkdLZGZGbU1ZRnY3TDdpWXphc1JUcU0wdzBuNjZqSkQ4bEoxY3Q3MTlibzlubXNHN1lzMllwZEJ3cDFRLUhscWhSMGViUnBUNXRtaGtOY1pvTHR4YVBHUVFnVFBDS21Pc1lnbHM?oc=5"
     },
     {
+      "outlet": "El Día",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
+      "quote": "“Los políticos también tienen que ajustarse”, Samuel teme que el crédito del FMI vaya a financiar el déficit",
+      "date": "24 de julio, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNHE4Zzl5MDBHS3ppbXpPdG9OWWUxVTJWZnp0c1ByVUkybnpnUS1NX2pNRVFHSVd2aWJOQVIyNXZvakRPUUhGMHNVWWFMRE9LOUxoMlBXMmFSSzRVYUpXT2NhalUxMDVTQkNtcTFyV2R0c1ZJSV9YSk9OLTNTUjIzMU9WQlh6SUNUZ042TTI3WUtBUzhIVkRQMVhSRm1Zb3owUUNWdk5tRVNwUno5OXk5VkVKODEzdWNJV2dGOWNDMElTR1RYYmV2NTdDT080ZlhsRG9kYjdUakVMVXZqeG85TnFvSUlWS3VWN1hv?oc=5"
+    },
+    {
       "outlet": "El Deber",
       "logo": "D",
       "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
       "quote": "El ajuste fiscal será determinante para el impacto del crédito del FMI",
       "date": "24 de julio, 2026",
       "href": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUksySm9OMGd6emEzdG56Uk8zcDcyekl5Qk1rZHdueTFBYkVkMmV3eWxveWxVM1kwUHJJRmd2eFNRN190UE1fYXpxbHJ1LXVqU091TU9NREdjeXY5dnVsVzVsM1NzVnNTSVlrODN5TEJZdmR2U19wU3hfaEFjUW1BaW9sUXFmamFFMHhKSC1LT2FFWHdI?oc=5"
-    },
-    {
-      "outlet": "Visión 360",
-      "logo": "V3",
-      "favicon": "https://www.google.com/s2/favicons?domain=vision360.bo&sz=64",
-      "quote": "“Los políticos también tienen que ajustarse”, Samuel teme que el crédito del FMI vaya a financiar el déficit",
-      "date": "24 de julio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa3huMkEwNnFMMFc1SEJlRUtMY01aWTFpZUJEbUNvZlZWanF2RjdsdFFJZHB3MFp6am1SVllLR05DZ2hwY1czeTlwOHhCZE43SkF2UGlPZjFuMUk4ZnBRdi0tRl90VFpUQXBGMGpadmdwNmpLc0lZS25iSVBtNmlYdk9DWHZEV2ZVSGo3aEVPaFZhdkd0UXRKMlBKaFQ3czJGY0RySms0VmY2N0dCVXJTOGJZVjhGZXpQSV9VeTBkWTRzSHhjel9Ed1lQVTJsX0VoUkg1MUZkMjh2Vk9qa1RmU01QTktGZ1BOWE9xVtIB8gFBVV95cUxQUmpVNExpRHJiNk5iLXJZMjhHZW9iaU5OZGkwNWJoWXRGTUdSaDVnVGctc1NOcXVob0s5NE44Y1NWam0zQzNaV2RYSktvdFM5SnNBYUEyQ0t1VU0yeFV1UV9UVUZFWGNfdXViZ3BueFo4NUdyak1GUlRBdkNDeDJfbWFBenFQX3cyVTB0dXZ6ZzJmN2FEMnRqUWFDMF9LeXdxd19vU3hyUGh1Tks5cWo2cFVwQnpEbXRiSDRNSWRTN3R1dUstZlUxbDJTdmZjb29ZN3hMSlZ3LUpMd0dyMXFfdm1pZk84RTFyUWY0cGxLVE1sQQ?oc=5"
     },
     {
       "outlet": "Correo del Sur",
@@ -1041,6 +1049,14 @@
       "quote": "Oscar M. Tomianovic",
       "date": "26 de noviembre, 2025",
       "href": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEV2tXeEhDZGhLSm9zT3dSSTdQNThfZGFzdTNDcWpQR0JWay13WWlaZTRIblN5V2VvVHJUcTVRTGJTNTNFRVJsN0FLVXgyT29ZaVp6eVNCaDI0bTQ?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Centros de Estudios Populi",
+      "date": "25 de noviembre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLQWRMOE5OUENxWnA5MzRHMWRTZ0pTODdCU19fQkw2ejlJOWlONl9ER2c2ODJkck9PVnk0S3dWZ0RvYTAwblFZaVhGX0pRVkxjOElqQmJDbmtsdWlETnVnVnNicw?oc=5"
     },
     {
       "outlet": "El Deber",

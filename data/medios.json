@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-11-21T17:50:26.585052+00:00",
-  "total": 289,
+  "actualizado": "2026-11-22T18:09:35.792230+00:00",
+  "total": 291,
   "medios": [
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "Bolivia recibió solo el 20% de los créditos por $us 3.751 millones avalados en la ALP",
+      "date": "22 de noviembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS25IMzZVYmxzNU9CT1l5TW5oODBycG1wTDNFZ3l5QXQyWGdna1FNbnRCbmFoVlNuaDZZRXlWSDdXTHdnZUxPVG1EbHdQcHA0SVFLaFBXVjV4b2tpVkk1QWE0NC0wMWVCUDBSbWRLZ2FkcTJqd2pVTG9xYy0yS2pJTmZIdDJkRVllMFdqREotWVpycWs0bG10ZDFheFVUaE5hU1dtZjFDTTNfUQ?oc=5"
+    },
+    {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "ONU: Jóvenes tienen cada vez menos hijos",
+      "date": "22 de noviembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeG1Ca1ZROGFjVnpuTG5EUFZOcnR3Q2plbnFsSERfV1FtbDhUNDByejF4M1BheHZDVnNqU1RkcjBLandWUlBGenBDYWZXbG5mYndfMjRoNWdrV1lTbGpoRFFiM3BVa3UxOV90SHF0c3AxcHBnNjBIZ183eDIxU004aVpVUDdnTmpkckpVMHU0Y20?oc=5"
+    },
     {
       "outlet": "La Razón",
       "logo": "R",
@@ -299,20 +315,20 @@
       "href": "https://asuntoscentrales.com/aranda-contener-el-dolar-con-reservas-no-es-sostenible/"
     },
     {
-      "outlet": "Economy",
-      "logo": "E",
-      "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
-      "quote": "Créditos externos impulsan la baja del dólar, según Tomianovic",
-      "date": "12 de agosto, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXBESEJiMk0xUWlqWndJR0h3dXhJSmRQSTZfRklRVnFfRHFmX3lhcVRqSmlvY3c4ZnVRTFQ5Rlg3VG1ybzJ2ZWVrd0tsNWluMmlOTk93ZlRGSFJYakR0N0tLellIeXRTSmNXQjlzMkZQLWY5cFFRRDYzR3RjSGZwUm12ekx2a3VycXVPZ0NTSHVnemIwV294b1pKd1NVWXJOQUwyRFNyWUdMOFJ6M2Q1ZktscVRjZWkwU1dF0gHAAUFVX3lxTE9ybkRMV2xBRm5ycTBKdWd5Zy1wV1VnUWpvSzR1eUx2aXBjRGVkeUxvb21uVHV4cnBfQVdHSFZ4YnFMbmZkY1pES2xzWlJnTWRjRWxpanFzU2s4X3hSZTIyT2hTM3lOa2JHWjRGWmh0ZHBOQUw1UHNDY3dua3lpWnphWlBsSFNSMnFZZXhNcjJkTzFKMnBSdUstTzY2dE04d2xGM2tRRDJISDZGZVprSDU2TTVuUUoyTVVaRWk1anhPdA?oc=5"
-    },
-    {
       "outlet": "Prensa Mercosur",
       "logo": "PM",
       "favicon": "https://www.google.com/s2/favicons?domain=prensamercosur.org&sz=64",
       "quote": "BOLIVIA: El dólar retrocede seis veces y el nuevo régimen cambiario empieza a corregir parte del fuerte salto de julio",
       "date": "12 de agosto, 2026",
       "href": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdEh6a1NTY25oQTV0ZXllZVZFa0k1S0w3alI5Rml5OWY3TmtwZUlXclA1cXFFVFJUVDFPTE5oSFdqc2hMc1JpQ1dvTGZDZVY4bUJrR2pvcndWcDRYOHlYMUxmY0JvMjdTdW91cUNlSW5pZU44T211cGd1U0VSbHpiZjRMZ1lPOHZZZkhjdnk5T3NtVVV0NVZ4WWY1cGV5aGdXYm1OTDh2V2tjQ3ZkSENjb0JzbWNZYS1ScWo5Nm1EM25VVUpHSG1VemVKYmdpcDU1MG51THNFdlZLVmlrM1pycGVRX1ZMQS1tRXM2WA?oc=5"
+    },
+    {
+      "outlet": "Economy",
+      "logo": "E",
+      "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
+      "quote": "Créditos externos impulsan la baja del dólar, según Tomianovic",
+      "date": "12 de agosto, 2026",
+      "href": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2tzUjRZQnFzazU2VWVodEhOaHJ1ay1pbEF6em5zTEdDU3FqLXNPQkRXUkozSk1MOWcydTJ5Z1E4NkkwaXdfOTBJN1F2SWlodFRLZ2NzNmlSOVU5RXVnUEFobGdjRm9tOHJzMWhrT24wQkJQRFlQd1JUTl96M3JDN1ZUUG1faDQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -379,20 +395,20 @@
       "href": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3MyXzdRazEzQk0yWGZ0Yjlnb2xoV0lseE14WEF6NU9Ib1NfaHA2VkxCcHcycXp2ZkpyLXN3Wlc4QjVvVlpyWjd5eUxST0NfNHR5WC1mVHZrR0xCMkdLZGZGbU1ZRnY3TDdpWXphc1JUcU0wdzBuNjZqSkQ4bEoxY3Q3MTlibzlubXNHN1lzMllwZEJ3cDFRLUhscWhSMGViUnBUNXRtaGtOY1pvTHR4YVBHUVFnVFBDS21Pc1lnbHM?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "El ajuste fiscal será determinante para el impacto del crédito del FMI",
-      "date": "24 de julio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUksySm9OMGd6emEzdG56Uk8zcDcyekl5Qk1rZHdueTFBYkVkMmV3eWxveWxVM1kwUHJJRmd2eFNRN190UE1fYXpxbHJ1LXVqU091TU9NREdjeXY5dnVsVzVsM1NzVnNTSVlrODN5TEJZdmR2U19wU3hfaEFjUW1BaW9sUXFmamFFMHhKSC1LT2FFWHdI?oc=5"
-    },
-    {
       "outlet": "Visión 360",
       "logo": "V3",
       "favicon": "https://www.google.com/s2/favicons?domain=vision360.bo&sz=64",
       "quote": "“Los políticos también tienen que ajustarse”, Samuel teme que el crédito del FMI vaya a financiar el déficit",
       "date": "24 de julio, 2026",
       "href": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa3huMkEwNnFMMFc1SEJlRUtMY01aWTFpZUJEbUNvZlZWanF2RjdsdFFJZHB3MFp6am1SVllLR05DZ2hwY1czeTlwOHhCZE43SkF2UGlPZjFuMUk4ZnBRdi0tRl90VFpUQXBGMGpadmdwNmpLc0lZS25iSVBtNmlYdk9DWHZEV2ZVSGo3aEVPaFZhdkd0UXRKMlBKaFQ3czJGY0RySms0VmY2N0dCVXJTOGJZVjhGZXpQSV9VeTBkWTRzSHhjel9Ed1lQVTJsX0VoUkg1MUZkMjh2Vk9qa1RmU01QTktGZ1BOWE9xVtIB8gFBVV95cUxQUmpVNExpRHJiNk5iLXJZMjhHZW9iaU5OZGkwNWJoWXRGTUdSaDVnVGctc1NOcXVob0s5NE44Y1NWam0zQzNaV2RYSktvdFM5SnNBYUEyQ0t1VU0yeFV1UV9UVUZFWGNfdXViZ3BueFo4NUdyak1GUlRBdkNDeDJfbWFBenFQX3cyVTB0dXZ6ZzJmN2FEMnRqUWFDMF9LeXdxd19vU3hyUGh1Tks5cWo2cFVwQnpEbXRiSDRNSWRTN3R1dUstZlUxbDJTdmZjb29ZN3hMSlZ3LUpMd0dyMXFfdm1pZk84RTFyUWY0cGxLVE1sQQ?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "El ajuste fiscal será determinante para el impacto del crédito del FMI",
+      "date": "24 de julio, 2026",
+      "href": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUksySm9OMGd6emEzdG56Uk8zcDcyekl5Qk1rZHdueTFBYkVkMmV3eWxveWxVM1kwUHJJRmd2eFNRN190UE1fYXpxbHJ1LXVqU091TU9NREdjeXY5dnVsVzVsM1NzVnNTSVlrODN5TEJZdmR2U19wU3hfaEFjUW1BaW9sUXFmamFFMHhKSC1LT2FFWHdI?oc=5"
     },
     {
       "outlet": "Correo del Sur",
@@ -1483,12 +1499,12 @@
       "href": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZzBvbkE1ZW9xNlZjYThqMVhRNWhWTjB0T2Zac0hoZXNnNGtyWXpEbktkOWhuYjhBVlg5dHd2cUx1MTMzS01NaXQ2dG1Fa0pqWkMwQng0X0VKWXNBNWwtNzdrNklkbTZYbkR0cDdNd0JiLW4xLXVvRF9WV0VEODY4YUs0Sk1ZdFZKMkphZmFyMkUxeldOamlJVTFSQkxYQVNycC1QbzAtSHVSYlk?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "Bolivia enfrenta la deuda externa más alta de los últimos 25 años",
       "date": "31 de julio, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTYzSndHLUt3dWtQaEM4RnlFVG9mc19GWmR4dW9IQU83MzJpeTVMdE9acE9TNFRubXcyZW1McU5nd3F5bGZfWjNSLXljc3B2b0tVek90U19YSlZ6UWV5bld0Qko1d3hFa0VvSTV2UzZIYXlZTWdjQlowRUVkQkVtQTFYcWZwZmZOWTZMcW5sQzdUU2Q0SC1sNHdPQVFGQjlBSzFwOUlFRVE?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGJWSTRLR056bnAycTlZYi0wZ3hQcmZDVVJVZ01SUTM0SFplQUxzcU5zajVpQ1NWbXM1cHluWmlFd1Bfa0lVS1dfR0VoZXlOUWUtY3FaRkRBWnJGZzA3clViRXphNjZkRDh5aUI0bHNoVmJ1OUhQR1BwQm1HTVU5UkN2S3NPSHRYRVQzRkhnMGhNQUE?oc=5"
     },
     {
       "outlet": "eju.tv",

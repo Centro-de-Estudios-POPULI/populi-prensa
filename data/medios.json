@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-23T22:19:54.891892+00:00",
-  "total": 291,
+  "actualizado": "2026-11-25T20:18:54.513945+00:00",
+  "total": 294,
   "medios": [
+    {
+      "outlet": "Diario Neuquino",
+      "logo": "DN",
+      "favicon": "https://www.google.com/s2/favicons?domain=diarioneuquino.com.ar&sz=64",
+      "quote": "Rodrigo Paz anuncia un nuevo paquete de créditos externos por 1.200 millones de dólares para Bolivia",
+      "date": "25 de noviembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaV9acjZQOXRyRmctb1A3c2RaV3JyNFcyNDFEbDdSakdIU054MlZsbXB4QVk5YWE5T2NvdW5MLUc3S0ZSOVo4M1dpUmtENWl0NGxzWWpPN0ZMY3lIV20wbWoxUnZEdG9BZVJ2Yk9LTVk5YVBQUmtzM2JmY3d4VFBUazdmT2ZOcDZsc1ltalJKVmRpVVYzQlRrREhNekRlU0lsOWJwaEJ4dERUNEt0MVMzMWxVOC05YjJNTWRBNGpUalB6OHI0bGxzekdLaw?oc=5"
+    },
     {
       "outlet": "El Deber",
       "logo": "D",
@@ -41,6 +49,14 @@
       "quote": "En el balance económico, hay más financiamiento externo, pero falta revertir la crisis",
       "date": "8 de noviembre, 2026",
       "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUTlkakR6RVpnNFpmczllRWw4bndVNVFYUWc2TzRHR0lsVldzcGo4WWpZRkpSQmhxb0FCSmtUR0xlRmdoMm1mQ1lrejJFMEMtZ1BIYjNnSDdFRFBaLWNtR19qaWtlRmFMWElXU0xzWW51RGFjdUlCS1VMQm5hOVdtRTBIa1c0dVBnRXpaR0tfejhWTFFnR0JRZDVSNzVPNF84Zk1pS0I0RTdXeFNnZ1NReUV5Z3g?oc=5"
+    },
+    {
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
+      "quote": "Tres variables pronostican un 2027 marcado por la estabilización y el ajuste",
+      "date": "8 de noviembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOODh4cnVqRXI4cHpNSTZNcU1UMEV4R3NoWlNZZVJfaVQ1YXA3cFp4RzJWLXc0N2x1MkR6ZnY0UnVyVHFObmRyV2M2cmhENDdWbTlkZlBKZDMwSHZ5UG1HMmhMaXhqQUpFdVYtMElkN05lNjNRMUdEQmZTbTNXeW5nMG04S3ZIV3hWNlV5YlZGdGZBdGZlNFl0MHdBWlpPcnNVZHc?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -118,6 +134,14 @@
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
+      "quote": "¿Qué necesita Bolivia para alcanzar el ritmo de crecimiento de la región?",
+      "date": "12 de octubre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdG95eFlaWWVIUzlqci1fTHNMTkRydTR6TnFqM29lQTF2WkdUMHlqLTVSeDByeHc5THlxWV9IeTR0NXhUM2VrU3B2dk1LUFEyQ25Mc19lZFJ0eVEzM0pGT2ktVmU2S2g1aE14NUZROXVnWng3cTI2b0JfVW51b0IxbEVDMFE5VUR5WWZEaVA0MF9uYk9XWGd6eGx5S3phdUpTNFZLcUpiNzBHSi1ycVc3cU1yR2ozTm5VTjNV?oc=5"
+    },
+    {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Los subsidios frenaron la transición energética, explica economista",
       "date": "12 de octubre, 2026",
       "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUpHVFV6TGJBczRmT2t0WHRWRzlobXJYVEM4ZkNyU0poSkt0OHZZQndSeU1DYmYyRjhpZklXeGJrNzgxODl4X2Z6X1k1ZXFBWmlaMXRHUThIcmZldWlha1ZSZFcxcmt1Y0FObU9GY1JuYV9RYV9NQkxMcG5oNUZieUh4bnlhMVRZN2FhemhmYUxtU01XQWp4d2NhR3RGTUxhS2xxTlY5R2U3dkJuV1RYT0piWDY?oc=5"
@@ -129,14 +153,6 @@
       "quote": "La prioridad para los fondos del FMI será reforzar reservas y pagar la deuda externa, sostiene economista",
       "date": "12 de octubre, 2026",
       "href": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLV9kYjdlQVJ0enJ0bDAyYWpqQmlZZS1zdjM1SmVMNVdRWVdWRldITUpmM2pnLVA0bGNudU9MMG5jdG42Z0gybWNCTGlZVUJfeU8zMUV4WE9tb1BITnVYZkpWQ1BBOVJvTHRTQXhORDRTTktXa1JIWHp3dHM2WTRvQlVCMlFHOVo5WnFHTlA5a2FXVTJMNGdjck5GNGcydTlWNG1ZQ3FkVXFlejdDQUY4NXJTcnMwd3AxQW9rMU54TDVocDd0S285T2FJNXMtZU5RSUNHbGU5QXRnd2pxSmphT3RjS0RQbG8?oc=5"
-    },
-    {
-      "outlet": "Correo del Sur",
-      "logo": "CS",
-      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "¿Qué necesita Bolivia para alcanzar el ritmo de crecimiento de la región?",
-      "date": "12 de octubre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdG95eFlaWWVIUzlqci1fTHNMTkRydTR6TnFqM29lQTF2WkdUMHlqLTVSeDByeHc5THlxWV9IeTR0NXhUM2VrU3B2dk1LUFEyQ25Mc19lZFJ0eVEzM0pGT2ktVmU2S2g1aE14NUZROXVnWng3cTI2b0JfVW51b0IxbEVDMFE5VUR5WWZEaVA0MF9uYk9XWGd6eGx5S3phdUpTNFZLcUpiNzBHSi1ycVc3cU1yR2ozTm5VTjNV?oc=5"
     },
     {
       "outlet": "Correo del Sur",
@@ -211,20 +227,20 @@
       "href": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcnJEMC1IdnZDc3VSSl9QWW5mSWlmbngwSFZycWtzMmtsdlNjYWF4dzBlNlctb3E3VG5PeE5xZkJ1X0dOYmZ0d2Z1R1pRQmktRDh1SG5MVmFuQVR0bVU2WjNhdmU2bFVSVmQxZGVPeWdoSWlfbTZkbTRzQV8wR25UWmFEUmZxbVA5TUtTYzgtNG1LdVFtb0JidUNKaXlEVXBjZmtpLVhsaElydGZqODBFYUJiaHZQaUI4emd6T0xVZFRyLUNRWXlOeVFJUmEwZ0FwZi1JcEN2bUQ?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "¿Qué pasa con sus ahorros por la nueva medida del BCB?",
-      "date": "9 de septiembre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41X2Y1WmVMNDg5Ujl5b0hnS0J6dGpib2hlZXJCOG0zeEdZQjVXRm1TcFRMR1o1UFRJWXpWbWdocEJqQnZmTE5qX1h2RkZzMFhZN1dQdVFkellIelg2UjJLbV9YWVpUWmxhdmJSLWk4ZVlFV3oyUUwyeXlDN00?oc=5"
-    },
-    {
       "outlet": "Los Tiempos",
       "logo": "T",
       "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
       "quote": "Banco Central inmoviliza el 3% de los depósitos bancarios en bolivianos por seis meses",
       "date": "9 de septiembre, 2026",
       "href": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaV9DalAwb2IweV9XeXpIZ1FqRHVtYTQ0X2g5QjhpUW9CaW1ka01KSXlPWHRXb1NwTHhQSWwyTjNLcXBiNTl5bFVIcFRDME9OaVROS1F5SzFFRWJnd3dEeWNUSDVmOVhzNzRUU1o1T3Ztem90V0JubmRsU0Njdnc2N09OMjNCSlBBdE45dHB6dFNIWjBHT3NiNmhhS0kyYi1sRU5RUjE0bjJnaDJQUFdRZGw0VDhkeGUxT2I1bDhuMWd3dw?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "¿Qué pasa con sus ahorros por la nueva medida del BCB?",
+      "date": "9 de septiembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41X2Y1WmVMNDg5Ujl5b0hnS0J6dGpib2hlZXJCOG0zeEdZQjVXRm1TcFRMR1o1UFRJWXpWbWdocEJqQnZmTE5qX1h2RkZzMFhZN1dQdVFkellIelg2UjJLbV9YWVpUWmxhdmJSLWk4ZVlFV3oyUUwyeXlDN00?oc=5"
     },
     {
       "outlet": "Público.bo",
@@ -235,20 +251,20 @@
       "href": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kbHdOSXo0ekhwcm9LZlIwUU8teFdjUGlRc0J3bFdCeURBVWtIbVg4a1ZVMjJfMnFXaGRZUUwwYU01VGdMdDZnblhMS2ljWWpFRkRaV1BGN3AtQQ?oc=5"
     },
     {
-      "outlet": "Los Tiempos",
-      "logo": "T",
-      "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
-      "quote": "BCB inmoviliza el 3% de depósitos bancarios en bolivianos por 180 días",
-      "date": "8 de septiembre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHdNY2diMTFVTU12U1ZnZ0ItLUJ2TXphZ2xXZXBRd1RxVEh3S3B1Q3Q0dnpUYVBpdG9vak1mUlNmb0VRS0hRVjQtNUdYdzR3LWxMYmg1R3ZyNVRIZFpFNHRJYTBKeVVNUWZuUnBvaFpMd25tX3V4WjVuLTh5T1U4OXRXZURPeXZ0aW5oVW9nM0prOFdOVlpwWVo3LWN2T0RqU3pXMzRqVzZUNHZkRWF1cWp3?oc=5"
-    },
-    {
       "outlet": "Unitel",
       "logo": "U",
       "favicon": "https://www.google.com/s2/favicons?domain=unitel.bo&sz=64",
       "quote": "BCB dispone la inmovilización del 3% de los depósitos bancarios en bolivianos por 180 días",
       "date": "8 de septiembre, 2026",
       "href": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVm4yaVlWVUlqb3RwRWI0dVVEWlJlVkRPRVptVjBYb2txaWdUajB5R2NVZGJ3aDNQZjlKOEllc0pCRmV0QzR6dGVfWVhLdGU1VEJGQjZ0bmFJcXdkcS04Zkc3cG1FSGFyREFwQU5ETGpHblkxem5qNTNpUHVCMkxKbkJwV0VnbzUtR1VGWHU0ajJKSmw4VDVNMmJObnNQSTNSZXFHTU1fRWgzdUJJLUxCZ0tad1JPaHdOSmFHdE54NG5JTkVsOFBvejFkNGI1b3Rtbnc?oc=5"
+    },
+    {
+      "outlet": "Los Tiempos",
+      "logo": "T",
+      "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
+      "quote": "BCB inmoviliza el 3% de depósitos bancarios en bolivianos por 180 días",
+      "date": "8 de septiembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHdNY2diMTFVTU12U1ZnZ0ItLUJ2TXphZ2xXZXBRd1RxVEh3S3B1Q3Q0dnpUYVBpdG9vak1mUlNmb0VRS0hRVjQtNUdYdzR3LWxMYmg1R3ZyNVRIZFpFNHRJYTBKeVVNUWZuUnBvaFpMd25tX3V4WjVuLTh5T1U4OXRXZURPeXZ0aW5oVW9nM0prOFdOVlpwWVo3LWN2T0RqU3pXMzRqVzZUNHZkRWF1cWp3?oc=5"
     },
     {
       "outlet": "El Día",
@@ -259,12 +275,12 @@
       "href": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRW5mUWQ5eUJWOHdwaEtvVFY4X1g1MUtnUllreUY2YWtGbWpjdHltWXMwbXhuS01heGx3SXNoTGtIdVJ0dV8zaUdiNk1fdWthT1cwWmE3YTc2ZE8zeU9zMHdWT3RSc3ZMWUhJZFhBSDY2RGd3ZzBMRTRCdjVGQ0Vsa0pZUmR5RXBjOERQYTljWUFXQzdtU2FEVjBTQlowcDVaTnkwQldlN1dmdXRadlhzSl83R041Ynhibml0Z19Bb1NDeWY0NWhVOFo0WVZGWF9zVGFsSWVKblI?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "Fin del ciclo del MAS deja a 1,9 millones de personas en pobreza extrema en el país",
       "date": "6 de septiembre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3JRTnNRMl9KeVlHYkJTbjItRlU1UnJzVVQ0QUNYMi1uaWRUaDJJbzlDcFh1RklCalkxNVQ3Unl0TV9rc2xZQlhFcGVGVGNxc3dEVmd1SXhPNDFMUmZJVHpKU3NPVnN4cHdZdDNOQlEtRGZLOU1fUEtnNjBnWktkUnh2ZjdSTUxFRG1fa19GQ2YtUFZPLU5YSUR6N3FFR1pTWEE?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzk1YTVJVGhmeXFiQVZoSUxoNTBRZ0FOeVhtY2FqUUtSSzdENjFERk5rekY5T05FQWp0U3oydlNfSldDSTJPdHo1aHlQWDgta0NaOThmOGxWM0xpUm5jRDgyOVIwQkFCelV0SGJnNzA2WHJvd3FsbE9vRG9sSW9oazAwMnZCaDBCdkdZcGU2QXZIbGVndWFSU3UtS0R4S3g2bHdiUGw1OC1aQQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -328,7 +344,7 @@
       "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
       "quote": "Créditos externos impulsan la baja del dólar, según Tomianovic",
       "date": "12 de agosto, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXBESEJiMk0xUWlqWndJR0h3dXhJSmRQSTZfRklRVnFfRHFmX3lhcVRqSmlvY3c4ZnVRTFQ5Rlg3VG1ybzJ2ZWVrd0tsNWluMmlOTk93ZlRGSFJYakR0N0tLellIeXRTSmNXQjlzMkZQLWY5cFFRRDYzR3RjSGZwUm12ekx2a3VycXVPZ0NTSHVnemIwV294b1pKd1NVWXJOQUwyRFNyWUdMOFJ6M2Q1ZktscVRjZWkwU1dF0gHAAUFVX3lxTE9ybkRMV2xBRm5ycTBKdWd5Zy1wV1VnUWpvSzR1eUx2aXBjRGVkeUxvb21uVHV4cnBfQVdHSFZ4YnFMbmZkY1pES2xzWlJnTWRjRWxpanFzU2s4X3hSZTIyT2hTM3lOa2JHWjRGWmh0ZHBOQUw1UHNDY3dua3lpWnphWlBsSFNSMnFZZXhNcjJkTzFKMnBSdUstTzY2dE04d2xGM2tRRDJISDZGZVprSDU2TTVuUUoyTVVaRWk1anhPdA?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2tzUjRZQnFzazU2VWVodEhOaHJ1ay1pbEF6em5zTEdDU3FqLXNPQkRXUkozSk1MOWcydTJ5Z1E4NkkwaXdfOTBJN1F2SWlodFRLZ2NzNmlSOVU5RXVnUEFobGdjRm9tOHJzMWhrT24wQkJQRFlQd1JUTl96M3JDN1ZUUG1faDQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -395,12 +411,12 @@
       "href": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3MyXzdRazEzQk0yWGZ0Yjlnb2xoV0lseE14WEF6NU9Ib1NfaHA2VkxCcHcycXp2ZkpyLXN3Wlc4QjVvVlpyWjd5eUxST0NfNHR5WC1mVHZrR0xCMkdLZGZGbU1ZRnY3TDdpWXphc1JUcU0wdzBuNjZqSkQ4bEoxY3Q3MTlibzlubXNHN1lzMllwZEJ3cDFRLUhscWhSMGViUnBUNXRtaGtOY1pvTHR4YVBHUVFnVFBDS21Pc1lnbHM?oc=5"
     },
     {
-      "outlet": "Visión 360",
-      "logo": "V3",
-      "favicon": "https://www.google.com/s2/favicons?domain=vision360.bo&sz=64",
+      "outlet": "El Día",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldia.com.bo&sz=64",
       "quote": "“Los políticos también tienen que ajustarse”, Samuel teme que el crédito del FMI vaya a financiar el déficit",
       "date": "24 de julio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa3huMkEwNnFMMFc1SEJlRUtMY01aWTFpZUJEbUNvZlZWanF2RjdsdFFJZHB3MFp6am1SVllLR05DZ2hwY1czeTlwOHhCZE43SkF2UGlPZjFuMUk4ZnBRdi0tRl90VFpUQXBGMGpadmdwNmpLc0lZS25iSVBtNmlYdk9DWHZEV2ZVSGo3aEVPaFZhdkd0UXRKMlBKaFQ3czJGY0RySms0VmY2N0dCVXJTOGJZVjhGZXpQSV9VeTBkWTRzSHhjel9Ed1lQVTJsX0VoUkg1MUZkMjh2Vk9qa1RmU01QTktGZ1BOWE9xVtIB8gFBVV95cUxQUmpVNExpRHJiNk5iLXJZMjhHZW9iaU5OZGkwNWJoWXRGTUdSaDVnVGctc1NOcXVob0s5NE44Y1NWam0zQzNaV2RYSktvdFM5SnNBYUEyQ0t1VU0yeFV1UV9UVUZFWGNfdXViZ3BueFo4NUdyak1GUlRBdkNDeDJfbWFBenFQX3cyVTB0dXZ6ZzJmN2FEMnRqUWFDMF9LeXdxd19vU3hyUGh1Tks5cWo2cFVwQnpEbXRiSDRNSWRTN3R1dUstZlUxbDJTdmZjb29ZN3hMSlZ3LUpMd0dyMXFfdm1pZk84RTFyUWY0cGxLVE1sQQ?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON2xha3BNMUpwT0JTbE5QaERlSzk5dVI2UFl4ZktRUU56a1Vlck5WOE1ONU9zZkMwRGg5RXVXeFlkQW5kZlhZV1ktWE51c1hzTUh3Z012WnFYU1VwZi1aNXdkYWZOeURHcjdZWjVMaVFmSVNyVGNKb0pwWk1PRnpiekJ2NkM0Y2VHTVhfNThCcUIwemlKZ1hqUG93MHhadlREN3ZkVjd0bUdyMWMzSDVmR1ctTWFLVFV0Z09PdkFJMk5HREJ6NG80OUk1VjlMN21KVHF3YmNmNm9DNURKOXRqZkMzalRHZw?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -486,9 +502,17 @@
       "outlet": "El Potosí",
       "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=elpotosi.net&sz=64",
+      "quote": "Bolivia pone fin al 6,96 y rige desde este lunes el tipo de cambio flexible",
+      "date": "28 de junio, 2026",
+      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeklUSm5sLXNBdk1xM2NRdmxhcHJ2U3hLaV83Zk90LW90Yk5GUEZ3ZmZzQkRPMy05TmFqZ2VDQ2pXejlIOEdrOXR1MVkyN3pGZUkyemtZOXVKMExCQU5SX1RpdWFhbnVQNnVXbVBuSkJGZ2p2aUJScUpqM3JZYVQ0TFh0cUpMZl9TSUp0RndPeWZCQlppckEwLXVIUURGTnplaHJiZjFRbllTWm1Ic0h3ZWEyODhNUUZNM3FB?oc=5"
+    },
+    {
+      "outlet": "Correo del Sur",
+      "logo": "CS",
+      "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
       "quote": "Economistas: Tipo de cambio flexible no resuelve escasez de dólares",
       "date": "28 de junio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR1QyV3BFOV82blp3bUpxUmR6R1ktZEl3RkdQbUVPbUdpZEJiWXByNlBrWW1nN1g2VVh2Ym42WVRocXB3dVVrdUIxVlNTek9MQ25lLWdlbWdrZDZjTDVxaFRSaEdXcHltQ2VzWEdIbmlJblFIQkFRTVlBYVNGTEJ4bEdkcFFuQTF4Snktdk53VWNGZnJULVRkUVRndTdVVGJUSXVIakEya3lEaWx3ZUpJ?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbXdzcXFQcnQ2Q0xIT1JWeDVsRlZ5OUs3TGpURUhrTXNSOFZfSGJVRHlQLTZTRFpVa3ZGMTJUcnRSdHZIY2Rmem1vLTYxREQ3N0ctUlRXSEpvNFhfRmh5eVpkdmVSNVh0RWRNLUNqM2hGWjFoemM2TFlBd2VIM0JQTGp3WlI4SjA3R3cycGtKU3BvNDI2cXBBV0xJWk5DcUtEbndfMWtLbVJtRUlHUFlLM0JwT0o?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -758,17 +782,17 @@
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "Advierten a electos que el 50-50 traerá responsabilidades",
+      "quote": "Bolivia tendrá este año la economía más débil de la región, según el BM",
       "date": "9 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3hrMUVLT1I2a3hfWG5KRHBUVTNqdnU4Qzc5YTZOTjh1OVdTT0xYc1QyN2NFT3o2Q0ZWdVVRVGRDa1hoTzBwSGl0cWg0UlU5ZUlyTGRlek1ENmpqVFhrN01kY0RqTFJCZnQyb0dmUXZCYVV6NUgzaS1TenVFcGthbXJEcGtSc3RIRW1EMmg1SUJiRzc1cHBaZ2JPWUhPVWZJMHJVYTZYLUQ?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0h0RzF6TWpRa2tyc25RSXpWU3BjTGVPTGpyN2k5OXdjSG1XOXBjSmV3UVpPR0daY1pEN3BOZEE0cXhTRXkwZzhsR1UxNmZTZzlJWk81OW1HNFdJUS1CdDhKUkpKbERNeVpKQXRqa3hYdU1ndEc0bVlUM09mWUJyM0ZBWW9zNFhwRHFpek1XVnI5ZmxYcURwMHZhSnMwWUhjSmdxTVQzYlNaSGJMY2RON0ZiV3g0Q1hfSWc?oc=5"
     },
     {
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "Bolivia tendrá este año la economía más débil de la región, según el BM",
+      "quote": "Advierten a electos que el 50-50 traerá responsabilidades",
       "date": "9 de abril, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0h0RzF6TWpRa2tyc25RSXpWU3BjTGVPTGpyN2k5OXdjSG1XOXBjSmV3UVpPR0daY1pEN3BOZEE0cXhTRXkwZzhsR1UxNmZTZzlJWk81OW1HNFdJUS1CdDhKUkpKbERNeVpKQXRqa3hYdU1ndEc0bVlUM09mWUJyM0ZBWW9zNFhwRHFpek1XVnI5ZmxYcURwMHZhSnMwWUhjSmdxTVQzYlNaSGJMY2RON0ZiV3g0Q1hfSWc?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3hrMUVLT1I2a3hfWG5KRHBUVTNqdnU4Qzc5YTZOTjh1OVdTT0xYc1QyN2NFT3o2Q0ZWdVVRVGRDa1hoTzBwSGl0cWg0UlU5ZUlyTGRlek1ENmpqVFhrN01kY0RqTFJCZnQyb0dmUXZCYVV6NUgzaS1TenVFcGthbXJEcGtSc3RIRW1EMmg1SUJiRzc1cHBaZ2JPWUhPVWZJMHJVYTZYLUQ?oc=5"
     },
     {
       "outlet": "Unitel",
@@ -1235,20 +1259,20 @@
       "href": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGdqWGtwemNhTWFsMFZJUjlHUXN2TGlJdDR2YkhybnhrY1NWQWJxd3J5RUtYZ0RTUWRwT0VJbjNZanFwd0JRdy1KQzJkYzVxelBJVkVTVHFuOXNMbnV1QXNjNVExMGp4Y2FlRXJOdzZfREVqTjRDQlBfLU0zMHlqenRYY1ZjNURVWUtsbA?oc=5"
     },
     {
-      "outlet": "Economy",
-      "logo": "E",
-      "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
-      "quote": "El dilema de cerrar o transformar las empresas públicas",
-      "date": "14 de octubre, 2025",
-      "href": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5WHNSWlR4ek9NVDY3dE5qbkNHTXMtU1VidVNDeUp0VjNLSm9qdldhZlJUdkEtQ1RIc2Y2eVFVZzdLcUk0M1RDSVpNNWU4Mkt6Zk9VeU9qMnl0anFhcU1wdkJoOA?oc=5"
-    },
-    {
       "outlet": "Público.bo",
       "logo": "P",
       "favicon": "https://www.google.com/s2/favicons?domain=publico.bo&sz=64",
       "quote": "¿Cuánto importa la libertad y la tolerancia? Sobre el Nobel de Economía 2025",
       "date": "14 de octubre, 2025",
       "href": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTFLTHlXS1pPOF8xMzFQQV9ZUE4zY0MzbFNuWTR2Z0N3NFdUV21PWldXbzExekQ2MkR1bzFRSWJ4U0hmMVJpRWdhUXJQeWZBVGtkdUhlLXVablhja0VlMy1kTUU2Wkh5aGpBdERhbmJhWnloY1hMaGJpWTVybHA4QjRqUWRlWk1ldG40NHdCeDQ0NWhjUjhxQW92R0lNenpDTno0VA?oc=5"
+    },
+    {
+      "outlet": "Economy",
+      "logo": "E",
+      "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
+      "quote": "El dilema de cerrar o transformar las empresas públicas",
+      "date": "14 de octubre, 2025",
+      "href": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5WHNSWlR4ek9NVDY3dE5qbkNHTXMtU1VidVNDeUp0VjNLSm9qdldhZlJUdkEtQ1RIc2Y2eVFVZzdLcUk0M1RDSVpNNWU4Mkt6Zk9VeU9qMnl0anFhcU1wdkJoOA?oc=5"
     },
     {
       "outlet": "Correo del Sur",

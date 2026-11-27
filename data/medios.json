@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-11-26T19:55:44.543281+00:00",
-  "total": 294,
+  "actualizado": "2026-11-27T19:44:44.211209+00:00",
+  "total": 295,
   "medios": [
+    {
+      "outlet": "NewsDigitales",
+      "logo": "N",
+      "favicon": "https://www.google.com/s2/favicons?domain=newsdigitales.com&sz=64",
+      "quote": "Un policía federal, acusado de proteger a una organización que traficaba cocaína desde Bolivia",
+      "date": "27 de noviembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXFCM3BhblBiSldyMXVnTDdlUmdVSk9VMmMtT1E3TjRrczZvbFpBR0dnS1VBLUVnOEtwdTBLc0ZDbkhSTzBtdGlmV2dpNURiUGZJT25ZMWQ0WjNSdzZwc3duUkdYdWl0RlVNakxrM0x6NUY4a2hvUGxqWFdwVDNfVkl5MkdkMmlwbEVEUUlmQnluU2gyVkJEeWpLWUxXc2txcU5QcXpNajhKUExCOTVLZVdVdktzcFNySXZNSTR6S2doVmEycjd1OE5WQ0dOUld0QnpnbjJ0VDE2UQ?oc=5"
+    },
     {
       "outlet": "Diario Neuquino",
       "logo": "DN",
@@ -134,17 +142,17 @@
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "¿Qué necesita Bolivia para alcanzar el ritmo de crecimiento de la región?",
+      "quote": "Los subsidios frenaron la transición energética, explica economista",
       "date": "12 de octubre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdG95eFlaWWVIUzlqci1fTHNMTkRydTR6TnFqM29lQTF2WkdUMHlqLTVSeDByeHc5THlxWV9IeTR0NXhUM2VrU3B2dk1LUFEyQ25Mc19lZFJ0eVEzM0pGT2ktVmU2S2g1aE14NUZROXVnWng3cTI2b0JfVW51b0IxbEVDMFE5VUR5WWZEaVA0MF9uYk9XWGd6eGx5S3phdUpTNFZLcUpiNzBHSi1ycVc3cU1yR2ozTm5VTjNV?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUpHVFV6TGJBczRmT2t0WHRWRzlobXJYVEM4ZkNyU0poSkt0OHZZQndSeU1DYmYyRjhpZklXeGJrNzgxODl4X2Z6X1k1ZXFBWmlaMXRHUThIcmZldWlha1ZSZFcxcmt1Y0FObU9GY1JuYV9RYV9NQkxMcG5oNUZieUh4bnlhMVRZN2FhemhmYUxtU01XQWp4d2NhR3RGTUxhS2xxTlY5R2U3dkJuV1RYT0piWDY?oc=5"
     },
     {
       "outlet": "Correo del Sur",
       "logo": "CS",
       "favicon": "https://www.google.com/s2/favicons?domain=correodelsur.com&sz=64",
-      "quote": "Los subsidios frenaron la transición energética, explica economista",
+      "quote": "¿Qué necesita Bolivia para alcanzar el ritmo de crecimiento de la región?",
       "date": "12 de octubre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUpHVFV6TGJBczRmT2t0WHRWRzlobXJYVEM4ZkNyU0poSkt0OHZZQndSeU1DYmYyRjhpZklXeGJrNzgxODl4X2Z6X1k1ZXFBWmlaMXRHUThIcmZldWlha1ZSZFcxcmt1Y0FObU9GY1JuYV9RYV9NQkxMcG5oNUZieUh4bnlhMVRZN2FhemhmYUxtU01XQWp4d2NhR3RGTUxhS2xxTlY5R2U3dkJuV1RYT0piWDY?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdG95eFlaWWVIUzlqci1fTHNMTkRydTR6TnFqM29lQTF2WkdUMHlqLTVSeDByeHc5THlxWV9IeTR0NXhUM2VrU3B2dk1LUFEyQ25Mc19lZFJ0eVEzM0pGT2ktVmU2S2g1aE14NUZROXVnWng3cTI2b0JfVW51b0IxbEVDMFE5VUR5WWZEaVA0MF9uYk9XWGd6eGx5S3phdUpTNFZLcUpiNzBHSi1ycVc3cU1yR2ozTm5VTjNV?oc=5"
     },
     {
       "outlet": "Correo del Sur",
@@ -227,20 +235,20 @@
       "href": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcnJEMC1IdnZDc3VSSl9QWW5mSWlmbngwSFZycWtzMmtsdlNjYWF4dzBlNlctb3E3VG5PeE5xZkJ1X0dOYmZ0d2Z1R1pRQmktRDh1SG5MVmFuQVR0bVU2WjNhdmU2bFVSVmQxZGVPeWdoSWlfbTZkbTRzQV8wR25UWmFEUmZxbVA5TUtTYzgtNG1LdVFtb0JidUNKaXlEVXBjZmtpLVhsaElydGZqODBFYUJiaHZQaUI4emd6T0xVZFRyLUNRWXlOeVFJUmEwZ0FwZi1JcEN2bUQ?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
-      "quote": "¿Qué pasa con sus ahorros por la nueva medida del BCB?",
-      "date": "9 de septiembre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41X2Y1WmVMNDg5Ujl5b0hnS0J6dGpib2hlZXJCOG0zeEdZQjVXRm1TcFRMR1o1UFRJWXpWbWdocEJqQnZmTE5qX1h2RkZzMFhZN1dQdVFkellIelg2UjJLbV9YWVpUWmxhdmJSLWk4ZVlFV3oyUUwyeXlDN00?oc=5"
-    },
-    {
       "outlet": "Los Tiempos",
       "logo": "T",
       "favicon": "https://www.google.com/s2/favicons?domain=lostiempos.com&sz=64",
       "quote": "Banco Central inmoviliza el 3% de los depósitos bancarios en bolivianos por seis meses",
       "date": "9 de septiembre, 2026",
       "href": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaV9DalAwb2IweV9XeXpIZ1FqRHVtYTQ0X2g5QjhpUW9CaW1ka01KSXlPWHRXb1NwTHhQSWwyTjNLcXBiNTl5bFVIcFRDME9OaVROS1F5SzFFRWJnd3dEeWNUSDVmOVhzNzRUU1o1T3Ztem90V0JubmRsU0Njdnc2N09OMjNCSlBBdE45dHB6dFNIWjBHT3NiNmhhS0kyYi1sRU5RUjE0bjJnaDJQUFdRZGw0VDhkeGUxT2I1bDhuMWd3dw?oc=5"
+    },
+    {
+      "outlet": "El Deber",
+      "logo": "D",
+      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "quote": "¿Qué pasa con sus ahorros por la nueva medida del BCB?",
+      "date": "9 de septiembre, 2026",
+      "href": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41X2Y1WmVMNDg5Ujl5b0hnS0J6dGpib2hlZXJCOG0zeEdZQjVXRm1TcFRMR1o1UFRJWXpWbWdocEJqQnZmTE5qX1h2RkZzMFhZN1dQdVFkellIelg2UjJLbV9YWVpUWmxhdmJSLWk4ZVlFV3oyUUwyeXlDN00?oc=5"
     },
     {
       "outlet": "Público.bo",
@@ -275,12 +283,12 @@
       "href": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRW5mUWQ5eUJWOHdwaEtvVFY4X1g1MUtnUllreUY2YWtGbWpjdHltWXMwbXhuS01heGx3SXNoTGtIdVJ0dV8zaUdiNk1fdWthT1cwWmE3YTc2ZE8zeU9zMHdWT3RSc3ZMWUhJZFhBSDY2RGd3ZzBMRTRCdjVGQ0Vsa0pZUmR5RXBjOERQYTljWUFXQzdtU2FEVjBTQlowcDVaTnkwQldlN1dmdXRadlhzSl83R041Ynhibml0Z19Bb1NDeWY0NWhVOFo0WVZGWF9zVGFsSWVKblI?oc=5"
     },
     {
-      "outlet": "El Deber",
-      "logo": "D",
-      "favicon": "https://www.google.com/s2/favicons?domain=eldeber.com.bo&sz=64",
+      "outlet": "eju.tv",
+      "logo": "ET",
+      "favicon": "https://www.google.com/s2/favicons?domain=eju.tv&sz=64",
       "quote": "Fin del ciclo del MAS deja a 1,9 millones de personas en pobreza extrema en el país",
       "date": "6 de septiembre, 2026",
-      "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3JRTnNRMl9KeVlHYkJTbjItRlU1UnJzVVQ0QUNYMi1uaWRUaDJJbzlDcFh1RklCalkxNVQ3Unl0TV9rc2xZQlhFcGVGVGNxc3dEVmd1SXhPNDFMUmZJVHpKU3NPVnN4cHdZdDNOQlEtRGZLOU1fUEtnNjBnWktkUnh2ZjdSTUxFRG1fa19GQ2YtUFZPLU5YSUR6N3FFR1pTWEE?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTzk1YTVJVGhmeXFiQVZoSUxoNTBRZ0FOeVhtY2FqUUtSSzdENjFERk5rekY5T05FQWp0U3oydlNfSldDSTJPdHo1aHlQWDgta0NaOThmOGxWM0xpUm5jRDgyOVIwQkFCelV0SGJnNzA2WHJvd3FsbE9vRG9sSW9oazAwMnZCaDBCdkdZcGU2QXZIbGVndWFSU3UtS0R4S3g2bHdiUGw1OC1aQQ?oc=5"
     },
     {
       "outlet": "El Deber",
@@ -488,7 +496,7 @@
       "favicon": "https://www.google.com/s2/favicons?domain=economy.com.bo&sz=64",
       "quote": "Analista: Bolivia ya no produce suficiente gas para recuperar su mercado exportador",
       "date": "7 de julio, 2026",
-      "href": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZGJkWm9EMGdlYU9jZzM3d3c3NFVEbDJ4d2FoTXhIcWI4eHlwelhDbXBvaWNTa2pPV09qS3RORE1sREd4YkwtODFBNWRoRmVBRjQ4TkZvMGQ5TDdManlZYldSNUNHcWRPNEF0emxqUnRMQWNlUnNjdkc5b29iSGVqNmdDQW52R29YRUFCNlZtcXpLc0I2dmpnbGpTbGlWcUpZODBJZGdfRWxIUDFIVXBOZXBJSDY2RWtKSHRERHF2N1dJOE9mT25HbXUycGtBZzTSAc8BQVVfeXFMTmRiZFpvRDBnZWFPY2czN3d3NzRVRGwyeHdhaE14SHFiOHh5cHpYQ21wb2ljU2tqT1dPakt0TkRNbERHeGJMLTgxQTVkaEZlQUY0OE5GbzBkOUw3TGp5WWJXUjVDR3FkTzRBdHpsalJ0TEFjZVJzY3ZHOW9vYkhlajZnQ0FudkdvWEVBQjZWbXF6S3NCNnZqZ2xqU2xpVnFKWTgwSWRnX0VsSFAxSFVwTmVwSUg2NkVrSkh0RERxdjdXSThPZk9uR211MnBrQWc0?oc=5"
+      "href": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEU1cUJBZGxoUVlaUzloREJROXBpeHAydTh0a2pVajhxSzU1bHJBMjAyTm5rVFo4eDduUVoyNU5PcnQ1b01OdU5yZnJWd0FmNmtlcFJQRGhTZjg4d0lKeWtvSXdLaFVaVGh1V3RaY212Y04yTFVyamVjUnE2S2JuT3pXamt1bllXSXZLVFQ1YVJIZExwZEFvNjJJbHJFVHo2NUE?oc=5"
     },
     {
       "outlet": "Economy",
